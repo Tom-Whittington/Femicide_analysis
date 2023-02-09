@@ -1,0 +1,3323 @@
+region,subregion,country,iso3_code,year,femicide_per_100k
+Asia,Southern Asia,Afghanistan,AFG,2015,0.56
+Asia,Southern Asia,Afghanistan,AFG,2016,0.59
+Asia,Southern Asia,Afghanistan,AFG,2017,0.75
+Asia,Southern Asia,Afghanistan,AFG,2018,0.85
+Europe,Southern Europe,Albania,ALB,1992,0.87
+Europe,Southern Europe,Albania,ALB,1993,1.0
+Europe,Southern Europe,Albania,ALB,1994,0.75
+Europe,Southern Europe,Albania,ALB,1995,1.65
+Europe,Southern Europe,Albania,ALB,1996,1.78
+Europe,Southern Europe,Albania,ALB,1997,11.33
+Europe,Southern Europe,Albania,ALB,1998,5.59
+Europe,Southern Europe,Albania,ALB,1999,4.19
+Europe,Southern Europe,Albania,ALB,2000,0.84
+Europe,Southern Europe,Albania,ALB,2001,2.53
+Europe,Southern Europe,Albania,ALB,2002,2.53
+Europe,Southern Europe,Albania,ALB,2003,1.36
+Europe,Southern Europe,Albania,ALB,2004,1.23
+Europe,Southern Europe,Albania,ALB,2005,1.37
+Europe,Southern Europe,Albania,ALB,2005,0.46
+Europe,Southern Europe,Albania,ALB,2006,1.51
+Europe,Southern Europe,Albania,ALB,2006,0.92
+Europe,Southern Europe,Albania,ALB,2007,1.59
+Europe,Southern Europe,Albania,ALB,2007,0.53
+Europe,Southern Europe,Albania,ALB,2008,1.27
+Europe,Southern Europe,Albania,ALB,2008,0.33
+Europe,Southern Europe,Albania,ALB,2009,0.47
+Europe,Southern Europe,Albania,ALB,2009,0.47
+Europe,Southern Europe,Albania,ALB,2010,1.3
+Europe,Southern Europe,Albania,ALB,2010,1.03
+Europe,Southern Europe,Albania,ALB,2011,1.53
+Europe,Southern Europe,Albania,ALB,2011,1.1
+Europe,Southern Europe,Albania,ALB,2012,1.81
+Europe,Southern Europe,Albania,ALB,2012,0.97
+Europe,Southern Europe,Albania,ALB,2013,1.68
+Europe,Southern Europe,Albania,ALB,2013,1.19
+Europe,Southern Europe,Albania,ALB,2014,0.91
+Europe,Southern Europe,Albania,ALB,2014,0.7
+Europe,Southern Europe,Albania,ALB,2015,0.7
+Europe,Southern Europe,Albania,ALB,2015,0.63
+Europe,Southern Europe,Albania,ALB,2015,1.13
+Europe,Southern Europe,Albania,ALB,2016,0.57
+Europe,Southern Europe,Albania,ALB,2016,1.06
+Europe,Southern Europe,Albania,ALB,2016,1.2
+Europe,Southern Europe,Albania,ALB,2017,0.35
+Europe,Southern Europe,Albania,ALB,2017,0.78
+Europe,Southern Europe,Albania,ALB,2017,0.92
+Europe,Southern Europe,Albania,ALB,2018,0.28
+Europe,Southern Europe,Albania,ALB,2018,1.06
+Europe,Southern Europe,Albania,ALB,2019,0.85
+Europe,Southern Europe,Albania,ALB,2019,0.92
+Europe,Southern Europe,Albania,ALB,2020,0.64
+Africa,Northern Africa,Algeria,DZA,2012,0.28
+Africa,Northern Africa,Algeria,DZA,2013,0.21
+Africa,Northern Africa,Algeria,DZA,2013,0.07
+Africa,Northern Africa,Algeria,DZA,2014,0.44
+Africa,Northern Africa,Algeria,DZA,2014,0.31
+Africa,Northern Africa,Algeria,DZA,2014,0.09
+Africa,Northern Africa,Algeria,DZA,2015,0.37
+Africa,Northern Africa,Algeria,DZA,2015,0.11
+Africa,Northern Africa,Algeria,DZA,2015,0.05
+Africa,Northern Africa,Algeria,DZA,2019,0.43
+Africa,Northern Africa,Algeria,DZA,2020,0.38
+Americas,Latin America and the Caribbean,Antigua and Barbuda,ATG,1990,3.1
+Americas,Latin America and the Caribbean,Antigua and Barbuda,ATG,1991,6.12
+Americas,Latin America and the Caribbean,Antigua and Barbuda,ATG,1992,3.0
+Americas,Latin America and the Caribbean,Antigua and Barbuda,ATG,1993,0.0
+Americas,Latin America and the Caribbean,Antigua and Barbuda,ATG,1994,2.86
+Americas,Latin America and the Caribbean,Antigua and Barbuda,ATG,1995,5.57
+Americas,Latin America and the Caribbean,Antigua and Barbuda,ATG,1996,2.72
+Americas,Latin America and the Caribbean,Antigua and Barbuda,ATG,1997,0.0
+Americas,Latin America and the Caribbean,Antigua and Barbuda,ATG,2001,1.9
+Americas,Latin America and the Caribbean,Antigua and Barbuda,ATG,2002,3.02
+Americas,Latin America and the Caribbean,Antigua and Barbuda,ATG,2008,11.19
+Americas,Latin America and the Caribbean,Antigua and Barbuda,ATG,2015,2.06
+Americas,Latin America and the Caribbean,Antigua and Barbuda,ATG,2016,4.08
+Americas,Latin America and the Caribbean,Antigua and Barbuda,ATG,2017,4.05
+Americas,Latin America and the Caribbean,Antigua and Barbuda,ATG,2017,2.02
+Americas,Latin America and the Caribbean,Antigua and Barbuda,ATG,2018,6.02
+Americas,Latin America and the Caribbean,Antigua and Barbuda,ATG,2018,2.01
+Americas,Latin America and the Caribbean,Antigua and Barbuda,ATG,2019,0.0
+Americas,Latin America and the Caribbean,Antigua and Barbuda,ATG,2019,1.99
+Americas,Latin America and the Caribbean,Argentina,ARG,2015,1.75
+Americas,Latin America and the Caribbean,Argentina,ARG,2015,0.77
+Americas,Latin America and the Caribbean,Argentina,ARG,2015,0.54
+Americas,Latin America and the Caribbean,Argentina,ARG,2017,0.67
+Americas,Latin America and the Caribbean,Argentina,ARG,2017,0.97
+Americas,Latin America and the Caribbean,Argentina,ARG,2017,1.81
+Americas,Latin America and the Caribbean,Argentina,ARG,2018,0.67
+Americas,Latin America and the Caribbean,Argentina,ARG,2018,1.76
+Americas,Latin America and the Caribbean,Argentina,ARG,2018,1.01
+Americas,Latin America and the Caribbean,Argentina,ARG,2019,0.78
+Americas,Latin America and the Caribbean,Argentina,ARG,2019,1.78
+Americas,Latin America and the Caribbean,Argentina,ARG,2019,1.01
+Asia,Western Asia,Armenia,ARM,1990,1.25
+Asia,Western Asia,Armenia,ARM,1991,1.64
+Asia,Western Asia,Armenia,ARM,1993,3.08
+Asia,Western Asia,Armenia,ARM,1994,1.43
+Asia,Western Asia,Armenia,ARM,1995,1.13
+Asia,Western Asia,Armenia,ARM,1996,1.38
+Asia,Western Asia,Armenia,ARM,1997,1.31
+Asia,Western Asia,Armenia,ARM,1998,0.94
+Asia,Western Asia,Armenia,ARM,1999,1.18
+Asia,Western Asia,Armenia,ARM,2000,1.59
+Asia,Western Asia,Armenia,ARM,2001,1.14
+Asia,Western Asia,Armenia,ARM,2002,1.22
+Asia,Western Asia,Armenia,ARM,2003,0.68
+Asia,Western Asia,Armenia,ARM,2004,1.38
+Asia,Western Asia,Armenia,ARM,2005,0.7
+Asia,Western Asia,Armenia,ARM,2005,0.13
+Asia,Western Asia,Armenia,ARM,2006,1.66
+Asia,Western Asia,Armenia,ARM,2006,0.13
+Asia,Western Asia,Armenia,ARM,2007,0.84
+Asia,Western Asia,Armenia,ARM,2007,0.06
+Asia,Western Asia,Armenia,ARM,2008,1.71
+Asia,Western Asia,Armenia,ARM,2008,0.0
+Asia,Western Asia,Armenia,ARM,2009,1.63
+Asia,Western Asia,Armenia,ARM,2009,0.07
+Asia,Western Asia,Armenia,ARM,2010,0.65
+Asia,Western Asia,Armenia,ARM,2010,0.13
+Asia,Western Asia,Armenia,ARM,2010,0.07
+Asia,Western Asia,Armenia,ARM,2011,1.24
+Asia,Western Asia,Armenia,ARM,2011,0.0
+Asia,Western Asia,Armenia,ARM,2011,0.0
+Asia,Western Asia,Armenia,ARM,2012,1.24
+Asia,Western Asia,Armenia,ARM,2012,0.13
+Asia,Western Asia,Armenia,ARM,2012,0.07
+Asia,Western Asia,Armenia,ARM,2013,1.24
+Asia,Western Asia,Armenia,ARM,2013,0.07
+Asia,Western Asia,Armenia,ARM,2013,0.07
+Asia,Western Asia,Armenia,ARM,2014,1.29
+Asia,Western Asia,Armenia,ARM,2014,0.26
+Asia,Western Asia,Armenia,ARM,2014,0.19
+Asia,Western Asia,Armenia,ARM,2015,1.35
+Asia,Western Asia,Armenia,ARM,2015,0.19
+Asia,Western Asia,Armenia,ARM,2015,0.19
+Asia,Western Asia,Armenia,ARM,2016,0.9
+Asia,Western Asia,Armenia,ARM,2017,0.71
+Asia,Western Asia,Armenia,ARM,2018,0.7
+Asia,Western Asia,Armenia,ARM,2019,0.64
+Asia,Western Asia,Armenia,ARM,2020,0.0
+Asia,Western Asia,Armenia,ARM,2020,0.0
+Asia,Western Asia,Armenia,ARM,2020,1.02
+Americas,Latin America and the Caribbean,Aruba,ABW,1990,0.0
+Americas,Latin America and the Caribbean,Aruba,ABW,1995,0.0
+Americas,Latin America and the Caribbean,Aruba,ABW,1999,2.18
+Americas,Latin America and the Caribbean,Aruba,ABW,2001,4.15
+Americas,Latin America and the Caribbean,Aruba,ABW,2002,2.02
+Americas,Latin America and the Caribbean,Aruba,ABW,2003,1.97
+Americas,Latin America and the Caribbean,Aruba,ABW,2004,0.0
+Americas,Latin America and the Caribbean,Aruba,ABW,2005,1.91
+Americas,Latin America and the Caribbean,Aruba,ABW,2006,1.89
+Americas,Latin America and the Caribbean,Aruba,ABW,2007,0.0
+Americas,Latin America and the Caribbean,Aruba,ABW,2008,1.88
+Americas,Latin America and the Caribbean,Aruba,ABW,2009,1.88
+Americas,Latin America and the Caribbean,Aruba,ABW,2010,0.0
+Americas,Latin America and the Caribbean,Aruba,ABW,2011,0.0
+Americas,Latin America and the Caribbean,Aruba,ABW,2012,1.86
+Americas,Latin America and the Caribbean,Aruba,ABW,2013,1.85
+Americas,Latin America and the Caribbean,Aruba,ABW,2014,0.0
+Oceania,Australia and New Zealand,Australia,AUS,1990,1.62
+Oceania,Australia and New Zealand,Australia,AUS,1991,1.66
+Oceania,Australia and New Zealand,Australia,AUS,1992,1.34
+Oceania,Australia and New Zealand,Australia,AUS,1993,1.34
+Oceania,Australia and New Zealand,Australia,AUS,1994,1.28
+Oceania,Australia and New Zealand,Australia,AUS,1995,1.55
+Oceania,Australia and New Zealand,Australia,AUS,1996,1.24
+Oceania,Australia and New Zealand,Australia,AUS,1997,1.32
+Oceania,Australia and New Zealand,Australia,AUS,1998,1.14
+Oceania,Australia and New Zealand,Australia,AUS,1999,1.31
+Oceania,Australia and New Zealand,Australia,AUS,2000,1.43
+Oceania,Australia and New Zealand,Australia,AUS,2001,1.21
+Oceania,Australia and New Zealand,Australia,AUS,2002,1.25
+Oceania,Australia and New Zealand,Australia,AUS,2003,0.98
+Oceania,Australia and New Zealand,Australia,AUS,2004,0.93
+Oceania,Australia and New Zealand,Australia,AUS,2005,0.69
+Oceania,Australia and New Zealand,Australia,AUS,2005,0.93
+Oceania,Australia and New Zealand,Australia,AUS,2006,0.74
+Oceania,Australia and New Zealand,Australia,AUS,2006,0.9
+Oceania,Australia and New Zealand,Australia,AUS,2007,0.68
+Oceania,Australia and New Zealand,Australia,AUS,2007,0.82
+Oceania,Australia and New Zealand,Australia,AUS,2008,0.69
+Oceania,Australia and New Zealand,Australia,AUS,2008,0.95
+Oceania,Australia and New Zealand,Australia,AUS,2009,0.51
+Oceania,Australia and New Zealand,Australia,AUS,2009,0.7
+Oceania,Australia and New Zealand,Australia,AUS,2010,0.85
+Oceania,Australia and New Zealand,Australia,AUS,2011,0.8
+Oceania,Australia and New Zealand,Australia,AUS,2012,0.72
+Oceania,Australia and New Zealand,Australia,AUS,2013,0.81
+Oceania,Australia and New Zealand,Australia,AUS,2014,0.79
+Oceania,Australia and New Zealand,Australia,AUS,2014,0.5
+Oceania,Australia and New Zealand,Australia,AUS,2015,0.52
+Oceania,Australia and New Zealand,Australia,AUS,2015,0.7
+Oceania,Australia and New Zealand,Australia,AUS,2016,0.66
+Oceania,Australia and New Zealand,Australia,AUS,2016,0.43
+Oceania,Australia and New Zealand,Australia,AUS,2017,0.51
+Oceania,Australia and New Zealand,Australia,AUS,2017,0.33
+Oceania,Australia and New Zealand,Australia,AUS,2018,0.67
+Oceania,Australia and New Zealand,Australia,AUS,2018,0.43
+Oceania,Australia and New Zealand,Australia,AUS,2019,0.54
+Oceania,Australia and New Zealand,Australia,AUS,2019,0.39
+Oceania,Australia and New Zealand,Australia,AUS,2019,0.28
+Oceania,Australia and New Zealand,Australia,AUS,2020,0.58
+Oceania,Australia and New Zealand,Australia,AUS,2020,0.41
+Europe,Western Europe,Austria,AUT,1990,0.99
+Europe,Western Europe,Austria,AUT,1991,1.16
+Europe,Western Europe,Austria,AUT,1992,1.05
+Europe,Western Europe,Austria,AUT,1993,0.85
+Europe,Western Europe,Austria,AUT,1994,1.27
+Europe,Western Europe,Austria,AUT,1995,0.92
+Europe,Western Europe,Austria,AUT,1996,1.22
+Europe,Western Europe,Austria,AUT,1997,0.9
+Europe,Western Europe,Austria,AUT,1998,0.82
+Europe,Western Europe,Austria,AUT,1999,0.77
+Europe,Western Europe,Austria,AUT,2000,1.29
+Europe,Western Europe,Austria,AUT,2001,1.0
+Europe,Western Europe,Austria,AUT,2002,0.9
+Europe,Western Europe,Austria,AUT,2003,0.56
+Europe,Western Europe,Austria,AUT,2004,0.76
+Europe,Western Europe,Austria,AUT,2005,0.92
+Europe,Western Europe,Austria,AUT,2005,0.57
+Europe,Western Europe,Austria,AUT,2006,0.66
+Europe,Western Europe,Austria,AUT,2006,0.68
+Europe,Western Europe,Austria,AUT,2007,0.45
+Europe,Western Europe,Austria,AUT,2007,0.57
+Europe,Western Europe,Austria,AUT,2008,0.42
+Europe,Western Europe,Austria,AUT,2008,0.68
+Europe,Western Europe,Austria,AUT,2009,0.61
+Europe,Western Europe,Austria,AUT,2009,0.66
+Europe,Western Europe,Austria,AUT,2010,0.7
+Europe,Western Europe,Austria,AUT,2010,0.56
+Europe,Western Europe,Austria,AUT,2011,0.81
+Europe,Western Europe,Austria,AUT,2011,0.81
+Europe,Western Europe,Austria,AUT,2012,0.87
+Europe,Western Europe,Austria,AUT,2012,0.6
+Europe,Western Europe,Austria,AUT,2013,0.69
+Europe,Western Europe,Austria,AUT,2013,0.5
+Europe,Western Europe,Austria,AUT,2014,0.52
+Europe,Western Europe,Austria,AUT,2014,0.36
+Europe,Western Europe,Austria,AUT,2015,0.38
+Europe,Western Europe,Austria,AUT,2015,0.32
+Europe,Western Europe,Austria,AUT,2016,0.7
+Europe,Western Europe,Austria,AUT,2016,0.52
+Europe,Western Europe,Austria,AUT,2017,0.82
+Europe,Western Europe,Austria,AUT,2017,0.65
+Europe,Western Europe,Austria,AUT,2018,0.97
+Europe,Western Europe,Austria,AUT,2018,0.69
+Europe,Western Europe,Austria,AUT,2019,0.46
+Europe,Western Europe,Austria,AUT,2019,0.88
+Europe,Western Europe,Austria,AUT,2020,0.59
+Europe,Western Europe,Austria,AUT,2020,0.81
+Asia,Western Asia,Azerbaijan,AZE,2010,1.36
+Asia,Western Asia,Azerbaijan,AZE,2010,0.37
+Asia,Western Asia,Azerbaijan,AZE,2012,1.24
+Asia,Western Asia,Azerbaijan,AZE,2012,0.13
+Asia,Western Asia,Azerbaijan,AZE,2012,0.09
+Asia,Western Asia,Azerbaijan,AZE,2013,1.48
+Asia,Western Asia,Azerbaijan,AZE,2013,0.0
+Asia,Western Asia,Azerbaijan,AZE,2014,1.82
+Asia,Western Asia,Azerbaijan,AZE,2015,1.51
+Asia,Western Asia,Azerbaijan,AZE,2016,1.8
+Asia,Western Asia,Azerbaijan,AZE,2017,1.56
+Asia,Western Asia,Azerbaijan,AZE,2017,0.79
+Asia,Western Asia,Azerbaijan,AZE,2018,1.32
+Asia,Western Asia,Azerbaijan,AZE,2018,0.76
+Asia,Western Asia,Azerbaijan,AZE,2019,0.62
+Asia,Western Asia,Azerbaijan,AZE,2019,1.21
+Asia,Western Asia,Azerbaijan,AZE,2020,1.56
+Asia,Western Asia,Azerbaijan,AZE,2020,0.77
+Americas,Latin America and the Caribbean,Bahamas,BHS,1993,4.39
+Americas,Latin America and the Caribbean,Bahamas,BHS,1994,4.0
+Americas,Latin America and the Caribbean,Bahamas,BHS,1995,4.7
+Americas,Latin America and the Caribbean,Bahamas,BHS,1996,5.18
+Americas,Latin America and the Caribbean,Bahamas,BHS,1997,4.69
+Americas,Latin America and the Caribbean,Bahamas,BHS,2000,10.76
+Americas,Latin America and the Caribbean,Bahamas,BHS,2001,3.32
+Americas,Latin America and the Caribbean,Bahamas,BHS,2002,7.74
+Americas,Latin America and the Caribbean,Bahamas,BHS,2003,3.73
+Americas,Latin America and the Caribbean,Bahamas,BHS,2004,1.22
+Americas,Latin America and the Caribbean,Bahamas,BHS,2005,4.79
+Americas,Latin America and the Caribbean,Bahamas,BHS,2005,2.39
+Americas,Latin America and the Caribbean,Bahamas,BHS,2006,2.94
+Americas,Latin America and the Caribbean,Bahamas,BHS,2006,1.17
+Americas,Latin America and the Caribbean,Bahamas,BHS,2007,4.61
+Americas,Latin America and the Caribbean,Bahamas,BHS,2007,1.73
+Americas,Latin America and the Caribbean,Bahamas,BHS,2008,3.95
+Americas,Latin America and the Caribbean,Bahamas,BHS,2008,1.13
+Americas,Latin America and the Caribbean,Bahamas,BHS,2009,5.55
+Americas,Latin America and the Caribbean,Bahamas,BHS,2009,1.11
+Americas,Latin America and the Caribbean,Bahamas,BHS,2010,7.65
+Americas,Latin America and the Caribbean,Bahamas,BHS,2010,3.83
+Americas,Latin America and the Caribbean,Bahamas,BHS,2011,8.63
+Americas,Latin America and the Caribbean,Bahamas,BHS,2011,1.62
+Americas,Latin America and the Caribbean,Bahamas,BHS,2012,5.34
+Americas,Latin America and the Caribbean,Bahamas,BHS,2012,0.0
+Americas,Latin America and the Caribbean,Bahamas,BHS,2012,3.2
+Americas,Latin America and the Caribbean,Bahamas,BHS,2014,5.76
+Americas,Latin America and the Caribbean,Bahamas,BHS,2014,1.57
+Americas,Latin America and the Caribbean,Bahamas,BHS,2014,1.57
+Americas,Latin America and the Caribbean,Bahamas,BHS,2015,8.31
+Americas,Latin America and the Caribbean,Bahamas,BHS,2015,4.15
+Americas,Latin America and the Caribbean,Bahamas,BHS,2015,2.08
+Americas,Latin America and the Caribbean,Bahamas,BHS,2016,0.51
+Americas,Latin America and the Caribbean,Bahamas,BHS,2016,3.6
+Americas,Latin America and the Caribbean,Bahamas,BHS,2016,0.0
+Americas,Latin America and the Caribbean,Bahamas,BHS,2017,0.51
+Americas,Latin America and the Caribbean,Bahamas,BHS,2017,1.53
+Americas,Latin America and the Caribbean,Bahamas,BHS,2017,3.06
+Americas,Latin America and the Caribbean,Bahamas,BHS,2018,1.01
+Americas,Latin America and the Caribbean,Bahamas,BHS,2018,0.0
+Americas,Latin America and the Caribbean,Bahamas,BHS,2018,1.51
+Americas,Latin America and the Caribbean,Bahamas,BHS,2019,2.5
+Americas,Latin America and the Caribbean,Bahamas,BHS,2019,2.5
+Americas,Latin America and the Caribbean,Bahamas,BHS,2019,3.0
+Americas,Latin America and the Caribbean,Bahamas,BHS,2020,5.44
+Americas,Latin America and the Caribbean,Bahamas,BHS,2020,0.99
+Asia,Western Asia,Bahrain,BHR,2010,0.21
+Asia,Western Asia,Bahrain,BHR,2011,0.0
+Asia,Western Asia,Bahrain,BHR,2012,0.2
+Asia,Western Asia,Bahrain,BHR,2013,0.4
+Asia,Western Asia,Bahrain,BHR,2014,0.0
+Asia,Western Asia,Bahrain,BHR,2015,0.0
+Asia,Western Asia,Bahrain,BHR,2016,0.56
+Asia,Western Asia,Bahrain,BHR,2017,0.18
+Asia,Western Asia,Bahrain,BHR,2018,0.0
+Asia,Western Asia,Bahrain,BHR,2019,0.0
+Americas,Latin America and the Caribbean,Barbados,BRB,1990,8.12
+Americas,Latin America and the Caribbean,Barbados,BRB,1991,6.63
+Americas,Latin America and the Caribbean,Barbados,BRB,1992,2.93
+Americas,Latin America and the Caribbean,Barbados,BRB,1993,3.65
+Americas,Latin America and the Caribbean,Barbados,BRB,1994,4.37
+Americas,Latin America and the Caribbean,Barbados,BRB,1995,3.62
+Americas,Latin America and the Caribbean,Barbados,BRB,2000,3.54
+Americas,Latin America and the Caribbean,Barbados,BRB,2001,3.15
+Americas,Latin America and the Caribbean,Barbados,BRB,2002,5.28
+Americas,Latin America and the Caribbean,Barbados,BRB,2003,7.71
+Americas,Latin America and the Caribbean,Barbados,BRB,2004,0.61
+Americas,Latin America and the Caribbean,Barbados,BRB,2005,6.37
+Americas,Latin America and the Caribbean,Barbados,BRB,2006,1.05
+Americas,Latin America and the Caribbean,Barbados,BRB,2007,4.14
+Americas,Latin America and the Caribbean,Barbados,BRB,2007,1.38
+Americas,Latin America and the Caribbean,Barbados,BRB,2007,1.38
+Americas,Latin America and the Caribbean,Barbados,BRB,2008,2.75
+Americas,Latin America and the Caribbean,Barbados,BRB,2008,0.69
+Americas,Latin America and the Caribbean,Barbados,BRB,2008,0.69
+Americas,Latin America and the Caribbean,Barbados,BRB,2009,2.05
+Americas,Latin America and the Caribbean,Barbados,BRB,2009,0.68
+Americas,Latin America and the Caribbean,Barbados,BRB,2009,0.68
+Americas,Latin America and the Caribbean,Barbados,BRB,2010,5.45
+Americas,Latin America and the Caribbean,Barbados,BRB,2010,1.36
+Americas,Latin America and the Caribbean,Barbados,BRB,2010,1.36
+Americas,Latin America and the Caribbean,Barbados,BRB,2011,1.36
+Americas,Latin America and the Caribbean,Barbados,BRB,2011,0.68
+Americas,Latin America and the Caribbean,Barbados,BRB,2011,0.68
+Americas,Latin America and the Caribbean,Barbados,BRB,2012,1.36
+Americas,Latin America and the Caribbean,Barbados,BRB,2012,1.36
+Americas,Latin America and the Caribbean,Barbados,BRB,2012,1.36
+Americas,Latin America and the Caribbean,Barbados,BRB,2013,4.74
+Americas,Latin America and the Caribbean,Barbados,BRB,2013,4.07
+Americas,Latin America and the Caribbean,Barbados,BRB,2013,4.07
+Americas,Latin America and the Caribbean,Barbados,BRB,2014,2.03
+Americas,Latin America and the Caribbean,Barbados,BRB,2014,1.35
+Americas,Latin America and the Caribbean,Barbados,BRB,2014,1.35
+Americas,Latin America and the Caribbean,Barbados,BRB,2015,2.03
+Americas,Latin America and the Caribbean,Barbados,BRB,2015,0.0
+Americas,Latin America and the Caribbean,Barbados,BRB,2015,0.0
+Americas,Latin America and the Caribbean,Barbados,BRB,2016,1.35
+Americas,Latin America and the Caribbean,Barbados,BRB,2016,0.0
+Americas,Latin America and the Caribbean,Barbados,BRB,2017,0.0
+Americas,Latin America and the Caribbean,Barbados,BRB,2017,1.35
+Americas,Latin America and the Caribbean,Barbados,BRB,2017,0.0
+Americas,Latin America and the Caribbean,Barbados,BRB,2018,1.35
+Americas,Latin America and the Caribbean,Barbados,BRB,2018,1.35
+Americas,Latin America and the Caribbean,Barbados,BRB,2018,2.7
+Americas,Latin America and the Caribbean,Barbados,BRB,2019,3.37
+Americas,Latin America and the Caribbean,Barbados,BRB,2019,0.67
+Europe,Eastern Europe,Belarus,BLR,2007,4.37
+Europe,Eastern Europe,Belarus,BLR,2008,3.62
+Europe,Eastern Europe,Belarus,BLR,2009,3.92
+Europe,Eastern Europe,Belarus,BLR,2010,2.7
+Europe,Eastern Europe,Belarus,BLR,2011,2.32
+Europe,Eastern Europe,Belarus,BLR,2011,0.83
+Europe,Eastern Europe,Belarus,BLR,2011,0.32
+Europe,Eastern Europe,Belarus,BLR,2012,2.5
+Europe,Eastern Europe,Belarus,BLR,2012,0.73
+Europe,Eastern Europe,Belarus,BLR,2012,0.22
+Europe,Eastern Europe,Belarus,BLR,2013,2.04
+Europe,Eastern Europe,Belarus,BLR,2013,0.63
+Europe,Eastern Europe,Belarus,BLR,2013,0.28
+Europe,Eastern Europe,Belarus,BLR,2014,2.3
+Europe,Eastern Europe,Belarus,BLR,2014,0.63
+Europe,Eastern Europe,Belarus,BLR,2014,0.3
+Europe,Eastern Europe,Belarus,BLR,2015,2.3
+Europe,Eastern Europe,Belarus,BLR,2015,1.09
+Europe,Eastern Europe,Belarus,BLR,2015,0.61
+Europe,Eastern Europe,Belarus,BLR,2016,2.1
+Europe,Eastern Europe,Belarus,BLR,2016,0.65
+Europe,Eastern Europe,Belarus,BLR,2016,0.28
+Europe,Eastern Europe,Belarus,BLR,2017,1.86
+Europe,Eastern Europe,Belarus,BLR,2017,0.83
+Europe,Eastern Europe,Belarus,BLR,2017,0.32
+Europe,Eastern Europe,Belarus,BLR,2018,1.66
+Europe,Eastern Europe,Belarus,BLR,2018,0.63
+Europe,Eastern Europe,Belarus,BLR,2018,0.28
+Europe,Eastern Europe,Belarus,BLR,2019,0.61
+Europe,Eastern Europe,Belarus,BLR,2019,0.24
+Europe,Eastern Europe,Belarus,BLR,2019,1.72
+Europe,Western Europe,Belgium,BEL,2000,1.59
+Europe,Western Europe,Belgium,BEL,2001,1.95
+Europe,Western Europe,Belgium,BEL,2002,2.5
+Europe,Western Europe,Belgium,BEL,2003,1.77
+Europe,Western Europe,Belgium,BEL,2004,2.37
+Europe,Western Europe,Belgium,BEL,2005,1.72
+Europe,Western Europe,Belgium,BEL,2006,1.62
+Europe,Western Europe,Belgium,BEL,2007,1.6
+Europe,Western Europe,Belgium,BEL,2008,1.3
+Europe,Western Europe,Belgium,BEL,2009,1.38
+Europe,Western Europe,Belgium,BEL,2010,1.25
+Europe,Western Europe,Belgium,BEL,2011,1.65
+Europe,Western Europe,Belgium,BEL,2012,1.37
+Europe,Western Europe,Belgium,BEL,2013,1.74
+Europe,Western Europe,Belgium,BEL,2014,1.42
+Americas,Latin America and the Caribbean,Belize,BLZ,2004,10.19
+Americas,Latin America and the Caribbean,Belize,BLZ,2009,5.73
+Americas,Latin America and the Caribbean,Belize,BLZ,2010,10.01
+Americas,Latin America and the Caribbean,Belize,BLZ,2011,7.27
+Americas,Latin America and the Caribbean,Belize,BLZ,2012,8.28
+Americas,Latin America and the Caribbean,Belize,BLZ,2013,5.78
+Americas,Latin America and the Caribbean,Belize,BLZ,2014,6.78
+Americas,Latin America and the Caribbean,Belize,BLZ,2014,1.13
+Americas,Latin America and the Caribbean,Belize,BLZ,2014,1.13
+Americas,Latin America and the Caribbean,Belize,BLZ,2015,4.98
+Americas,Latin America and the Caribbean,Belize,BLZ,2015,2.21
+Americas,Latin America and the Caribbean,Belize,BLZ,2016,2.71
+Americas,Latin America and the Caribbean,Belize,BLZ,2016,8.12
+Americas,Latin America and the Caribbean,Belize,BLZ,2016,2.71
+Americas,Latin America and the Caribbean,Belize,BLZ,2017,5.84
+Americas,Latin America and the Caribbean,Belize,BLZ,2017,1.06
+Americas,Latin America and the Caribbean,Belize,BLZ,2017,0.53
+Americas,Latin America and the Caribbean,Belize,BLZ,2018,2.08
+Americas,Latin America and the Caribbean,Belize,BLZ,2018,1.56
+Americas,Latin America and the Caribbean,Belize,BLZ,2018,9.88
+Americas,Latin America and the Caribbean,Belize,BLZ,2019,1.02
+Americas,Latin America and the Caribbean,Belize,BLZ,2019,1.02
+Americas,Latin America and the Caribbean,Belize,BLZ,2019,8.67
+Americas,Latin America and the Caribbean,Belize,BLZ,2020,5.5
+Asia,Southern Asia,Bhutan,BTN,2015,0.58
+Asia,Southern Asia,Bhutan,BTN,2016,1.15
+Asia,Southern Asia,Bhutan,BTN,2017,1.14
+Asia,Southern Asia,Bhutan,BTN,2017,0.85
+Asia,Southern Asia,Bhutan,BTN,2017,0.57
+Asia,Southern Asia,Bhutan,BTN,2018,0.56
+Asia,Southern Asia,Bhutan,BTN,2018,0.28
+Asia,Southern Asia,Bhutan,BTN,2018,0.0
+Asia,Southern Asia,Bhutan,BTN,2019,0.28
+Asia,Southern Asia,Bhutan,BTN,2019,0.0
+Asia,Southern Asia,Bhutan,BTN,2019,0.56
+Asia,Southern Asia,Bhutan,BTN,2020,0.83
+Asia,Southern Asia,Bhutan,BTN,2020,0.0
+Asia,Southern Asia,Bhutan,BTN,2020,1.38
+Americas,Latin America and the Caribbean,Bolivia (Plurinational State of),BOL,2008,2.84
+Americas,Latin America and the Caribbean,Bolivia (Plurinational State of),BOL,2015,4.46
+Americas,Latin America and the Caribbean,Bolivia (Plurinational State of),BOL,2016,3.44
+Americas,Latin America and the Caribbean,Bolivia (Plurinational State of),BOL,2017,4.09
+Americas,Latin America and the Caribbean,Bolivia (Plurinational State of),BOL,2018,3.63
+Americas,Latin America and the Caribbean,Bolivia (Plurinational State of),BOL,2019,5.3
+Europe,Southern Europe,Bosnia and Herzegovina,BIH,1990,0.71
+Europe,Southern Europe,Bosnia and Herzegovina,BIH,2000,1.05
+Europe,Southern Europe,Bosnia and Herzegovina,BIH,2001,1.52
+Europe,Southern Europe,Bosnia and Herzegovina,BIH,2002,1.31
+Europe,Southern Europe,Bosnia and Herzegovina,BIH,2009,0.79
+Europe,Southern Europe,Bosnia and Herzegovina,BIH,2010,0.53
+Europe,Southern Europe,Bosnia and Herzegovina,BIH,2010,0.64
+Europe,Southern Europe,Bosnia and Herzegovina,BIH,2011,0.86
+Europe,Southern Europe,Bosnia and Herzegovina,BIH,2011,0.59
+Europe,Southern Europe,Bosnia and Herzegovina,BIH,2012,1.31
+Europe,Southern Europe,Bosnia and Herzegovina,BIH,2012,0.65
+Europe,Southern Europe,Bosnia and Herzegovina,BIH,2012,0.16
+Europe,Southern Europe,Bosnia and Herzegovina,BIH,2013,0.78
+Europe,Southern Europe,Bosnia and Herzegovina,BIH,2013,0.61
+Europe,Southern Europe,Bosnia and Herzegovina,BIH,2013,0.44
+Europe,Southern Europe,Bosnia and Herzegovina,BIH,2014,0.62
+Europe,Southern Europe,Bosnia and Herzegovina,BIH,2014,0.34
+Europe,Southern Europe,Bosnia and Herzegovina,BIH,2014,0.28
+Europe,Southern Europe,Bosnia and Herzegovina,BIH,2015,1.03
+Europe,Southern Europe,Bosnia and Herzegovina,BIH,2015,0.69
+Europe,Southern Europe,Bosnia and Herzegovina,BIH,2015,0.4
+Europe,Southern Europe,Bosnia and Herzegovina,BIH,2016,0.87
+Europe,Southern Europe,Bosnia and Herzegovina,BIH,2016,0.41
+Europe,Southern Europe,Bosnia and Herzegovina,BIH,2016,0.12
+Europe,Southern Europe,Bosnia and Herzegovina,BIH,2017,0.59
+Europe,Southern Europe,Bosnia and Herzegovina,BIH,2017,0.59
+Europe,Southern Europe,Bosnia and Herzegovina,BIH,2017,0.23
+Europe,Southern Europe,Bosnia and Herzegovina,BIH,2018,0.47
+Europe,Southern Europe,Bosnia and Herzegovina,BIH,2018,0.35
+Europe,Southern Europe,Bosnia and Herzegovina,BIH,2018,0.12
+Europe,Southern Europe,Bosnia and Herzegovina,BIH,2019,0.36
+Europe,Southern Europe,Bosnia and Herzegovina,BIH,2019,0.18
+Europe,Southern Europe,Bosnia and Herzegovina,BIH,2019,0.59
+Americas,Latin America and the Caribbean,Brazil,BRA,1990,3.16
+Americas,Latin America and the Caribbean,Brazil,BRA,1991,3.28
+Americas,Latin America and the Caribbean,Brazil,BRA,1992,2.83
+Americas,Latin America and the Caribbean,Brazil,BRA,1993,3.05
+Americas,Latin America and the Caribbean,Brazil,BRA,1994,3.24
+Americas,Latin America and the Caribbean,Brazil,BRA,1995,3.74
+Americas,Latin America and the Caribbean,Brazil,BRA,1996,4.44
+Americas,Latin America and the Caribbean,Brazil,BRA,1997,4.26
+Americas,Latin America and the Caribbean,Brazil,BRA,1998,4.09
+Americas,Latin America and the Caribbean,Brazil,BRA,1999,4.07
+Americas,Latin America and the Caribbean,Brazil,BRA,2000,4.24
+Americas,Latin America and the Caribbean,Brazil,BRA,2001,4.3
+Americas,Latin America and the Caribbean,Brazil,BRA,2002,4.26
+Americas,Latin America and the Caribbean,Brazil,BRA,2003,4.29
+Americas,Latin America and the Caribbean,Brazil,BRA,2004,4.12
+Americas,Latin America and the Caribbean,Brazil,BRA,2005,4.13
+Americas,Latin America and the Caribbean,Brazil,BRA,2006,4.22
+Americas,Latin America and the Caribbean,Brazil,BRA,2007,3.92
+Americas,Latin America and the Caribbean,Brazil,BRA,2008,4.14
+Americas,Latin America and the Caribbean,Brazil,BRA,2009,4.34
+Americas,Latin America and the Caribbean,Brazil,BRA,2010,4.5
+Americas,Latin America and the Caribbean,Brazil,BRA,2011,4.51
+Americas,Latin America and the Caribbean,Brazil,BRA,2012,4.67
+Americas,Latin America and the Caribbean,Brazil,BRA,2013,4.67
+Americas,Latin America and the Caribbean,Brazil,BRA,2014,4.7
+Americas,Latin America and the Caribbean,Brazil,BRA,2015,4.45
+Americas,Latin America and the Caribbean,Brazil,BRA,2016,4.43
+Americas,Latin America and the Caribbean,Brazil,BRA,2017,4.67
+Americas,Latin America and the Caribbean,Brazil,BRA,2018,4.24
+Americas,Latin America and the Caribbean,Brazil,BRA,2019,3.47
+Asia,South-eastern Asia,Brunei Darussalam,BRN,1996,2.05
+Asia,South-eastern Asia,Brunei Darussalam,BRN,1997,1.32
+Asia,South-eastern Asia,Brunei Darussalam,BRN,1998,0.0
+Asia,South-eastern Asia,Brunei Darussalam,BRN,1999,1.25
+Asia,South-eastern Asia,Brunei Darussalam,BRN,2000,1.22
+Europe,Eastern Europe,Bulgaria,BGR,1990,1.18
+Europe,Eastern Europe,Bulgaria,BGR,1991,2.09
+Europe,Eastern Europe,Bulgaria,BGR,1992,2.28
+Europe,Eastern Europe,Bulgaria,BGR,1993,2.09
+Europe,Eastern Europe,Bulgaria,BGR,1994,2.29
+Europe,Eastern Europe,Bulgaria,BGR,1995,1.83
+Europe,Eastern Europe,Bulgaria,BGR,1996,1.96
+Europe,Eastern Europe,Bulgaria,BGR,1997,2.25
+Europe,Eastern Europe,Bulgaria,BGR,1998,2.39
+Europe,Eastern Europe,Bulgaria,BGR,1999,2.13
+Europe,Eastern Europe,Bulgaria,BGR,2000,2.37
+Europe,Eastern Europe,Bulgaria,BGR,2001,1.52
+Europe,Eastern Europe,Bulgaria,BGR,2002,1.4
+Europe,Eastern Europe,Bulgaria,BGR,2003,1.3
+Europe,Eastern Europe,Bulgaria,BGR,2004,1.44
+Europe,Eastern Europe,Bulgaria,BGR,2005,1.32
+Europe,Eastern Europe,Bulgaria,BGR,2006,1.38
+Europe,Eastern Europe,Bulgaria,BGR,2007,0.98
+Europe,Eastern Europe,Bulgaria,BGR,2008,0.93
+Europe,Eastern Europe,Bulgaria,BGR,2009,0.91
+Europe,Eastern Europe,Bulgaria,BGR,2010,0.71
+Europe,Eastern Europe,Bulgaria,BGR,2011,0.79
+Europe,Eastern Europe,Bulgaria,BGR,2012,0.98
+Europe,Eastern Europe,Bulgaria,BGR,2013,0.91
+Europe,Eastern Europe,Bulgaria,BGR,2014,0.7
+Europe,Eastern Europe,Bulgaria,BGR,2015,0.78
+Europe,Eastern Europe,Bulgaria,BGR,2016,0.6
+Europe,Eastern Europe,Bulgaria,BGR,2017,0.96
+Europe,Eastern Europe,Bulgaria,BGR,2018,1.05
+Europe,Eastern Europe,Bulgaria,BGR,2019,0.64
+Europe,Eastern Europe,Bulgaria,BGR,2020,0.73
+Africa,Sub-Saharan Africa,Burundi,BDI,2013,2.01
+Africa,Sub-Saharan Africa,Burundi,BDI,2014,2.05
+Africa,Sub-Saharan Africa,Burundi,BDI,2015,1.52
+Africa,Sub-Saharan Africa,Burundi,BDI,2016,2.32
+Africa,Sub-Saharan Africa,Cabo Verde,CPV,2011,2.92
+Africa,Sub-Saharan Africa,Cabo Verde,CPV,2012,4.04
+Africa,Sub-Saharan Africa,Cabo Verde,CPV,2013,2.74
+Africa,Sub-Saharan Africa,Cabo Verde,CPV,2014,5.8
+Africa,Sub-Saharan Africa,Cabo Verde,CPV,2015,2.68
+Africa,Sub-Saharan Africa,Cabo Verde,CPV,2017,2.24
+Africa,Sub-Saharan Africa,Cabo Verde,CPV,2018,3.69
+Africa,Sub-Saharan Africa,Cabo Verde,CPV,2019,2.19
+Africa,Sub-Saharan Africa,Cabo Verde,CPV,2020,3.25
+Africa,Sub-Saharan Africa,Cameroon,CMR,2014,0.8
+Africa,Sub-Saharan Africa,Cameroon,CMR,2015,1.0
+Africa,Sub-Saharan Africa,Cameroon,CMR,2016,0.89
+Americas,Northern America,Canada,CAN,1990,1.7
+Americas,Northern America,Canada,CAN,1991,1.97
+Americas,Northern America,Canada,CAN,1992,1.67
+Americas,Northern America,Canada,CAN,1993,1.39
+Americas,Northern America,Canada,CAN,1994,1.4
+Americas,Northern America,Canada,CAN,1995,1.3
+Americas,Northern America,Canada,CAN,1996,1.39
+Americas,Northern America,Canada,CAN,1997,1.32
+Americas,Northern America,Canada,CAN,1998,1.22
+Americas,Northern America,Canada,CAN,1999,1.09
+Americas,Northern America,Canada,CAN,2000,0.97
+Americas,Northern America,Canada,CAN,2001,1.04
+Americas,Northern America,Canada,CAN,2002,1.32
+Americas,Northern America,Canada,CAN,2003,0.98
+Americas,Northern America,Canada,CAN,2004,1.25
+Americas,Northern America,Canada,CAN,2005,0.67
+Americas,Northern America,Canada,CAN,2005,1.11
+Americas,Northern America,Canada,CAN,2006,0.62
+Americas,Northern America,Canada,CAN,2006,0.99
+Americas,Northern America,Canada,CAN,2007,0.52
+Americas,Northern America,Canada,CAN,2007,1.0
+Americas,Northern America,Canada,CAN,2008,0.54
+Americas,Northern America,Canada,CAN,2008,0.38
+Americas,Northern America,Canada,CAN,2008,0.87
+Americas,Northern America,Canada,CAN,2009,0.58
+Americas,Northern America,Canada,CAN,2009,0.39
+Americas,Northern America,Canada,CAN,2009,0.95
+Americas,Northern America,Canada,CAN,2010,0.37
+Americas,Northern America,Canada,CAN,2010,0.55
+Americas,Northern America,Canada,CAN,2010,0.9
+Americas,Northern America,Canada,CAN,2011,0.63
+Americas,Northern America,Canada,CAN,2011,0.46
+Americas,Northern America,Canada,CAN,2011,1.03
+Americas,Northern America,Canada,CAN,2012,0.59
+Americas,Northern America,Canada,CAN,2012,0.4
+Americas,Northern America,Canada,CAN,2012,0.89
+Americas,Northern America,Canada,CAN,2013,0.85
+Americas,Northern America,Canada,CAN,2013,0.53
+Americas,Northern America,Canada,CAN,2013,0.33
+Americas,Northern America,Canada,CAN,2014,0.84
+Americas,Northern America,Canada,CAN,2014,0.59
+Americas,Northern America,Canada,CAN,2014,0.4
+Americas,Northern America,Canada,CAN,2015,0.98
+Americas,Northern America,Canada,CAN,2015,0.66
+Americas,Northern America,Canada,CAN,2015,0.4
+Americas,Northern America,Canada,CAN,2016,0.83
+Americas,Northern America,Canada,CAN,2016,0.53
+Americas,Northern America,Canada,CAN,2016,0.33
+Americas,Northern America,Canada,CAN,2017,0.93
+Americas,Northern America,Canada,CAN,2017,0.53
+Americas,Northern America,Canada,CAN,2017,0.35
+Americas,Northern America,Canada,CAN,2019,0.82
+Americas,Northern America,Canada,CAN,2020,0.9
+Americas,Latin America and the Caribbean,Chile,CHL,2005,1.01
+Americas,Latin America and the Caribbean,Chile,CHL,2005,0.12
+Americas,Latin America and the Caribbean,Chile,CHL,2006,1.1
+Americas,Latin America and the Caribbean,Chile,CHL,2006,0.11
+Americas,Latin America and the Caribbean,Chile,CHL,2007,1.32
+Americas,Latin America and the Caribbean,Chile,CHL,2007,0.27
+Americas,Latin America and the Caribbean,Chile,CHL,2008,1.21
+Americas,Latin America and the Caribbean,Chile,CHL,2008,0.16
+Americas,Latin America and the Caribbean,Chile,CHL,2009,1.16
+Americas,Latin America and the Caribbean,Chile,CHL,2009,0.07
+Americas,Latin America and the Caribbean,Chile,CHL,2010,0.06
+Americas,Latin America and the Caribbean,Chile,CHL,2010,1.11
+Americas,Latin America and the Caribbean,Chile,CHL,2011,0.1
+Americas,Latin America and the Caribbean,Chile,CHL,2011,1.31
+Americas,Latin America and the Caribbean,Chile,CHL,2012,0.12
+Americas,Latin America and the Caribbean,Chile,CHL,2012,0.42
+Americas,Latin America and the Caribbean,Chile,CHL,2013,0.63
+Americas,Latin America and the Caribbean,Chile,CHL,2013,0.55
+Americas,Latin America and the Caribbean,Chile,CHL,2013,1.21
+Americas,Latin America and the Caribbean,Chile,CHL,2014,0.48
+Americas,Latin America and the Caribbean,Chile,CHL,2014,0.4
+Americas,Latin America and the Caribbean,Chile,CHL,2014,0.7
+Americas,Latin America and the Caribbean,Chile,CHL,2015,0.84
+Americas,Latin America and the Caribbean,Chile,CHL,2015,0.47
+Americas,Latin America and the Caribbean,Chile,CHL,2015,0.41
+Americas,Latin America and the Caribbean,Chile,CHL,2016,0.97
+Americas,Latin America and the Caribbean,Chile,CHL,2016,0.55
+Americas,Latin America and the Caribbean,Chile,CHL,2016,0.37
+Americas,Latin America and the Caribbean,Chile,CHL,2017,1.13
+Americas,Latin America and the Caribbean,Chile,CHL,2017,0.62
+Americas,Latin America and the Caribbean,Chile,CHL,2017,0.34
+Americas,Latin America and the Caribbean,Chile,CHL,2018,0.99
+Americas,Latin America and the Caribbean,Chile,CHL,2018,0.52
+Americas,Latin America and the Caribbean,Chile,CHL,2018,0.43
+Americas,Latin America and the Caribbean,Chile,CHL,2019,0.53
+Americas,Latin America and the Caribbean,Chile,CHL,2019,0.47
+Americas,Latin America and the Caribbean,Chile,CHL,2019,0.97
+Asia,Eastern Asia,China Macao SAR,MAC,1994,3.09
+Asia,Eastern Asia,China Macao SAR,MAC,2008,1.12
+Asia,Eastern Asia,China Macao SAR,MAC,2009,1.09
+Asia,Eastern Asia,China Macao SAR,MAC,2009,0.36
+Asia,Eastern Asia,China Macao SAR,MAC,2010,0.0
+Asia,Eastern Asia,China Macao SAR,MAC,2011,1.05
+Asia,Eastern Asia,China Macao SAR,MAC,2012,0.34
+Asia,Eastern Asia,China Macao SAR,MAC,2012,0.34
+Asia,Eastern Asia,China Macao SAR,MAC,2013,0.33
+Asia,Eastern Asia,China Macao SAR,MAC,2014,0.33
+Asia,Eastern Asia,China Macao SAR,MAC,2014,0.0
+Asia,Eastern Asia,China Macao SAR,MAC,2014,0.0
+Asia,Eastern Asia,China Macao SAR,MAC,2015,0.32
+Asia,Eastern Asia,China Macao SAR,MAC,2015,0.32
+Asia,Eastern Asia,China Macao SAR,MAC,2015,0.0
+Asia,Eastern Asia,China Macao SAR,MAC,2017,0.62
+Asia,Eastern Asia,China Macao SAR,MAC,2017,0.62
+Asia,Eastern Asia,China Macao SAR,MAC,2017,0.31
+Asia,Eastern Asia,China Macao SAR,MAC,2018,0.3
+Asia,Eastern Asia,China Macao SAR,MAC,2018,0.3
+Asia,Eastern Asia,China Macao SAR,MAC,2018,0.3
+Asia,Eastern Asia,China Macao SAR,MAC,2019,0.0
+Asia,Eastern Asia,China Macao SAR,MAC,2020,0.59
+Asia,Eastern Asia,"China, Hong Kong SAR",HKG,2003,0.64
+Asia,Eastern Asia,"China, Hong Kong SAR",HKG,2004,0.57
+Asia,Eastern Asia,"China, Hong Kong SAR",HKG,2005,0.37
+Asia,Eastern Asia,"China, Hong Kong SAR",HKG,2005,0.28
+Asia,Eastern Asia,"China, Hong Kong SAR",HKG,2006,0.51
+Asia,Eastern Asia,"China, Hong Kong SAR",HKG,2006,0.39
+Asia,Eastern Asia,"China, Hong Kong SAR",HKG,2007,0.31
+Asia,Eastern Asia,"China, Hong Kong SAR",HKG,2007,0.25
+Asia,Eastern Asia,"China, Hong Kong SAR",HKG,2007,0.17
+Asia,Eastern Asia,"China, Hong Kong SAR",HKG,2008,0.69
+Asia,Eastern Asia,"China, Hong Kong SAR",HKG,2008,0.39
+Asia,Eastern Asia,"China, Hong Kong SAR",HKG,2008,0.22
+Asia,Eastern Asia,"China, Hong Kong SAR",HKG,2009,0.68
+Asia,Eastern Asia,"China, Hong Kong SAR",HKG,2009,0.52
+Asia,Eastern Asia,"China, Hong Kong SAR",HKG,2009,0.22
+Asia,Eastern Asia,"China, Hong Kong SAR",HKG,2010,0.51
+Asia,Eastern Asia,"China, Hong Kong SAR",HKG,2010,0.35
+Asia,Eastern Asia,"China, Hong Kong SAR",HKG,2010,0.16
+Asia,Eastern Asia,"China, Hong Kong SAR",HKG,2011,0.24
+Asia,Eastern Asia,"China, Hong Kong SAR",HKG,2011,0.21
+Asia,Eastern Asia,"China, Hong Kong SAR",HKG,2011,0.08
+Asia,Eastern Asia,"China, Hong Kong SAR",HKG,2012,0.32
+Asia,Eastern Asia,"China, Hong Kong SAR",HKG,2012,0.21
+Asia,Eastern Asia,"China, Hong Kong SAR",HKG,2012,0.19
+Asia,Eastern Asia,"China, Hong Kong SAR",HKG,2013,0.98
+Asia,Eastern Asia,"China, Hong Kong SAR",HKG,2013,0.24
+Asia,Eastern Asia,"China, Hong Kong SAR",HKG,2013,0.18
+Asia,Eastern Asia,"China, Hong Kong SAR",HKG,2014,0.34
+Asia,Eastern Asia,"China, Hong Kong SAR",HKG,2015,0.23
+Asia,Eastern Asia,"China, Hong Kong SAR",HKG,2016,0.28
+Asia,Eastern Asia,"China, Hong Kong SAR",HKG,2017,0.2
+Asia,Eastern Asia,"China, Hong Kong SAR",HKG,2017,0.38
+Asia,Eastern Asia,"China, Hong Kong SAR",HKG,2018,0.4
+Asia,Eastern Asia,"China, Hong Kong SAR",HKG,2018,0.15
+Asia,Eastern Asia,"China, Hong Kong SAR",HKG,2019,0.17
+Asia,Eastern Asia,"China, Hong Kong SAR",HKG,2019,0.32
+Asia,Eastern Asia,"China, Hong Kong SAR",HKG,2020,0.22
+Asia,Eastern Asia,"China, Hong Kong SAR",HKG,2020,0.05
+Americas,Latin America and the Caribbean,Colombia,COL,1990,10.93
+Americas,Latin America and the Caribbean,Colombia,COL,1991,11.8
+Americas,Latin America and the Caribbean,Colombia,COL,1992,12.17
+Americas,Latin America and the Caribbean,Colombia,COL,1993,11.86
+Americas,Latin America and the Caribbean,Colombia,COL,1994,11.0
+Americas,Latin America and the Caribbean,Colombia,COL,1995,8.93
+Americas,Latin America and the Caribbean,Colombia,COL,1996,9.25
+Americas,Latin America and the Caribbean,Colombia,COL,1997,9.06
+Americas,Latin America and the Caribbean,Colombia,COL,1998,8.83
+Americas,Latin America and the Caribbean,Colombia,COL,1999,9.04
+Americas,Latin America and the Caribbean,Colombia,COL,2000,9.52
+Americas,Latin America and the Caribbean,Colombia,COL,2001,10.79
+Americas,Latin America and the Caribbean,Colombia,COL,2002,10.76
+Americas,Latin America and the Caribbean,Colombia,COL,2003,9.46
+Americas,Latin America and the Caribbean,Colombia,COL,2004,7.59
+Americas,Latin America and the Caribbean,Colombia,COL,2005,6.86
+Americas,Latin America and the Caribbean,Colombia,COL,2005,0.32
+Americas,Latin America and the Caribbean,Colombia,COL,2006,6.01
+Americas,Latin America and the Caribbean,Colombia,COL,2006,0.27
+Americas,Latin America and the Caribbean,Colombia,COL,2007,6.21
+Americas,Latin America and the Caribbean,Colombia,COL,2007,0.23
+Americas,Latin America and the Caribbean,Colombia,COL,2007,0.22
+Americas,Latin America and the Caribbean,Colombia,COL,2008,5.59
+Americas,Latin America and the Caribbean,Colombia,COL,2008,0.27
+Americas,Latin America and the Caribbean,Colombia,COL,2008,0.27
+Americas,Latin America and the Caribbean,Colombia,COL,2009,5.52
+Americas,Latin America and the Caribbean,Colombia,COL,2009,0.07
+Americas,Latin America and the Caribbean,Colombia,COL,2009,0.06
+Americas,Latin America and the Caribbean,Colombia,COL,2010,5.32
+Americas,Latin America and the Caribbean,Colombia,COL,2010,0.06
+Americas,Latin America and the Caribbean,Colombia,COL,2010,0.05
+Americas,Latin America and the Caribbean,Colombia,COL,2011,5.79
+Americas,Latin America and the Caribbean,Colombia,COL,2011,0.07
+Americas,Latin America and the Caribbean,Colombia,COL,2011,0.05
+Americas,Latin America and the Caribbean,Colombia,COL,2012,5.9
+Americas,Latin America and the Caribbean,Colombia,COL,2012,0.13
+Americas,Latin America and the Caribbean,Colombia,COL,2012,0.11
+Americas,Latin America and the Caribbean,Colombia,COL,2013,5.16
+Americas,Latin America and the Caribbean,Colombia,COL,2013,0.14
+Americas,Latin America and the Caribbean,Colombia,COL,2013,0.1
+Americas,Latin America and the Caribbean,Colombia,COL,2014,4.88
+Americas,Latin America and the Caribbean,Colombia,COL,2014,0.32
+Americas,Latin America and the Caribbean,Colombia,COL,2014,0.3
+Americas,Latin America and the Caribbean,Colombia,COL,2015,4.41
+Americas,Latin America and the Caribbean,Colombia,COL,2015,0.37
+Americas,Latin America and the Caribbean,Colombia,COL,2015,0.29
+Americas,Latin America and the Caribbean,Colombia,COL,2016,4.23
+Americas,Latin America and the Caribbean,Colombia,COL,2016,0.37
+Americas,Latin America and the Caribbean,Colombia,COL,2016,0.29
+Americas,Latin America and the Caribbean,Colombia,COL,2017,4.32
+Americas,Latin America and the Caribbean,Colombia,COL,2017,0.3
+Americas,Latin America and the Caribbean,Colombia,COL,2017,0.3
+Americas,Latin America and the Caribbean,Colombia,COL,2018,4.19
+Americas,Latin America and the Caribbean,Colombia,COL,2018,0.01
+Americas,Latin America and the Caribbean,Colombia,COL,2019,0.21
+Americas,Latin America and the Caribbean,Colombia,COL,2019,0.19
+Americas,Latin America and the Caribbean,Colombia,COL,2019,4.08
+Americas,Latin America and the Caribbean,Colombia,COL,2020,0.03
+Americas,Latin America and the Caribbean,Colombia,COL,2020,0.03
+Americas,Latin America and the Caribbean,Colombia,COL,2020,3.53
+Americas,Latin America and the Caribbean,Costa Rica,CRI,1990,1.8
+Americas,Latin America and the Caribbean,Costa Rica,CRI,1991,1.56
+Americas,Latin America and the Caribbean,Costa Rica,CRI,1992,1.51
+Americas,Latin America and the Caribbean,Costa Rica,CRI,1993,1.15
+Americas,Latin America and the Caribbean,Costa Rica,CRI,1994,1.44
+Americas,Latin America and the Caribbean,Costa Rica,CRI,1995,1.52
+Americas,Latin America and the Caribbean,Costa Rica,CRI,1996,1.02
+Americas,Latin America and the Caribbean,Costa Rica,CRI,1997,1.05
+Americas,Latin America and the Caribbean,Costa Rica,CRI,1998,1.44
+Americas,Latin America and the Caribbean,Costa Rica,CRI,1999,1.66
+Americas,Latin America and the Caribbean,Costa Rica,CRI,2000,2.04
+Americas,Latin America and the Caribbean,Costa Rica,CRI,2001,1.41
+Americas,Latin America and the Caribbean,Costa Rica,CRI,2002,1.66
+Americas,Latin America and the Caribbean,Costa Rica,CRI,2003,1.82
+Americas,Latin America and the Caribbean,Costa Rica,CRI,2004,1.84
+Americas,Latin America and the Caribbean,Costa Rica,CRI,2005,2.86
+Americas,Latin America and the Caribbean,Costa Rica,CRI,2006,2.08
+Americas,Latin America and the Caribbean,Costa Rica,CRI,2007,1.68
+Americas,Latin America and the Caribbean,Costa Rica,CRI,2008,2.69
+Americas,Latin America and the Caribbean,Costa Rica,CRI,2009,2.62
+Americas,Latin America and the Caribbean,Costa Rica,CRI,2010,2.67
+Americas,Latin America and the Caribbean,Costa Rica,CRI,2011,2.77
+Americas,Latin America and the Caribbean,Costa Rica,CRI,2012,2.14
+Americas,Latin America and the Caribbean,Costa Rica,CRI,2013,1.52
+Americas,Latin America and the Caribbean,Costa Rica,CRI,2014,2.13
+Americas,Latin America and the Caribbean,Costa Rica,CRI,2014,0.17
+Americas,Latin America and the Caribbean,Costa Rica,CRI,2015,1.73
+Americas,Latin America and the Caribbean,Costa Rica,CRI,2015,0.08
+Americas,Latin America and the Caribbean,Costa Rica,CRI,2016,2.7
+Americas,Latin America and the Caribbean,Costa Rica,CRI,2017,2.34
+Americas,Latin America and the Caribbean,Costa Rica,CRI,2018,2.6
+Americas,Latin America and the Caribbean,Costa Rica,CRI,2019,1.9
+Europe,Southern Europe,Croatia,HRV,1990,1.76
+Europe,Southern Europe,Croatia,HRV,1991,5.06
+Europe,Southern Europe,Croatia,HRV,1992,3.89
+Europe,Southern Europe,Croatia,HRV,1993,2.29
+Europe,Southern Europe,Croatia,HRV,1994,1.28
+Europe,Southern Europe,Croatia,HRV,1995,1.9
+Europe,Southern Europe,Croatia,HRV,1996,1.63
+Europe,Southern Europe,Croatia,HRV,1997,1.34
+Europe,Southern Europe,Croatia,HRV,1998,1.48
+Europe,Southern Europe,Croatia,HRV,1999,1.24
+Europe,Southern Europe,Croatia,HRV,2000,1.4
+Europe,Southern Europe,Croatia,HRV,2001,1.22
+Europe,Southern Europe,Croatia,HRV,2002,1.39
+Europe,Southern Europe,Croatia,HRV,2003,0.97
+Europe,Southern Europe,Croatia,HRV,2004,1.63
+Europe,Southern Europe,Croatia,HRV,2005,1.19
+Europe,Southern Europe,Croatia,HRV,2006,1.41
+Europe,Southern Europe,Croatia,HRV,2007,1.06
+Europe,Southern Europe,Croatia,HRV,2008,1.06
+Europe,Southern Europe,Croatia,HRV,2009,1.07
+Europe,Southern Europe,Croatia,HRV,2010,1.43
+Europe,Southern Europe,Croatia,HRV,2010,0.62
+Europe,Southern Europe,Croatia,HRV,2011,0.94
+Europe,Southern Europe,Croatia,HRV,2011,0.45
+Europe,Southern Europe,Croatia,HRV,2012,0.81
+Europe,Southern Europe,Croatia,HRV,2012,0.54
+Europe,Southern Europe,Croatia,HRV,2012,0.31
+Europe,Southern Europe,Croatia,HRV,2013,0.95
+Europe,Southern Europe,Croatia,HRV,2013,0.59
+Europe,Southern Europe,Croatia,HRV,2013,0.36
+Europe,Southern Europe,Croatia,HRV,2014,0.77
+Europe,Southern Europe,Croatia,HRV,2014,0.63
+Europe,Southern Europe,Croatia,HRV,2014,0.36
+Europe,Southern Europe,Croatia,HRV,2015,0.68
+Europe,Southern Europe,Croatia,HRV,2015,0.59
+Europe,Southern Europe,Croatia,HRV,2015,0.5
+Europe,Southern Europe,Croatia,HRV,2016,0.92
+Europe,Southern Europe,Croatia,HRV,2016,0.82
+Europe,Southern Europe,Croatia,HRV,2016,0.5
+Europe,Southern Europe,Croatia,HRV,2017,0.83
+Europe,Southern Europe,Croatia,HRV,2017,0.74
+Europe,Southern Europe,Croatia,HRV,2017,0.41
+Europe,Southern Europe,Croatia,HRV,2018,0.37
+Europe,Southern Europe,Croatia,HRV,2018,0.23
+Europe,Southern Europe,Croatia,HRV,2018,0.19
+Europe,Southern Europe,Croatia,HRV,2019,0.42
+Europe,Southern Europe,Croatia,HRV,2019,0.23
+Europe,Southern Europe,Croatia,HRV,2019,0.65
+Europe,Southern Europe,Croatia,HRV,2020,0.89
+Europe,Southern Europe,Croatia,HRV,2020,0.56
+Europe,Southern Europe,Croatia,HRV,2020,0.42
+Americas,Latin America and the Caribbean,Cuba,CUB,1992,3.28
+Americas,Latin America and the Caribbean,Cuba,CUB,1993,3.4
+Americas,Latin America and the Caribbean,Cuba,CUB,1994,3.9
+Americas,Latin America and the Caribbean,Cuba,CUB,1995,3.84
+Americas,Latin America and the Caribbean,Cuba,CUB,1996,3.03
+Americas,Latin America and the Caribbean,Cuba,CUB,1997,2.96
+Americas,Latin America and the Caribbean,Cuba,CUB,1998,3.38
+Americas,Latin America and the Caribbean,Cuba,CUB,1999,2.86
+Americas,Latin America and the Caribbean,Cuba,CUB,2000,2.78
+Americas,Latin America and the Caribbean,Cuba,CUB,2001,2.84
+Americas,Latin America and the Caribbean,Cuba,CUB,2002,3.29
+Americas,Latin America and the Caribbean,Cuba,CUB,2003,2.72
+Americas,Latin America and the Caribbean,Cuba,CUB,2004,2.59
+Americas,Latin America and the Caribbean,Cuba,CUB,2005,2.97
+Americas,Latin America and the Caribbean,Cuba,CUB,2006,2.35
+Americas,Latin America and the Caribbean,Cuba,CUB,2007,2.46
+Americas,Latin America and the Caribbean,Cuba,CUB,2008,2.13
+Americas,Latin America and the Caribbean,Cuba,CUB,2009,2.71
+Americas,Latin America and the Caribbean,Cuba,CUB,2010,2.23
+Americas,Latin America and the Caribbean,Cuba,CUB,2011,2.34
+Americas,Latin America and the Caribbean,Cuba,CUB,2012,2.44
+Americas,Latin America and the Caribbean,Cuba,CUB,2013,2.59
+Americas,Latin America and the Caribbean,Cuba,CUB,2014,2.74
+Americas,Latin America and the Caribbean,Cuba,CUB,2015,2.44
+Americas,Latin America and the Caribbean,Cuba,CUB,2016,2.12
+Americas,Latin America and the Caribbean,Curaçao,CUW,2001,2.89
+Americas,Latin America and the Caribbean,Curaçao,CUW,2002,8.76
+Americas,Latin America and the Caribbean,Curaçao,CUW,2003,2.94
+Americas,Latin America and the Caribbean,Curaçao,CUW,2004,10.25
+Americas,Latin America and the Caribbean,Curaçao,CUW,2005,8.68
+Americas,Latin America and the Caribbean,Curaçao,CUW,2006,4.24
+Americas,Latin America and the Caribbean,Curaçao,CUW,2007,4.11
+Asia,Western Asia,Cyprus,CYP,2004,0.8
+Asia,Western Asia,Cyprus,CYP,2005,0.39
+Asia,Western Asia,Cyprus,CYP,2006,0.77
+Asia,Western Asia,Cyprus,CYP,2007,0.57
+Asia,Western Asia,Cyprus,CYP,2008,0.37
+Asia,Western Asia,Cyprus,CYP,2009,1.28
+Asia,Western Asia,Cyprus,CYP,2010,0.18
+Asia,Western Asia,Cyprus,CYP,2011,1.06
+Asia,Western Asia,Cyprus,CYP,2011,0.71
+Asia,Western Asia,Cyprus,CYP,2012,0.88
+Asia,Western Asia,Cyprus,CYP,2012,0.18
+Asia,Western Asia,Cyprus,CYP,2013,0.52
+Asia,Western Asia,Cyprus,CYP,2013,0.17
+Asia,Western Asia,Cyprus,CYP,2014,0.87
+Asia,Western Asia,Cyprus,CYP,2014,0.17
+Asia,Western Asia,Cyprus,CYP,2015,0.52
+Asia,Western Asia,Cyprus,CYP,2015,0.17
+Asia,Western Asia,Cyprus,CYP,2016,0.86
+Asia,Western Asia,Cyprus,CYP,2016,0.68
+Asia,Western Asia,Cyprus,CYP,2017,0.0
+Asia,Western Asia,Cyprus,CYP,2017,0.0
+Asia,Western Asia,Cyprus,CYP,2018,1.01
+Asia,Western Asia,Cyprus,CYP,2018,0.34
+Asia,Western Asia,Cyprus,CYP,2019,0.0
+Asia,Western Asia,Cyprus,CYP,2019,1.67
+Asia,Western Asia,Cyprus,CYP,2020,0.66
+Europe,Eastern Europe,Czechia,CZE,1994,1.55
+Europe,Eastern Europe,Czechia,CZE,1995,1.09
+Europe,Eastern Europe,Czechia,CZE,1996,1.04
+Europe,Eastern Europe,Czechia,CZE,1997,1.19
+Europe,Eastern Europe,Czechia,CZE,1998,0.92
+Europe,Eastern Europe,Czechia,CZE,1999,1.16
+Europe,Eastern Europe,Czechia,CZE,2000,0.93
+Europe,Eastern Europe,Czechia,CZE,2001,0.89
+Europe,Eastern Europe,Czechia,CZE,2002,1.1
+Europe,Eastern Europe,Czechia,CZE,2003,1.1
+Europe,Eastern Europe,Czechia,CZE,2004,0.95
+Europe,Eastern Europe,Czechia,CZE,2005,0.86
+Europe,Eastern Europe,Czechia,CZE,2006,1.02
+Europe,Eastern Europe,Czechia,CZE,2007,1.04
+Europe,Eastern Europe,Czechia,CZE,2007,0.32
+Europe,Eastern Europe,Czechia,CZE,2007,0.25
+Europe,Eastern Europe,Czechia,CZE,2008,0.83
+Europe,Eastern Europe,Czechia,CZE,2008,0.53
+Europe,Eastern Europe,Czechia,CZE,2008,0.32
+Europe,Eastern Europe,Czechia,CZE,2009,0.71
+Europe,Eastern Europe,Czechia,CZE,2009,0.41
+Europe,Eastern Europe,Czechia,CZE,2009,0.28
+Europe,Eastern Europe,Czechia,CZE,2010,0.99
+Europe,Eastern Europe,Czechia,CZE,2010,0.67
+Europe,Eastern Europe,Czechia,CZE,2010,0.48
+Europe,Eastern Europe,Czechia,CZE,2011,0.82
+Europe,Eastern Europe,Czechia,CZE,2011,0.56
+Europe,Eastern Europe,Czechia,CZE,2011,0.37
+Europe,Eastern Europe,Czechia,CZE,2012,0.89
+Europe,Eastern Europe,Czechia,CZE,2012,0.58
+Europe,Eastern Europe,Czechia,CZE,2012,0.3
+Europe,Eastern Europe,Czechia,CZE,2013,0.95
+Europe,Eastern Europe,Czechia,CZE,2013,0.33
+Europe,Eastern Europe,Czechia,CZE,2013,0.22
+Europe,Eastern Europe,Czechia,CZE,2014,0.84
+Europe,Eastern Europe,Czechia,CZE,2014,0.39
+Europe,Eastern Europe,Czechia,CZE,2014,0.17
+Europe,Eastern Europe,Czechia,CZE,2015,0.91
+Europe,Eastern Europe,Czechia,CZE,2015,0.37
+Europe,Eastern Europe,Czechia,CZE,2015,0.22
+Europe,Eastern Europe,Czechia,CZE,2016,0.67
+Europe,Eastern Europe,Czechia,CZE,2016,0.5
+Europe,Eastern Europe,Czechia,CZE,2016,0.31
+Europe,Eastern Europe,Czechia,CZE,2017,0.55
+Europe,Eastern Europe,Czechia,CZE,2017,0.37
+Europe,Eastern Europe,Czechia,CZE,2017,0.24
+Europe,Eastern Europe,Czechia,CZE,2019,0.72
+Europe,Eastern Europe,Czechia,CZE,2019,0.22
+Europe,Eastern Europe,Czechia,CZE,2019,0.35
+Europe,Eastern Europe,Czechia,CZE,2020,0.26
+Europe,Eastern Europe,Czechia,CZE,2020,0.72
+Europe,Eastern Europe,Czechia,CZE,2020,0.39
+Europe,Northern Europe,Denmark,DNK,1990,0.96
+Europe,Northern Europe,Denmark,DNK,1991,1.65
+Europe,Northern Europe,Denmark,DNK,1992,1.22
+Europe,Northern Europe,Denmark,DNK,1993,0.99
+Europe,Northern Europe,Denmark,DNK,1994,0.95
+Europe,Northern Europe,Denmark,DNK,1995,0.72
+Europe,Northern Europe,Denmark,DNK,1996,0.98
+Europe,Northern Europe,Denmark,DNK,1997,1.57
+Europe,Northern Europe,Denmark,DNK,1998,0.79
+Europe,Northern Europe,Denmark,DNK,1999,1.06
+Europe,Northern Europe,Denmark,DNK,2000,1.19
+Europe,Northern Europe,Denmark,DNK,2001,0.71
+Europe,Northern Europe,Denmark,DNK,2002,0.55
+Europe,Northern Europe,Denmark,DNK,2003,1.03
+Europe,Northern Europe,Denmark,DNK,2004,0.62
+Europe,Northern Europe,Denmark,DNK,2005,0.66
+Europe,Northern Europe,Denmark,DNK,2006,0.4
+Europe,Northern Europe,Denmark,DNK,2007,0.62
+Europe,Northern Europe,Denmark,DNK,2008,0.62
+Europe,Northern Europe,Denmark,DNK,2009,0.5
+Europe,Northern Europe,Denmark,DNK,2010,0.79
+Europe,Northern Europe,Denmark,DNK,2011,0.53
+Europe,Northern Europe,Denmark,DNK,2012,0.57
+Europe,Northern Europe,Denmark,DNK,2013,0.46
+Europe,Northern Europe,Denmark,DNK,2014,1.09
+Europe,Northern Europe,Denmark,DNK,2015,0.82
+Europe,Northern Europe,Denmark,DNK,2016,0.8
+Europe,Northern Europe,Denmark,DNK,2017,0.69
+Europe,Northern Europe,Denmark,DNK,2018,0.69
+Europe,Northern Europe,Denmark,DNK,2019,0.93
+Europe,Northern Europe,Denmark,DNK,2020,0.58
+Americas,Latin America and the Caribbean,Dominican Republic,DOM,2005,4.74
+Americas,Latin America and the Caribbean,Dominican Republic,DOM,2006,3.93
+Americas,Latin America and the Caribbean,Dominican Republic,DOM,2007,3.76
+Americas,Latin America and the Caribbean,Dominican Republic,DOM,2008,3.98
+Americas,Latin America and the Caribbean,Dominican Republic,DOM,2009,1.13
+Americas,Latin America and the Caribbean,Dominican Republic,DOM,2009,3.78
+Americas,Latin America and the Caribbean,Dominican Republic,DOM,2010,1.35
+Americas,Latin America and the Caribbean,Dominican Republic,DOM,2010,4.35
+Americas,Latin America and the Caribbean,Dominican Republic,DOM,2011,1.7
+Americas,Latin America and the Caribbean,Dominican Republic,DOM,2011,4.76
+Americas,Latin America and the Caribbean,Dominican Republic,DOM,2012,4.06
+Americas,Latin America and the Caribbean,Dominican Republic,DOM,2012,0.26
+Americas,Latin America and the Caribbean,Dominican Republic,DOM,2014,3.69
+Americas,Latin America and the Caribbean,Dominican Republic,DOM,2014,0.32
+Americas,Latin America and the Caribbean,Dominican Republic,DOM,2016,1.62
+Americas,Latin America and the Caribbean,Dominican Republic,DOM,2016,1.41
+Americas,Latin America and the Caribbean,Dominican Republic,DOM,2016,3.27
+Americas,Latin America and the Caribbean,Dominican Republic,DOM,2017,2.07
+Americas,Latin America and the Caribbean,Dominican Republic,DOM,2017,3.63
+Americas,Latin America and the Caribbean,Dominican Republic,DOM,2017,2.19
+Americas,Latin America and the Caribbean,Dominican Republic,DOM,2018,1.81
+Americas,Latin America and the Caribbean,Dominican Republic,DOM,2018,1.58
+Americas,Latin America and the Caribbean,Dominican Republic,DOM,2018,2.86
+Americas,Latin America and the Caribbean,Dominican Republic,DOM,2019,2.7
+Americas,Latin America and the Caribbean,Dominican Republic,DOM,2020,2.36
+Americas,Latin America and the Caribbean,Ecuador,ECU,1990,1.64
+Americas,Latin America and the Caribbean,Ecuador,ECU,1991,2.13
+Americas,Latin America and the Caribbean,Ecuador,ECU,1992,1.46
+Americas,Latin America and the Caribbean,Ecuador,ECU,1993,1.49
+Americas,Latin America and the Caribbean,Ecuador,ECU,1994,1.66
+Americas,Latin America and the Caribbean,Ecuador,ECU,2000,2.29
+Americas,Latin America and the Caribbean,Ecuador,ECU,2001,2.3
+Americas,Latin America and the Caribbean,Ecuador,ECU,2002,2.83
+Americas,Latin America and the Caribbean,Ecuador,ECU,2003,2.74
+Americas,Latin America and the Caribbean,Ecuador,ECU,2004,3.22
+Americas,Latin America and the Caribbean,Ecuador,ECU,2005,2.4
+Americas,Latin America and the Caribbean,Ecuador,ECU,2006,3.17
+Americas,Latin America and the Caribbean,Ecuador,ECU,2007,3.22
+Americas,Latin America and the Caribbean,Ecuador,ECU,2008,2.94
+Americas,Latin America and the Caribbean,Ecuador,ECU,2009,3.75
+Americas,Latin America and the Caribbean,Ecuador,ECU,2010,3.22
+Americas,Latin America and the Caribbean,Ecuador,ECU,2011,3.3
+Americas,Latin America and the Caribbean,Ecuador,ECU,2012,3.02
+Americas,Latin America and the Caribbean,Ecuador,ECU,2013,3.23
+Americas,Latin America and the Caribbean,Ecuador,ECU,2014,2.35
+Americas,Latin America and the Caribbean,Ecuador,ECU,2014,0.82
+Americas,Latin America and the Caribbean,Ecuador,ECU,2014,0.72
+Americas,Latin America and the Caribbean,Ecuador,ECU,2015,2.17
+Americas,Latin America and the Caribbean,Ecuador,ECU,2015,1.01
+Americas,Latin America and the Caribbean,Ecuador,ECU,2015,0.74
+Americas,Latin America and the Caribbean,Ecuador,ECU,2016,2.21
+Americas,Latin America and the Caribbean,Ecuador,ECU,2016,1.27
+Americas,Latin America and the Caribbean,Ecuador,ECU,2016,1.0
+Americas,Latin America and the Caribbean,Ecuador,ECU,2017,2.36
+Americas,Latin America and the Caribbean,Ecuador,ECU,2017,1.42
+Americas,Latin America and the Caribbean,Ecuador,ECU,2017,1.24
+Americas,Latin America and the Caribbean,Ecuador,ECU,2018,1.63
+Americas,Latin America and the Caribbean,Ecuador,ECU,2018,0.98
+Americas,Latin America and the Caribbean,Ecuador,ECU,2018,0.76
+Americas,Latin America and the Caribbean,Ecuador,ECU,2019,0.77
+Americas,Latin America and the Caribbean,Ecuador,ECU,2019,0.68
+Americas,Latin America and the Caribbean,Ecuador,ECU,2019,1.73
+Americas,Latin America and the Caribbean,Ecuador,ECU,2020,0.65
+Americas,Latin America and the Caribbean,Ecuador,ECU,2020,0.93
+Americas,Latin America and the Caribbean,Ecuador,ECU,2020,1.86
+Africa,Northern Africa,Egypt,EGY,2004,0.14
+Africa,Northern Africa,Egypt,EGY,2005,0.17
+Africa,Northern Africa,Egypt,EGY,2006,0.38
+Africa,Northern Africa,Egypt,EGY,2006,0.05
+Africa,Northern Africa,Egypt,EGY,2007,0.42
+Africa,Northern Africa,Egypt,EGY,2007,0.22
+Africa,Northern Africa,Egypt,EGY,2008,0.28
+Africa,Northern Africa,Egypt,EGY,2008,0.27
+Africa,Northern Africa,Egypt,EGY,2009,0.48
+Africa,Northern Africa,Egypt,EGY,2009,0.27
+Africa,Northern Africa,Egypt,EGY,2010,0.48
+Africa,Northern Africa,Egypt,EGY,2010,0.27
+Africa,Northern Africa,Egypt,EGY,2011,0.79
+Africa,Northern Africa,Egypt,EGY,2011,0.22
+Africa,Northern Africa,Egypt,EGY,2012,0.61
+Americas,Latin America and the Caribbean,El Salvador,SLV,2005,12.58
+Americas,Latin America and the Caribbean,El Salvador,SLV,2006,14.06
+Americas,Latin America and the Caribbean,El Salvador,SLV,2007,10.62
+Americas,Latin America and the Caribbean,El Salvador,SLV,2007,0.03
+Americas,Latin America and the Caribbean,El Salvador,SLV,2008,9.84
+Americas,Latin America and the Caribbean,El Salvador,SLV,2008,0.06
+Americas,Latin America and the Caribbean,El Salvador,SLV,2009,18.28
+Americas,Latin America and the Caribbean,El Salvador,SLV,2009,0.43
+Americas,Latin America and the Caribbean,El Salvador,SLV,2010,17.25
+Americas,Latin America and the Caribbean,El Salvador,SLV,2010,0.06
+Americas,Latin America and the Caribbean,El Salvador,SLV,2011,19.17
+Americas,Latin America and the Caribbean,El Salvador,SLV,2011,0.03
+Americas,Latin America and the Caribbean,El Salvador,SLV,2012,9.77
+Americas,Latin America and the Caribbean,El Salvador,SLV,2012,0.39
+Americas,Latin America and the Caribbean,El Salvador,SLV,2012,0.3
+Americas,Latin America and the Caribbean,El Salvador,SLV,2013,6.55
+Americas,Latin America and the Caribbean,El Salvador,SLV,2013,0.42
+Americas,Latin America and the Caribbean,El Salvador,SLV,2013,0.54
+Americas,Latin America and the Caribbean,El Salvador,SLV,2014,8.82
+Americas,Latin America and the Caribbean,El Salvador,SLV,2014,0.27
+Americas,Latin America and the Caribbean,El Salvador,SLV,2014,0.27
+Americas,Latin America and the Caribbean,El Salvador,SLV,2015,17.16
+Americas,Latin America and the Caribbean,El Salvador,SLV,2015,0.51
+Americas,Latin America and the Caribbean,El Salvador,SLV,2015,0.36
+Americas,Latin America and the Caribbean,El Salvador,SLV,2016,0.33
+Americas,Latin America and the Caribbean,El Salvador,SLV,2016,0.27
+Americas,Latin America and the Caribbean,El Salvador,SLV,2016,15.55
+Americas,Latin America and the Caribbean,El Salvador,SLV,2017,0.56
+Americas,Latin America and the Caribbean,El Salvador,SLV,2017,0.41
+Americas,Latin America and the Caribbean,El Salvador,SLV,2017,13.83
+Americas,Latin America and the Caribbean,El Salvador,SLV,2018,1.23
+Americas,Latin America and the Caribbean,El Salvador,SLV,2018,1.11
+Americas,Latin America and the Caribbean,El Salvador,SLV,2018,11.32
+Americas,Latin America and the Caribbean,El Salvador,SLV,2019,0.52
+Americas,Latin America and the Caribbean,El Salvador,SLV,2019,0.26
+Americas,Latin America and the Caribbean,El Salvador,SLV,2019,6.71
+Europe,Northern Europe,Estonia,EST,1994,7.91
+Europe,Northern Europe,Estonia,EST,1995,4.19
+Europe,Northern Europe,Estonia,EST,1996,6.24
+Europe,Northern Europe,Estonia,EST,1997,5.17
+Europe,Northern Europe,Estonia,EST,1998,5.4
+Europe,Northern Europe,Estonia,EST,1999,5.44
+Europe,Northern Europe,Estonia,EST,2000,3.43
+Europe,Northern Europe,Estonia,EST,2001,4.01
+Europe,Northern Europe,Estonia,EST,2002,4.36
+Europe,Northern Europe,Estonia,EST,2003,5.42
+Europe,Northern Europe,Estonia,EST,2004,2.17
+Europe,Northern Europe,Estonia,EST,2005,3.92
+Europe,Northern Europe,Estonia,EST,2006,3.44
+Europe,Northern Europe,Estonia,EST,2007,2.67
+Europe,Northern Europe,Estonia,EST,2008,2.64
+Europe,Northern Europe,Estonia,EST,2009,3.02
+Europe,Northern Europe,Estonia,EST,2010,2.31
+Europe,Northern Europe,Estonia,EST,2011,1.97
+Europe,Northern Europe,Estonia,EST,2012,2.41
+Europe,Northern Europe,Estonia,EST,2013,2.56
+Europe,Northern Europe,Estonia,EST,2014,1.28
+Europe,Northern Europe,Estonia,EST,2015,1.53
+Europe,Northern Europe,Estonia,EST,2016,1.29
+Europe,Northern Europe,Estonia,EST,2017,1.14
+Europe,Northern Europe,Estonia,EST,2018,0.72
+Europe,Northern Europe,Estonia,EST,2019,0.86
+Europe,Northern Europe,Estonia,EST,2019,0.57
+Europe,Northern Europe,Estonia,EST,2020,1.43
+Europe,Northern Europe,Estonia,EST,2020,0.57
+Oceania,Melanesia,Fiji,FJI,2005,2.24
+Oceania,Melanesia,Fiji,FJI,2006,2.96
+Oceania,Melanesia,Fiji,FJI,2007,4.4
+Oceania,Melanesia,Fiji,FJI,2008,2.42
+Oceania,Melanesia,Fiji,FJI,2009,1.92
+Oceania,Melanesia,Fiji,FJI,2010,1.43
+Oceania,Melanesia,Fiji,FJI,2011,2.13
+Oceania,Melanesia,Fiji,FJI,2012,1.65
+Oceania,Melanesia,Fiji,FJI,2013,1.88
+Oceania,Melanesia,Fiji,FJI,2014,2.82
+Europe,Northern Europe,Finland,FIN,1990,1.48
+Europe,Northern Europe,Finland,FIN,1991,1.47
+Europe,Northern Europe,Finland,FIN,1992,2.12
+Europe,Northern Europe,Finland,FIN,1993,1.53
+Europe,Northern Europe,Finland,FIN,1994,1.8
+Europe,Northern Europe,Finland,FIN,1995,1.85
+Europe,Northern Europe,Finland,FIN,1996,1.74
+Europe,Northern Europe,Finland,FIN,1997,1.37
+Europe,Northern Europe,Finland,FIN,1998,1.2
+Europe,Northern Europe,Finland,FIN,1999,1.19
+Europe,Northern Europe,Finland,FIN,2000,1.72
+Europe,Northern Europe,Finland,FIN,2001,1.79
+Europe,Northern Europe,Finland,FIN,2002,1.64
+Europe,Northern Europe,Finland,FIN,2003,1.13
+Europe,Northern Europe,Finland,FIN,2004,1.23
+Europe,Northern Europe,Finland,FIN,2005,1.3
+Europe,Northern Europe,Finland,FIN,2005,1.01
+Europe,Northern Europe,Finland,FIN,2006,1.37
+Europe,Northern Europe,Finland,FIN,2006,1.0
+Europe,Northern Europe,Finland,FIN,2007,1.78
+Europe,Northern Europe,Finland,FIN,2007,1.37
+Europe,Northern Europe,Finland,FIN,2007,0.96
+Europe,Northern Europe,Finland,FIN,2008,1.62
+Europe,Northern Europe,Finland,FIN,2008,1.03
+Europe,Northern Europe,Finland,FIN,2008,0.92
+Europe,Northern Europe,Finland,FIN,2009,1.25
+Europe,Northern Europe,Finland,FIN,2009,0.99
+Europe,Northern Europe,Finland,FIN,2009,0.88
+Europe,Northern Europe,Finland,FIN,2010,1.02
+Europe,Northern Europe,Finland,FIN,2010,0.62
+Europe,Northern Europe,Finland,FIN,2010,0.77
+Europe,Northern Europe,Finland,FIN,2011,1.35
+Europe,Northern Europe,Finland,FIN,2011,1.02
+Europe,Northern Europe,Finland,FIN,2011,0.77
+Europe,Northern Europe,Finland,FIN,2012,1.45
+Europe,Northern Europe,Finland,FIN,2012,1.09
+Europe,Northern Europe,Finland,FIN,2012,0.58
+Europe,Northern Europe,Finland,FIN,2013,0.87
+Europe,Northern Europe,Finland,FIN,2013,0.61
+Europe,Northern Europe,Finland,FIN,2013,0.51
+Europe,Northern Europe,Finland,FIN,2014,0.97
+Europe,Northern Europe,Finland,FIN,2014,0.54
+Europe,Northern Europe,Finland,FIN,2014,0.65
+Europe,Northern Europe,Finland,FIN,2015,0.57
+Europe,Northern Europe,Finland,FIN,2015,0.36
+Europe,Northern Europe,Finland,FIN,2015,0.25
+Europe,Northern Europe,Finland,FIN,2016,0.79
+Europe,Northern Europe,Finland,FIN,2016,0.57
+Europe,Northern Europe,Finland,FIN,2016,0.43
+Europe,Northern Europe,Finland,FIN,2017,0.75
+Europe,Northern Europe,Finland,FIN,2017,0.57
+Europe,Northern Europe,Finland,FIN,2017,1.07
+Europe,Northern Europe,Finland,FIN,2018,0.68
+Europe,Northern Europe,Finland,FIN,2018,0.57
+Europe,Northern Europe,Finland,FIN,2018,0.86
+Europe,Northern Europe,Finland,FIN,2019,0.68
+Europe,Northern Europe,Finland,FIN,2019,0.53
+Europe,Northern Europe,Finland,FIN,2019,1.07
+Europe,Western Europe,France,FRA,2015,1.15
+Europe,Western Europe,France,FRA,2015,0.4
+Europe,Western Europe,France,FRA,2015,0.25
+Europe,Western Europe,France,FRA,2016,0.93
+Europe,Western Europe,France,FRA,2016,0.4
+Europe,Western Europe,France,FRA,2016,0.28
+Europe,Western Europe,France,FRA,2017,0.83
+Europe,Western Europe,France,FRA,2017,0.46
+Europe,Western Europe,France,FRA,2017,0.3
+Europe,Western Europe,France,FRA,2018,0.73
+Europe,Western Europe,France,FRA,2018,0.37
+Europe,Western Europe,France,FRA,2018,0.25
+Europe,Western Europe,France,FRA,2019,0.43
+Europe,Western Europe,France,FRA,2019,0.33
+Europe,Western Europe,France,FRA,2019,0.85
+Americas,Latin America and the Caribbean,French Guiana,GUF,2006,3.3
+Americas,Latin America and the Caribbean,French Guiana,GUF,2007,1.61
+Americas,Latin America and the Caribbean,French Guiana,GUF,2008,1.25
+Americas,Latin America and the Caribbean,French Guiana,GUF,2009,4.79
+Asia,Western Asia,Georgia,GEO,2004,1.54
+Asia,Western Asia,Georgia,GEO,2005,3.27
+Asia,Western Asia,Georgia,GEO,2006,2.05
+Asia,Western Asia,Georgia,GEO,2007,2.06
+Asia,Western Asia,Georgia,GEO,2008,1.98
+Asia,Western Asia,Georgia,GEO,2009,1.53
+Asia,Western Asia,Georgia,GEO,2010,1.3
+Asia,Western Asia,Georgia,GEO,2010,0.14
+Asia,Western Asia,Georgia,GEO,2014,1.59
+Asia,Western Asia,Georgia,GEO,2014,0.09
+Asia,Western Asia,Georgia,GEO,2014,0.0
+Asia,Western Asia,Georgia,GEO,2016,1.62
+Asia,Western Asia,Georgia,GEO,2017,1.0
+Asia,Western Asia,Georgia,GEO,2018,0.91
+Asia,Western Asia,Georgia,GEO,2018,0.33
+Asia,Western Asia,Georgia,GEO,2018,0.0
+Europe,Western Europe,Germany,DEU,1990,0.93
+Europe,Western Europe,Germany,DEU,1991,1.11
+Europe,Western Europe,Germany,DEU,1992,1.14
+Europe,Western Europe,Germany,DEU,1993,1.34
+Europe,Western Europe,Germany,DEU,1994,1.63
+Europe,Western Europe,Germany,DEU,1995,1.66
+Europe,Western Europe,Germany,DEU,1996,1.6
+Europe,Western Europe,Germany,DEU,1997,1.56
+Europe,Western Europe,Germany,DEU,1998,1.44
+Europe,Western Europe,Germany,DEU,1999,1.23
+Europe,Western Europe,Germany,DEU,2000,1.31
+Europe,Western Europe,Germany,DEU,2001,1.18
+Europe,Western Europe,Germany,DEU,2002,1.13
+Europe,Western Europe,Germany,DEU,2003,1.17
+Europe,Western Europe,Germany,DEU,2004,1.1
+Europe,Western Europe,Germany,DEU,2005,1.07
+Europe,Western Europe,Germany,DEU,2005,1.02
+Europe,Western Europe,Germany,DEU,2006,1.06
+Europe,Western Europe,Germany,DEU,2006,1.13
+Europe,Western Europe,Germany,DEU,2007,0.94
+Europe,Western Europe,Germany,DEU,2007,1.12
+Europe,Western Europe,Germany,DEU,2008,0.89
+Europe,Western Europe,Germany,DEU,2008,1.12
+Europe,Western Europe,Germany,DEU,2009,0.94
+Europe,Western Europe,Germany,DEU,2009,0.55
+Europe,Western Europe,Germany,DEU,2010,0.95
+Europe,Western Europe,Germany,DEU,2010,0.56
+Europe,Western Europe,Germany,DEU,2011,0.82
+Europe,Western Europe,Germany,DEU,2011,0.55
+Europe,Western Europe,Germany,DEU,2011,0.39
+Europe,Western Europe,Germany,DEU,2012,0.72
+Europe,Western Europe,Germany,DEU,2012,0.44
+Europe,Western Europe,Germany,DEU,2012,0.27
+Europe,Western Europe,Germany,DEU,2013,0.79
+Europe,Western Europe,Germany,DEU,2013,0.54
+Europe,Western Europe,Germany,DEU,2013,0.35
+Europe,Western Europe,Germany,DEU,2014,0.82
+Europe,Western Europe,Germany,DEU,2014,0.58
+Europe,Western Europe,Germany,DEU,2014,0.4
+Europe,Western Europe,Germany,DEU,2015,0.79
+Europe,Western Europe,Germany,DEU,2015,0.51
+Europe,Western Europe,Germany,DEU,2015,0.33
+Europe,Western Europe,Germany,DEU,2016,1.12
+Europe,Western Europe,Germany,DEU,2016,0.57
+Europe,Western Europe,Germany,DEU,2016,0.39
+Europe,Western Europe,Germany,DEU,2017,0.55
+Europe,Western Europe,Germany,DEU,2017,0.36
+Europe,Western Europe,Germany,DEU,2017,0.91
+Europe,Western Europe,Germany,DEU,2018,0.87
+Europe,Western Europe,Germany,DEU,2018,0.48
+Europe,Western Europe,Germany,DEU,2018,0.3
+Europe,Western Europe,Germany,DEU,2019,0.44
+Europe,Western Europe,Germany,DEU,2019,0.29
+Europe,Western Europe,Germany,DEU,2019,0.65
+Europe,Western Europe,Germany,DEU,2020,0.53
+Europe,Western Europe,Germany,DEU,2020,0.84
+Europe,Western Europe,Germany,DEU,2020,0.34
+Europe,Southern Europe,Greece,GRC,1990,0.64
+Europe,Southern Europe,Greece,GRC,1991,0.81
+Europe,Southern Europe,Greece,GRC,1992,0.58
+Europe,Southern Europe,Greece,GRC,1993,0.74
+Europe,Southern Europe,Greece,GRC,1994,0.56
+Europe,Southern Europe,Greece,GRC,1995,0.8
+Europe,Southern Europe,Greece,GRC,1996,0.99
+Europe,Southern Europe,Greece,GRC,1997,0.71
+Europe,Southern Europe,Greece,GRC,1998,0.78
+Europe,Southern Europe,Greece,GRC,1999,0.73
+Europe,Southern Europe,Greece,GRC,2001,0.64
+Europe,Southern Europe,Greece,GRC,2002,0.42
+Europe,Southern Europe,Greece,GRC,2003,0.58
+Europe,Southern Europe,Greece,GRC,2004,0.52
+Europe,Southern Europe,Greece,GRC,2005,0.78
+Europe,Southern Europe,Greece,GRC,2006,0.39
+Europe,Southern Europe,Greece,GRC,2007,0.62
+Europe,Southern Europe,Greece,GRC,2008,0.59
+Europe,Southern Europe,Greece,GRC,2009,0.45
+Europe,Southern Europe,Greece,GRC,2010,0.61
+Europe,Southern Europe,Greece,GRC,2011,0.58
+Europe,Southern Europe,Greece,GRC,2012,0.71
+Europe,Southern Europe,Greece,GRC,2013,0.91
+Europe,Southern Europe,Greece,GRC,2014,0.5
+Europe,Southern Europe,Greece,GRC,2015,0.55
+Europe,Southern Europe,Greece,GRC,2015,0.2
+Europe,Southern Europe,Greece,GRC,2016,0.48
+Europe,Southern Europe,Greece,GRC,2016,0.24
+Europe,Southern Europe,Greece,GRC,2017,0.43
+Europe,Southern Europe,Greece,GRC,2017,0.13
+Europe,Southern Europe,Greece,GRC,2018,0.54
+Europe,Southern Europe,Greece,GRC,2018,0.24
+Europe,Southern Europe,Greece,GRC,2019,0.21
+Europe,Southern Europe,Greece,GRC,2019,0.36
+Europe,Southern Europe,Greece,GRC,2020,0.0
+Europe,Southern Europe,Greece,GRC,2020,0.13
+Europe,Southern Europe,Greece,GRC,2020,0.32
+Americas,Latin America and the Caribbean,Grenada,GRD,2005,5.75
+Americas,Latin America and the Caribbean,Grenada,GRD,2005,5.75
+Americas,Latin America and the Caribbean,Grenada,GRD,2006,5.75
+Americas,Latin America and the Caribbean,Grenada,GRD,2006,1.92
+Americas,Latin America and the Caribbean,Grenada,GRD,2007,3.83
+Americas,Latin America and the Caribbean,Grenada,GRD,2007,1.91
+Americas,Latin America and the Caribbean,Grenada,GRD,2007,0.0
+Americas,Latin America and the Caribbean,Grenada,GRD,2008,3.82
+Americas,Latin America and the Caribbean,Grenada,GRD,2008,0.0
+Americas,Latin America and the Caribbean,Grenada,GRD,2008,0.0
+Americas,Latin America and the Caribbean,Grenada,GRD,2009,5.73
+Americas,Latin America and the Caribbean,Grenada,GRD,2009,3.82
+Americas,Latin America and the Caribbean,Grenada,GRD,2009,1.91
+Americas,Latin America and the Caribbean,Grenada,GRD,2010,3.81
+Americas,Latin America and the Caribbean,Grenada,GRD,2010,0.0
+Americas,Latin America and the Caribbean,Grenada,GRD,2010,0.0
+Americas,Latin America and the Caribbean,Grenada,GRD,2011,1.89
+Americas,Latin America and the Caribbean,Grenada,GRD,2011,1.89
+Americas,Latin America and the Caribbean,Grenada,GRD,2011,1.89
+Americas,Latin America and the Caribbean,Grenada,GRD,2012,9.4
+Americas,Latin America and the Caribbean,Grenada,GRD,2012,7.52
+Americas,Latin America and the Caribbean,Grenada,GRD,2012,7.52
+Americas,Latin America and the Caribbean,Grenada,GRD,2013,3.73
+Americas,Latin America and the Caribbean,Grenada,GRD,2013,1.87
+Americas,Latin America and the Caribbean,Grenada,GRD,2013,1.87
+Americas,Latin America and the Caribbean,Grenada,GRD,2014,5.56
+Americas,Latin America and the Caribbean,Grenada,GRD,2014,3.71
+Americas,Latin America and the Caribbean,Grenada,GRD,2014,0.0
+Americas,Latin America and the Caribbean,Grenada,GRD,2015,3.68
+Americas,Latin America and the Caribbean,Grenada,GRD,2015,1.84
+Americas,Latin America and the Caribbean,Grenada,GRD,2015,1.84
+Americas,Latin America and the Caribbean,Grenada,GRD,2016,9.15
+Americas,Latin America and the Caribbean,Grenada,GRD,2016,3.66
+Americas,Latin America and the Caribbean,Grenada,GRD,2016,0.0
+Americas,Latin America and the Caribbean,Grenada,GRD,2017,3.64
+Americas,Latin America and the Caribbean,Grenada,GRD,2017,3.64
+Americas,Latin America and the Caribbean,Grenada,GRD,2017,3.64
+Americas,Latin America and the Caribbean,Grenada,GRD,2018,1.81
+Americas,Latin America and the Caribbean,Grenada,GRD,2018,1.81
+Americas,Latin America and the Caribbean,Grenada,GRD,2018,1.81
+Americas,Latin America and the Caribbean,Grenada,GRD,2019,1.8
+Americas,Latin America and the Caribbean,Grenada,GRD,2019,1.8
+Americas,Latin America and the Caribbean,Grenada,GRD,2019,1.8
+Americas,Latin America and the Caribbean,Guadeloupe,GLP,2004,4.43
+Americas,Latin America and the Caribbean,Guadeloupe,GLP,2005,0.72
+Americas,Latin America and the Caribbean,Guadeloupe,GLP,2006,3.07
+Americas,Latin America and the Caribbean,Guadeloupe,GLP,2008,3.71
+Americas,Latin America and the Caribbean,Guadeloupe,GLP,2009,2.49
+Americas,Latin America and the Caribbean,Guatemala,GTM,2004,7.62
+Americas,Latin America and the Caribbean,Guatemala,GTM,2005,7.76
+Americas,Latin America and the Caribbean,Guatemala,GTM,2006,8.83
+Americas,Latin America and the Caribbean,Guatemala,GTM,2007,8.46
+Americas,Latin America and the Caribbean,Guatemala,GTM,2008,9.63
+Americas,Latin America and the Caribbean,Guatemala,GTM,2009,9.88
+Americas,Latin America and the Caribbean,Guatemala,GTM,2010,9.34
+Americas,Latin America and the Caribbean,Guatemala,GTM,2011,8.31
+Americas,Latin America and the Caribbean,Guatemala,GTM,2012,7.38
+Americas,Latin America and the Caribbean,Guatemala,GTM,2013,8.25
+Americas,Latin America and the Caribbean,Guatemala,GTM,2014,7.78
+Americas,Latin America and the Caribbean,Guatemala,GTM,2015,7.63
+Americas,Latin America and the Caribbean,Guatemala,GTM,2018,10.43
+Americas,Latin America and the Caribbean,Guatemala,GTM,2019,6.96
+Americas,Latin America and the Caribbean,Guyana,GUY,2005,7.52
+Americas,Latin America and the Caribbean,Guyana,GUY,2006,6.17
+Americas,Latin America and the Caribbean,Guyana,GUY,2007,7.49
+Americas,Latin America and the Caribbean,Guyana,GUY,2008,10.13
+Americas,Latin America and the Caribbean,Guyana,GUY,2009,7.71
+Americas,Latin America and the Caribbean,Guyana,GUY,2010,8.21
+Americas,Latin America and the Caribbean,Guyana,GUY,2011,8.98
+Americas,Latin America and the Caribbean,Guyana,GUY,2011,5.55
+Americas,Latin America and the Caribbean,Guyana,GUY,2012,7.11
+Americas,Latin America and the Caribbean,Guyana,GUY,2012,3.68
+Americas,Latin America and the Caribbean,Guyana,GUY,2013,7.87
+Americas,Latin America and the Caribbean,Guyana,GUY,2013,0.26
+Americas,Latin America and the Caribbean,Guyana,GUY,2015,7.3
+Americas,Latin America and the Caribbean,Guyana,GUY,2015,3.91
+Americas,Latin America and the Caribbean,Guyana,GUY,2015,2.61
+Americas,Latin America and the Caribbean,Guyana,GUY,2016,2.6
+Americas,Latin America and the Caribbean,Guyana,GUY,2016,2.08
+Americas,Latin America and the Caribbean,Guyana,GUY,2016,2.08
+Americas,Latin America and the Caribbean,Guyana,GUY,2017,5.43
+Americas,Latin America and the Caribbean,Guyana,GUY,2017,2.59
+Americas,Latin America and the Caribbean,Guyana,GUY,2017,2.33
+Americas,Latin America and the Caribbean,Guyana,GUY,2018,4.38
+Americas,Latin America and the Caribbean,Guyana,GUY,2018,5.93
+Americas,Latin America and the Caribbean,Guyana,GUY,2018,4.12
+Americas,Latin America and the Caribbean,Guyana,GUY,2019,2.05
+Americas,Latin America and the Caribbean,Guyana,GUY,2019,2.05
+Americas,Latin America and the Caribbean,Guyana,GUY,2019,4.62
+Americas,Latin America and the Caribbean,Guyana,GUY,2020,9.97
+Americas,Latin America and the Caribbean,Guyana,GUY,2020,5.88
+Americas,Latin America and the Caribbean,Guyana,GUY,2020,4.09
+Americas,Latin America and the Caribbean,Haiti,HTI,2013,1.33
+Americas,Latin America and the Caribbean,Haiti,HTI,2014,1.61
+Americas,Latin America and the Caribbean,Haiti,HTI,2015,1.64
+Americas,Latin America and the Caribbean,Haiti,HTI,2016,1.44
+Americas,Latin America and the Caribbean,Haiti,HTI,2018,1.03
+Americas,Latin America and the Caribbean,Honduras,HND,2006,5.48
+Americas,Latin America and the Caribbean,Honduras,HND,2007,8.28
+Americas,Latin America and the Caribbean,Honduras,HND,2008,7.79
+Americas,Latin America and the Caribbean,Honduras,HND,2009,8.91
+Americas,Latin America and the Caribbean,Honduras,HND,2010,9.23
+Americas,Latin America and the Caribbean,Honduras,HND,2011,11.37
+Americas,Latin America and the Caribbean,Honduras,HND,2012,14.0
+Americas,Latin America and the Caribbean,Honduras,HND,2013,11.11
+Americas,Latin America and the Caribbean,Honduras,HND,2013,0.05
+Americas,Latin America and the Caribbean,Honduras,HND,2013,0.02
+Americas,Latin America and the Caribbean,Honduras,HND,2014,11.05
+Americas,Latin America and the Caribbean,Honduras,HND,2014,0.16
+Americas,Latin America and the Caribbean,Honduras,HND,2014,0.11
+Americas,Latin America and the Caribbean,Honduras,HND,2015,10.48
+Americas,Latin America and the Caribbean,Honduras,HND,2015,0.44
+Americas,Latin America and the Caribbean,Honduras,HND,2015,0.22
+Americas,Latin America and the Caribbean,Honduras,HND,2016,0.71
+Americas,Latin America and the Caribbean,Honduras,HND,2016,0.54
+Americas,Latin America and the Caribbean,Honduras,HND,2016,10.04
+Americas,Latin America and the Caribbean,Honduras,HND,2017,0.68
+Americas,Latin America and the Caribbean,Honduras,HND,2017,0.44
+Americas,Latin America and the Caribbean,Honduras,HND,2017,8.28
+Americas,Latin America and the Caribbean,Honduras,HND,2018,7.84
+Americas,Latin America and the Caribbean,Honduras,HND,2018,0.27
+Americas,Latin America and the Caribbean,Honduras,HND,2018,0.23
+Americas,Latin America and the Caribbean,Honduras,HND,2019,0.21
+Americas,Latin America and the Caribbean,Honduras,HND,2019,0.12
+Americas,Latin America and the Caribbean,Honduras,HND,2019,8.16
+Americas,Latin America and the Caribbean,Honduras,HND,2020,0.02
+Americas,Latin America and the Caribbean,Honduras,HND,2020,6.58
+Europe,Eastern Europe,Hungary,HUN,1990,1.28
+Europe,Eastern Europe,Hungary,HUN,1991,2.15
+Europe,Eastern Europe,Hungary,HUN,1992,2.12
+Europe,Eastern Europe,Hungary,HUN,1993,2.18
+Europe,Eastern Europe,Hungary,HUN,1994,1.82
+Europe,Eastern Europe,Hungary,HUN,1995,1.81
+Europe,Eastern Europe,Hungary,HUN,1996,2.1
+Europe,Eastern Europe,Hungary,HUN,1997,2.07
+Europe,Eastern Europe,Hungary,HUN,1998,2.11
+Europe,Eastern Europe,Hungary,HUN,1999,1.96
+Europe,Eastern Europe,Hungary,HUN,2000,1.63
+Europe,Eastern Europe,Hungary,HUN,2001,1.59
+Europe,Eastern Europe,Hungary,HUN,2002,1.63
+Europe,Eastern Europe,Hungary,HUN,2003,1.71
+Europe,Eastern Europe,Hungary,HUN,2004,1.66
+Europe,Eastern Europe,Hungary,HUN,2005,1.44
+Europe,Eastern Europe,Hungary,HUN,2005,0.96
+Europe,Eastern Europe,Hungary,HUN,2006,1.41
+Europe,Eastern Europe,Hungary,HUN,2006,0.68
+Europe,Eastern Europe,Hungary,HUN,2007,1.2
+Europe,Eastern Europe,Hungary,HUN,2007,0.87
+Europe,Eastern Europe,Hungary,HUN,2008,1.33
+Europe,Eastern Europe,Hungary,HUN,2008,0.7
+Europe,Eastern Europe,Hungary,HUN,2009,1.2
+Europe,Eastern Europe,Hungary,HUN,2009,0.73
+Europe,Eastern Europe,Hungary,HUN,2009,0.59
+Europe,Eastern Europe,Hungary,HUN,2010,1.17
+Europe,Eastern Europe,Hungary,HUN,2010,0.56
+Europe,Eastern Europe,Hungary,HUN,2010,0.42
+Europe,Eastern Europe,Hungary,HUN,2011,0.81
+Europe,Eastern Europe,Hungary,HUN,2011,0.4
+Europe,Eastern Europe,Hungary,HUN,2011,0.31
+Europe,Eastern Europe,Hungary,HUN,2012,1.12
+Europe,Eastern Europe,Hungary,HUN,2012,0.69
+Europe,Eastern Europe,Hungary,HUN,2012,0.5
+Europe,Eastern Europe,Hungary,HUN,2013,1.37
+Europe,Eastern Europe,Hungary,HUN,2013,0.74
+Europe,Eastern Europe,Hungary,HUN,2013,0.43
+Europe,Eastern Europe,Hungary,HUN,2014,1.3
+Europe,Eastern Europe,Hungary,HUN,2014,0.7
+Europe,Eastern Europe,Hungary,HUN,2014,0.45
+Europe,Eastern Europe,Hungary,HUN,2015,1.99
+Europe,Eastern Europe,Hungary,HUN,2016,0.49
+Europe,Eastern Europe,Hungary,HUN,2016,0.25
+Europe,Eastern Europe,Hungary,HUN,2016,1.6
+Europe,Eastern Europe,Hungary,HUN,2017,0.47
+Europe,Eastern Europe,Hungary,HUN,2017,0.22
+Europe,Eastern Europe,Hungary,HUN,2017,1.41
+Europe,Eastern Europe,Hungary,HUN,2018,0.84
+Europe,Eastern Europe,Hungary,HUN,2018,0.29
+Europe,Eastern Europe,Hungary,HUN,2018,0.22
+Europe,Eastern Europe,Hungary,HUN,2019,0.61
+Europe,Eastern Europe,Hungary,HUN,2020,0.77
+Europe,Northern Europe,Iceland,ISL,1996,0.0
+Europe,Northern Europe,Iceland,ISL,1999,0.72
+Europe,Northern Europe,Iceland,ISL,2005,0.0
+Europe,Northern Europe,Iceland,ISL,2007,0.0
+Europe,Northern Europe,Iceland,ISL,2009,0.0
+Europe,Northern Europe,Iceland,ISL,2010,0.0
+Europe,Northern Europe,Iceland,ISL,2010,0.0
+Europe,Northern Europe,Iceland,ISL,2010,0.0
+Europe,Northern Europe,Iceland,ISL,2011,0.62
+Europe,Northern Europe,Iceland,ISL,2011,0.62
+Europe,Northern Europe,Iceland,ISL,2011,0.0
+Europe,Northern Europe,Iceland,ISL,2012,0.62
+Europe,Northern Europe,Iceland,ISL,2012,0.62
+Europe,Northern Europe,Iceland,ISL,2012,0.62
+Europe,Northern Europe,Iceland,ISL,2013,0.0
+Europe,Northern Europe,Iceland,ISL,2013,0.0
+Europe,Northern Europe,Iceland,ISL,2013,0.0
+Europe,Northern Europe,Iceland,ISL,2014,1.22
+Europe,Northern Europe,Iceland,ISL,2014,1.22
+Europe,Northern Europe,Iceland,ISL,2014,1.22
+Europe,Northern Europe,Iceland,ISL,2015,0.0
+Europe,Northern Europe,Iceland,ISL,2015,0.0
+Europe,Northern Europe,Iceland,ISL,2015,0.0
+Europe,Northern Europe,Iceland,ISL,2016,0.6
+Europe,Northern Europe,Iceland,ISL,2016,0.6
+Europe,Northern Europe,Iceland,ISL,2016,0.6
+Europe,Northern Europe,Iceland,ISL,2017,1.2
+Europe,Northern Europe,Iceland,ISL,2017,0.0
+Europe,Northern Europe,Iceland,ISL,2017,0.0
+Europe,Northern Europe,Iceland,ISL,2018,0.6
+Europe,Northern Europe,Iceland,ISL,2018,0.0
+Europe,Northern Europe,Iceland,ISL,2018,0.0
+Europe,Northern Europe,Iceland,ISL,2019,0.0
+Europe,Northern Europe,Iceland,ISL,2019,0.0
+Europe,Northern Europe,Iceland,ISL,2019,0.0
+Europe,Northern Europe,Iceland,ISL,2020,1.18
+Europe,Northern Europe,Iceland,ISL,2020,0.59
+Europe,Northern Europe,Iceland,ISL,2020,0.59
+Asia,Southern Asia,India,IND,1999,2.94
+Asia,Southern Asia,India,IND,2000,3.0
+Asia,Southern Asia,India,IND,2001,2.9
+Asia,Southern Asia,India,IND,2002,2.77
+Asia,Southern Asia,India,IND,2003,2.71
+Asia,Southern Asia,India,IND,2004,2.93
+Asia,Southern Asia,India,IND,2005,2.77
+Asia,Southern Asia,India,IND,2006,2.79
+Asia,Southern Asia,India,IND,2007,2.96
+Asia,Southern Asia,India,IND,2008,2.95
+Asia,Southern Asia,India,IND,2009,3.06
+Asia,Southern Asia,India,IND,2010,3.02
+Asia,Southern Asia,India,IND,2011,3.12
+Asia,Southern Asia,India,IND,2012,3.04
+Asia,Southern Asia,India,IND,2013,2.91
+Asia,Southern Asia,India,IND,2014,2.94
+Asia,Southern Asia,India,IND,2015,2.72
+Asia,Southern Asia,India,IND,2016,2.81
+Asia,Southern Asia,India,IND,2017,2.7
+Asia,Southern Asia,India,IND,2018,2.65
+Asia,Southern Asia,India,IND,2019,2.63
+Asia,Southern Asia,India,IND,2020,2.47
+Asia,Southern Asia,Iran (Islamic Republic of),IRN,2013,0.77
+Asia,Southern Asia,Iran (Islamic Republic of),IRN,2014,0.59
+Europe,Northern Europe,Ireland,IRL,1990,0.13
+Europe,Northern Europe,Ireland,IRL,1991,0.43
+Europe,Northern Europe,Ireland,IRL,1992,0.3
+Europe,Northern Europe,Ireland,IRL,1993,0.34
+Europe,Northern Europe,Ireland,IRL,1994,0.28
+Europe,Northern Europe,Ireland,IRL,1995,0.35
+Europe,Northern Europe,Ireland,IRL,1996,0.98
+Europe,Northern Europe,Ireland,IRL,1997,0.62
+Europe,Northern Europe,Ireland,IRL,1998,0.35
+Europe,Northern Europe,Ireland,IRL,1999,0.33
+Europe,Northern Europe,Ireland,IRL,2000,0.41
+Europe,Northern Europe,Ireland,IRL,2001,0.4
+Europe,Northern Europe,Ireland,IRL,2002,0.55
+Europe,Northern Europe,Ireland,IRL,2003,0.41
+Europe,Northern Europe,Ireland,IRL,2004,0.25
+Europe,Northern Europe,Ireland,IRL,2005,0.4
+Europe,Northern Europe,Ireland,IRL,2006,0.77
+Europe,Northern Europe,Ireland,IRL,2007,0.51
+Europe,Northern Europe,Ireland,IRL,2008,0.45
+Europe,Northern Europe,Ireland,IRL,2009,0.43
+Europe,Northern Europe,Ireland,IRL,2010,0.32
+Europe,Northern Europe,Ireland,IRL,2011,0.06
+Europe,Northern Europe,Ireland,IRL,2012,0.55
+Europe,Northern Europe,Ireland,IRL,2013,0.34
+Europe,Northern Europe,Ireland,IRL,2015,0.3
+Europe,Northern Europe,Ireland,IRL,2016,0.08
+Europe,Northern Europe,Ireland,IRL,2017,0.63
+Europe,Northern Europe,Ireland,IRL,2018,0.41
+Europe,Northern Europe,Ireland,IRL,2019,0.33
+Europe,Northern Europe,Ireland,IRL,2019,0.2
+Europe,Northern Europe,Ireland,IRL,2020,0.24
+Asia,Western Asia,Israel,ISR,1993,1.39
+Asia,Western Asia,Israel,ISR,1994,1.14
+Asia,Western Asia,Israel,ISR,1999,0.73
+Asia,Western Asia,Israel,ISR,2000,1.29
+Asia,Western Asia,Israel,ISR,2001,1.24
+Asia,Western Asia,Israel,ISR,2002,1.18
+Asia,Western Asia,Israel,ISR,2003,1.13
+Asia,Western Asia,Israel,ISR,2004,0.96
+Asia,Western Asia,Israel,ISR,2005,1.45
+Asia,Western Asia,Israel,ISR,2006,1.09
+Asia,Western Asia,Israel,ISR,2007,0.78
+Asia,Western Asia,Israel,ISR,2008,0.82
+Asia,Western Asia,Israel,ISR,2009,0.74
+Asia,Western Asia,Israel,ISR,2010,0.92
+Asia,Western Asia,Israel,ISR,2011,0.9
+Asia,Western Asia,Israel,ISR,2012,0.62
+Asia,Western Asia,Israel,ISR,2013,0.9
+Asia,Western Asia,Israel,ISR,2014,0.64
+Asia,Western Asia,Israel,ISR,2015,0.6
+Asia,Western Asia,Israel,ISR,2016,0.56
+Asia,Western Asia,Israel,ISR,2017,0.55
+Asia,Western Asia,Israel,ISR,2018,0.62
+Asia,Western Asia,Israel,ISR,2020,0.58
+Europe,Southern Europe,Italy,ITA,1990,0.71
+Europe,Southern Europe,Italy,ITA,1991,0.79
+Europe,Southern Europe,Italy,ITA,1992,0.73
+Europe,Southern Europe,Italy,ITA,1993,0.66
+Europe,Southern Europe,Italy,ITA,1994,0.53
+Europe,Southern Europe,Italy,ITA,1995,0.68
+Europe,Southern Europe,Italy,ITA,1996,0.73
+Europe,Southern Europe,Italy,ITA,1997,0.66
+Europe,Southern Europe,Italy,ITA,1998,0.66
+Europe,Southern Europe,Italy,ITA,1999,0.62
+Europe,Southern Europe,Italy,ITA,2000,0.65
+Europe,Southern Europe,Italy,ITA,2001,0.58
+Europe,Southern Europe,Italy,ITA,2002,0.62
+Europe,Southern Europe,Italy,ITA,2003,0.67
+Europe,Southern Europe,Italy,ITA,2005,0.45
+Europe,Southern Europe,Italy,ITA,2005,0.28
+Europe,Southern Europe,Italy,ITA,2006,0.59
+Europe,Southern Europe,Italy,ITA,2006,0.42
+Europe,Southern Europe,Italy,ITA,2007,0.49
+Europe,Southern Europe,Italy,ITA,2007,0.34
+Europe,Southern Europe,Italy,ITA,2007,0.05
+Europe,Southern Europe,Italy,ITA,2008,0.49
+Europe,Southern Europe,Italy,ITA,2008,0.36
+Europe,Southern Europe,Italy,ITA,2008,0.07
+Europe,Southern Europe,Italy,ITA,2009,0.57
+Europe,Southern Europe,Italy,ITA,2009,0.43
+Europe,Southern Europe,Italy,ITA,2009,0.04
+Europe,Southern Europe,Italy,ITA,2010,0.5
+Europe,Southern Europe,Italy,ITA,2010,0.37
+Europe,Southern Europe,Italy,ITA,2010,0.04
+Europe,Southern Europe,Italy,ITA,2011,0.54
+Europe,Southern Europe,Italy,ITA,2011,0.38
+Europe,Southern Europe,Italy,ITA,2011,0.03
+Europe,Southern Europe,Italy,ITA,2012,0.53
+Europe,Southern Europe,Italy,ITA,2012,0.36
+Europe,Southern Europe,Italy,ITA,2012,0.03
+Europe,Southern Europe,Italy,ITA,2013,0.58
+Europe,Southern Europe,Italy,ITA,2013,0.4
+Europe,Southern Europe,Italy,ITA,2013,0.26
+Europe,Southern Europe,Italy,ITA,2014,0.47
+Europe,Southern Europe,Italy,ITA,2014,0.38
+Europe,Southern Europe,Italy,ITA,2014,0.26
+Europe,Southern Europe,Italy,ITA,2015,0.44
+Europe,Southern Europe,Italy,ITA,2015,0.36
+Europe,Southern Europe,Italy,ITA,2015,0.23
+Europe,Southern Europe,Italy,ITA,2016,0.36
+Europe,Southern Europe,Italy,ITA,2016,0.25
+Europe,Southern Europe,Italy,ITA,2016,0.48
+Europe,Southern Europe,Italy,ITA,2017,0.31
+Europe,Southern Europe,Italy,ITA,2017,0.18
+Europe,Southern Europe,Italy,ITA,2017,0.42
+Europe,Southern Europe,Italy,ITA,2018,0.36
+Europe,Southern Europe,Italy,ITA,2018,0.24
+Europe,Southern Europe,Italy,ITA,2018,0.45
+Europe,Southern Europe,Italy,ITA,2019,0.3
+Europe,Southern Europe,Italy,ITA,2019,0.22
+Europe,Southern Europe,Italy,ITA,2019,0.36
+Europe,Southern Europe,Italy,ITA,2020,0.37
+Europe,Southern Europe,Italy,ITA,2020,0.32
+Europe,Southern Europe,Italy,ITA,2020,0.22
+Americas,Latin America and the Caribbean,Jamaica,JAM,2005,13.45
+Americas,Latin America and the Caribbean,Jamaica,JAM,2006,10.94
+Americas,Latin America and the Caribbean,Jamaica,JAM,2006,2.02
+Americas,Latin America and the Caribbean,Jamaica,JAM,2007,10.82
+Americas,Latin America and the Caribbean,Jamaica,JAM,2007,1.79
+Americas,Latin America and the Caribbean,Jamaica,JAM,2008,11.78
+Americas,Latin America and the Caribbean,Jamaica,JAM,2008,2.14
+Americas,Latin America and the Caribbean,Jamaica,JAM,2009,11.09
+Americas,Latin America and the Caribbean,Jamaica,JAM,2009,2.28
+Americas,Latin America and the Caribbean,Jamaica,JAM,2010,10.26
+Americas,Latin America and the Caribbean,Jamaica,JAM,2010,1.34
+Americas,Latin America and the Caribbean,Jamaica,JAM,2011,8.38
+Americas,Latin America and the Caribbean,Jamaica,JAM,2011,2.18
+Americas,Latin America and the Caribbean,Jamaica,JAM,2012,8.89
+Americas,Latin America and the Caribbean,Jamaica,JAM,2012,2.38
+Americas,Latin America and the Caribbean,Jamaica,JAM,2013,9.05
+Americas,Latin America and the Caribbean,Jamaica,JAM,2013,2.23
+Americas,Latin America and the Caribbean,Jamaica,JAM,2014,6.92
+Americas,Latin America and the Caribbean,Jamaica,JAM,2014,1.24
+Americas,Latin America and the Caribbean,Jamaica,JAM,2015,7.98
+Americas,Latin America and the Caribbean,Jamaica,JAM,2015,0.76
+Americas,Latin America and the Caribbean,Jamaica,JAM,2015,0.69
+Americas,Latin America and the Caribbean,Jamaica,JAM,2016,9.23
+Americas,Latin America and the Caribbean,Jamaica,JAM,2016,0.89
+Americas,Latin America and the Caribbean,Jamaica,JAM,2016,1.09
+Americas,Latin America and the Caribbean,Jamaica,JAM,2017,10.88
+Americas,Latin America and the Caribbean,Jamaica,JAM,2017,0.82
+Americas,Latin America and the Caribbean,Jamaica,JAM,2017,0.82
+Americas,Latin America and the Caribbean,Jamaica,JAM,2018,8.73
+Americas,Latin America and the Caribbean,Jamaica,JAM,2018,1.62
+Americas,Latin America and the Caribbean,Jamaica,JAM,2018,0.68
+Asia,Eastern Asia,Japan,JPN,1990,0.48
+Asia,Eastern Asia,Japan,JPN,1991,0.47
+Asia,Eastern Asia,Japan,JPN,1992,0.47
+Asia,Eastern Asia,Japan,JPN,1993,0.5
+Asia,Eastern Asia,Japan,JPN,1994,0.48
+Asia,Eastern Asia,Japan,JPN,1995,0.53
+Asia,Eastern Asia,Japan,JPN,1996,0.45
+Asia,Eastern Asia,Japan,JPN,1997,0.48
+Asia,Eastern Asia,Japan,JPN,1998,0.55
+Asia,Eastern Asia,Japan,JPN,1999,0.52
+Asia,Eastern Asia,Japan,JPN,2000,0.51
+Asia,Eastern Asia,Japan,JPN,2001,0.48
+Asia,Eastern Asia,Japan,JPN,2002,0.48
+Asia,Eastern Asia,Japan,JPN,2003,0.49
+Asia,Eastern Asia,Japan,JPN,2004,0.51
+Asia,Eastern Asia,Japan,JPN,2005,0.49
+Asia,Eastern Asia,Japan,JPN,2006,0.49
+Asia,Eastern Asia,Japan,JPN,2007,0.43
+Asia,Eastern Asia,Japan,JPN,2008,0.52
+Asia,Eastern Asia,Japan,JPN,2009,0.39
+Asia,Eastern Asia,Japan,JPN,2010,0.36
+Asia,Eastern Asia,Japan,JPN,2011,0.36
+Asia,Eastern Asia,Japan,JPN,2012,0.37
+Asia,Eastern Asia,Japan,JPN,2013,0.29
+Asia,Eastern Asia,Japan,JPN,2014,0.31
+Asia,Eastern Asia,Japan,JPN,2015,0.33
+Asia,Eastern Asia,Japan,JPN,2016,0.3
+Asia,Eastern Asia,Japan,JPN,2017,0.27
+Asia,Eastern Asia,Japan,JPN,2018,0.28
+Asia,Eastern Asia,Japan,JPN,2019,0.28
+Asia,Western Asia,Jordan,JOR,2007,0.95
+Asia,Western Asia,Jordan,JOR,2008,0.94
+Asia,Western Asia,Jordan,JOR,2009,1.07
+Asia,Western Asia,Jordan,JOR,2010,1.07
+Asia,Western Asia,Jordan,JOR,2011,0.74
+Asia,Western Asia,Jordan,JOR,2011,0.66
+Asia,Western Asia,Jordan,JOR,2011,0.16
+Asia,Western Asia,Jordan,JOR,2012,0.63
+Asia,Western Asia,Jordan,JOR,2012,0.58
+Asia,Western Asia,Jordan,JOR,2012,0.03
+Asia,Western Asia,Jordan,JOR,2016,0.71
+Asia,Western Asia,Jordan,JOR,2017,0.68
+Asia,Western Asia,Jordan,JOR,2017,0.33
+Asia,Western Asia,Jordan,JOR,2017,0.21
+Asia,Western Asia,Jordan,JOR,2019,0.52
+Asia,Western Asia,Jordan,JOR,2020,0.44
+Asia,Central Asia,Kazakhstan,KAZ,2008,4.42
+Asia,Central Asia,Kazakhstan,KAZ,2009,5.02
+Asia,Central Asia,Kazakhstan,KAZ,2010,4.1
+Asia,Central Asia,Kazakhstan,KAZ,2011,3.86
+Asia,Central Asia,Kazakhstan,KAZ,2012,3.19
+Asia,Central Asia,Kazakhstan,KAZ,2013,3.19
+Asia,Central Asia,Kazakhstan,KAZ,2014,2.28
+Asia,Central Asia,Kazakhstan,KAZ,2015,2.77
+Asia,Central Asia,Kazakhstan,KAZ,2017,2.37
+Asia,Central Asia,Kazakhstan,KAZ,2020,1.55
+Africa,Sub-Saharan Africa,Kenya,KEN,2014,2.22
+Africa,Sub-Saharan Africa,Kenya,KEN,2015,2.54
+Africa,Sub-Saharan Africa,Kenya,KEN,2016,2.59
+Africa,Sub-Saharan Africa,Kenya,KEN,2017,1.71
+Africa,Sub-Saharan Africa,Kenya,KEN,2018,1.69
+Africa,Sub-Saharan Africa,Kenya,KEN,2020,1.93
+Asia,Western Asia,Kuwait,KWT,2003,0.56
+Asia,Western Asia,Kuwait,KWT,2004,1.22
+Asia,Western Asia,Kuwait,KWT,2005,1.72
+Asia,Western Asia,Kuwait,KWT,2006,0.61
+Asia,Western Asia,Kuwait,KWT,2007,1.15
+Asia,Western Asia,Kuwait,KWT,2008,0.99
+Asia,Western Asia,Kuwait,KWT,2009,1.01
+Asia,Western Asia,Kuwait,KWT,2010,1.03
+Asia,Western Asia,Kuwait,KWT,2011,0.82
+Asia,Western Asia,Kuwait,KWT,2012,0.71
+Asia,Central Asia,Kyrgyzstan,KGZ,2000,3.06
+Asia,Central Asia,Kyrgyzstan,KGZ,2001,2.71
+Asia,Central Asia,Kyrgyzstan,KGZ,2002,3.13
+Asia,Central Asia,Kyrgyzstan,KGZ,2003,3.72
+Asia,Central Asia,Kyrgyzstan,KGZ,2004,3.5
+Asia,Central Asia,Kyrgyzstan,KGZ,2005,4.14
+Asia,Central Asia,Kyrgyzstan,KGZ,2006,3.44
+Asia,Central Asia,Kyrgyzstan,KGZ,2007,3.74
+Asia,Central Asia,Kyrgyzstan,KGZ,2008,3.28
+Asia,Central Asia,Kyrgyzstan,KGZ,2009,4.86
+Europe,Northern Europe,Latvia,LVA,2012,3.3
+Europe,Northern Europe,Latvia,LVA,2012,0.45
+Europe,Northern Europe,Latvia,LVA,2012,0.18
+Europe,Northern Europe,Latvia,LVA,2013,2.17
+Europe,Northern Europe,Latvia,LVA,2013,0.45
+Europe,Northern Europe,Latvia,LVA,2013,0.27
+Europe,Northern Europe,Latvia,LVA,2014,1.55
+Europe,Northern Europe,Latvia,LVA,2014,0.18
+Europe,Northern Europe,Latvia,LVA,2014,3.34
+Europe,Northern Europe,Latvia,LVA,2015,0.83
+Europe,Northern Europe,Latvia,LVA,2015,0.46
+Europe,Northern Europe,Latvia,LVA,2015,2.72
+Europe,Northern Europe,Latvia,LVA,2016,3.18
+Europe,Northern Europe,Latvia,LVA,2016,1.5
+Europe,Northern Europe,Latvia,LVA,2016,0.09
+Europe,Northern Europe,Latvia,LVA,2017,3.98
+Europe,Northern Europe,Latvia,LVA,2017,1.33
+Europe,Northern Europe,Latvia,LVA,2017,0.47
+Europe,Northern Europe,Latvia,LVA,2018,4.13
+Europe,Northern Europe,Latvia,LVA,2018,1.44
+Europe,Northern Europe,Latvia,LVA,2018,0.29
+Europe,Northern Europe,Latvia,LVA,2019,2.04
+Europe,Northern Europe,Latvia,LVA,2019,0.29
+Europe,Northern Europe,Latvia,LVA,2019,4.08
+Europe,Northern Europe,Latvia,LVA,2020,2.75
+Europe,Northern Europe,Latvia,LVA,2020,0.3
+Europe,Northern Europe,Latvia,LVA,2020,1.28
+Asia,Western Asia,Lebanon,LBN,2015,0.03
+Asia,Western Asia,Lebanon,LBN,2015,0.03
+Asia,Western Asia,Lebanon,LBN,2016,0.03
+Asia,Western Asia,Lebanon,LBN,2016,0.03
+Asia,Western Asia,Lebanon,LBN,2017,0.06
+Asia,Western Asia,Lebanon,LBN,2017,0.06
+Asia,Western Asia,Lebanon,LBN,2018,0.03
+Asia,Western Asia,Lebanon,LBN,2018,0.06
+Europe,Northern Europe,Lithuania,LTU,1993,5.17
+Europe,Northern Europe,Lithuania,LTU,1994,6.36
+Europe,Northern Europe,Lithuania,LTU,1995,7.96
+Europe,Northern Europe,Lithuania,LTU,1996,6.11
+Europe,Northern Europe,Lithuania,LTU,1997,6.07
+Europe,Northern Europe,Lithuania,LTU,1998,4.84
+Europe,Northern Europe,Lithuania,LTU,1999,4.88
+Europe,Northern Europe,Lithuania,LTU,2000,5.47
+Europe,Northern Europe,Lithuania,LTU,2001,4.82
+Europe,Northern Europe,Lithuania,LTU,2002,3.79
+Europe,Northern Europe,Lithuania,LTU,2003,5.68
+Europe,Northern Europe,Lithuania,LTU,2004,7.19
+Europe,Northern Europe,Lithuania,LTU,2005,5.58
+Europe,Northern Europe,Lithuania,LTU,2006,4.23
+Europe,Northern Europe,Lithuania,LTU,2006,1.92
+Europe,Northern Europe,Lithuania,LTU,2007,4.11
+Europe,Northern Europe,Lithuania,LTU,2007,1.37
+Europe,Northern Europe,Lithuania,LTU,2007,1.03
+Europe,Northern Europe,Lithuania,LTU,2008,4.68
+Europe,Northern Europe,Lithuania,LTU,2008,1.56
+Europe,Northern Europe,Lithuania,LTU,2008,1.04
+Europe,Northern Europe,Lithuania,LTU,2009,3.75
+Europe,Northern Europe,Lithuania,LTU,2009,1.52
+Europe,Northern Europe,Lithuania,LTU,2009,1.11
+Europe,Northern Europe,Lithuania,LTU,2010,4.45
+Europe,Northern Europe,Lithuania,LTU,2010,1.9
+Europe,Northern Europe,Lithuania,LTU,2010,1.25
+Europe,Northern Europe,Lithuania,LTU,2011,3.96
+Europe,Northern Europe,Lithuania,LTU,2011,1.38
+Europe,Northern Europe,Lithuania,LTU,2011,0.96
+Europe,Northern Europe,Lithuania,LTU,2012,3.22
+Europe,Northern Europe,Lithuania,LTU,2012,1.03
+Europe,Northern Europe,Lithuania,LTU,2012,0.67
+Europe,Northern Europe,Lithuania,LTU,2013,3.69
+Europe,Northern Europe,Lithuania,LTU,2013,1.35
+Europe,Northern Europe,Lithuania,LTU,2013,1.11
+Europe,Northern Europe,Lithuania,LTU,2014,3.3
+Europe,Northern Europe,Lithuania,LTU,2014,1.18
+Europe,Northern Europe,Lithuania,LTU,2014,0.94
+Europe,Northern Europe,Lithuania,LTU,2015,3.1
+Europe,Northern Europe,Lithuania,LTU,2015,0.89
+Europe,Northern Europe,Lithuania,LTU,2015,0.82
+Europe,Northern Europe,Lithuania,LTU,2016,2.95
+Europe,Northern Europe,Lithuania,LTU,2016,0.96
+Europe,Northern Europe,Lithuania,LTU,2016,0.51
+Europe,Northern Europe,Lithuania,LTU,2017,3.13
+Europe,Northern Europe,Lithuania,LTU,2017,0.59
+Europe,Northern Europe,Lithuania,LTU,2017,0.2
+Europe,Northern Europe,Lithuania,LTU,2018,3.58
+Europe,Northern Europe,Lithuania,LTU,2018,0.66
+Europe,Northern Europe,Lithuania,LTU,2018,0.27
+Europe,Northern Europe,Lithuania,LTU,2019,0.81
+Europe,Northern Europe,Lithuania,LTU,2019,0.61
+Europe,Northern Europe,Lithuania,LTU,2019,1.48
+Europe,Northern Europe,Lithuania,LTU,2020,0.41
+Europe,Northern Europe,Lithuania,LTU,2020,0.89
+Europe,Northern Europe,Lithuania,LTU,2020,1.98
+Europe,Western Europe,Luxembourg,LUX,1996,0.95
+Europe,Western Europe,Luxembourg,LUX,2001,1.79
+Europe,Western Europe,Luxembourg,LUX,2004,0.44
+Europe,Western Europe,Luxembourg,LUX,2006,0.85
+Europe,Western Europe,Luxembourg,LUX,2007,1.25
+Europe,Western Europe,Luxembourg,LUX,2007,0.83
+Europe,Western Europe,Luxembourg,LUX,2008,0.82
+Europe,Western Europe,Luxembourg,LUX,2009,0.0
+Europe,Western Europe,Luxembourg,LUX,2009,0.0
+Europe,Western Europe,Luxembourg,LUX,2010,1.96
+Europe,Western Europe,Luxembourg,LUX,2010,1.56
+Europe,Western Europe,Luxembourg,LUX,2011,0.0
+Europe,Western Europe,Luxembourg,LUX,2011,0.0
+Europe,Western Europe,Luxembourg,LUX,2012,0.0
+Europe,Western Europe,Luxembourg,LUX,2013,0.0
+Europe,Western Europe,Luxembourg,LUX,2014,0.72
+Europe,Western Europe,Luxembourg,LUX,2014,0.72
+Europe,Western Europe,Luxembourg,LUX,2019,0.33
+Europe,Western Europe,Luxembourg,LUX,2019,0.33
+Europe,Western Europe,Luxembourg,LUX,2020,0.0
+Europe,Western Europe,Luxembourg,LUX,2020,0.0
+Asia,Southern Asia,Maldives,MDV,2016,2.14
+Asia,Southern Asia,Maldives,MDV,2017,2.64
+Europe,Southern Europe,Malta,MLT,2004,1.97
+Europe,Southern Europe,Malta,MLT,2005,0.98
+Europe,Southern Europe,Malta,MLT,2005,0.49
+Europe,Southern Europe,Malta,MLT,2006,0.0
+Europe,Southern Europe,Malta,MLT,2006,0.0
+Europe,Southern Europe,Malta,MLT,2007,0.49
+Europe,Southern Europe,Malta,MLT,2007,0.0
+Europe,Southern Europe,Malta,MLT,2007,0.0
+Europe,Southern Europe,Malta,MLT,2008,0.48
+Europe,Southern Europe,Malta,MLT,2008,0.48
+Europe,Southern Europe,Malta,MLT,2009,1.45
+Europe,Southern Europe,Malta,MLT,2009,0.96
+Europe,Southern Europe,Malta,MLT,2010,0.48
+Europe,Southern Europe,Malta,MLT,2010,0.48
+Europe,Southern Europe,Malta,MLT,2011,1.43
+Europe,Southern Europe,Malta,MLT,2011,1.43
+Europe,Southern Europe,Malta,MLT,2012,1.42
+Europe,Southern Europe,Malta,MLT,2012,0.94
+Europe,Southern Europe,Malta,MLT,2012,0.94
+Europe,Southern Europe,Malta,MLT,2013,0.0
+Europe,Southern Europe,Malta,MLT,2013,0.0
+Europe,Southern Europe,Malta,MLT,2013,0.0
+Europe,Southern Europe,Malta,MLT,2014,0.46
+Europe,Southern Europe,Malta,MLT,2014,0.46
+Europe,Southern Europe,Malta,MLT,2014,0.46
+Europe,Southern Europe,Malta,MLT,2015,0.92
+Europe,Southern Europe,Malta,MLT,2015,0.46
+Europe,Southern Europe,Malta,MLT,2015,0.46
+Europe,Southern Europe,Malta,MLT,2016,0.92
+Europe,Southern Europe,Malta,MLT,2016,0.92
+Europe,Southern Europe,Malta,MLT,2016,0.92
+Europe,Southern Europe,Malta,MLT,2017,0.0
+Europe,Southern Europe,Malta,MLT,2017,0.0
+Europe,Southern Europe,Malta,MLT,2017,0.46
+Europe,Southern Europe,Malta,MLT,2018,1.83
+Europe,Southern Europe,Malta,MLT,2018,0.91
+Europe,Southern Europe,Malta,MLT,2018,1.83
+Europe,Southern Europe,Malta,MLT,2019,0.91
+Europe,Southern Europe,Malta,MLT,2019,0.0
+Europe,Southern Europe,Malta,MLT,2019,1.37
+Europe,Southern Europe,Malta,MLT,2020,0.45
+Europe,Southern Europe,Malta,MLT,2020,0.45
+Americas,Latin America and the Caribbean,Martinique,MTQ,2006,2.35
+Americas,Latin America and the Caribbean,Martinique,MTQ,2007,2.57
+Americas,Latin America and the Caribbean,Martinique,MTQ,2008,1.99
+Americas,Latin America and the Caribbean,Martinique,MTQ,2009,1.41
+Africa,Sub-Saharan Africa,Mauritius,MUS,1990,0.82
+Africa,Sub-Saharan Africa,Mauritius,MUS,1991,0.82
+Africa,Sub-Saharan Africa,Mauritius,MUS,1992,1.61
+Africa,Sub-Saharan Africa,Mauritius,MUS,1993,1.07
+Africa,Sub-Saharan Africa,Mauritius,MUS,1994,2.07
+Africa,Sub-Saharan Africa,Mauritius,MUS,1995,0.88
+Africa,Sub-Saharan Africa,Mauritius,MUS,1996,1.38
+Africa,Sub-Saharan Africa,Mauritius,MUS,1997,0.83
+Africa,Sub-Saharan Africa,Mauritius,MUS,1998,1.13
+Africa,Sub-Saharan Africa,Mauritius,MUS,1999,1.65
+Africa,Sub-Saharan Africa,Mauritius,MUS,2000,1.9
+Africa,Sub-Saharan Africa,Mauritius,MUS,2003,1.8
+Africa,Sub-Saharan Africa,Mauritius,MUS,2004,1.14
+Africa,Sub-Saharan Africa,Mauritius,MUS,2005,2.13
+Africa,Sub-Saharan Africa,Mauritius,MUS,2006,2.05
+Africa,Sub-Saharan Africa,Mauritius,MUS,2007,1.97
+Africa,Sub-Saharan Africa,Mauritius,MUS,2008,2.81
+Africa,Sub-Saharan Africa,Mauritius,MUS,2009,2.55
+Africa,Sub-Saharan Africa,Mauritius,MUS,2009,1.59
+Africa,Sub-Saharan Africa,Mauritius,MUS,2009,1.28
+Africa,Sub-Saharan Africa,Mauritius,MUS,2010,1.27
+Africa,Sub-Saharan Africa,Mauritius,MUS,2010,0.95
+Africa,Sub-Saharan Africa,Mauritius,MUS,2010,1.43
+Africa,Sub-Saharan Africa,Mauritius,MUS,2011,0.63
+Africa,Sub-Saharan Africa,Mauritius,MUS,2011,0.48
+Africa,Sub-Saharan Africa,Mauritius,MUS,2011,1.27
+Africa,Sub-Saharan Africa,Mauritius,MUS,2012,1.27
+Africa,Sub-Saharan Africa,Mauritius,MUS,2012,0.95
+Africa,Sub-Saharan Africa,Mauritius,MUS,2012,1.58
+Africa,Sub-Saharan Africa,Mauritius,MUS,2013,1.74
+Africa,Sub-Saharan Africa,Mauritius,MUS,2014,1.26
+Africa,Sub-Saharan Africa,Mauritius,MUS,2015,0.94
+Africa,Sub-Saharan Africa,Mauritius,MUS,2016,1.57
+Africa,Sub-Saharan Africa,Mauritius,MUS,2017,2.03
+Africa,Sub-Saharan Africa,Mauritius,MUS,2018,2.18
+Americas,Latin America and the Caribbean,Mexico,MEX,1990,3.59
+Americas,Latin America and the Caribbean,Mexico,MEX,1991,3.56
+Americas,Latin America and the Caribbean,Mexico,MEX,1992,3.69
+Americas,Latin America and the Caribbean,Mexico,MEX,1993,3.46
+Americas,Latin America and the Caribbean,Mexico,MEX,1994,3.23
+Americas,Latin America and the Caribbean,Mexico,MEX,1995,3.28
+Americas,Latin America and the Caribbean,Mexico,MEX,1996,3.09
+Americas,Latin America and the Caribbean,Mexico,MEX,1997,2.85
+Americas,Latin America and the Caribbean,Mexico,MEX,1998,3.14
+Americas,Latin America and the Caribbean,Mexico,MEX,1999,2.85
+Americas,Latin America and the Caribbean,Mexico,MEX,2000,2.55
+Americas,Latin America and the Caribbean,Mexico,MEX,2001,2.51
+Americas,Latin America and the Caribbean,Mexico,MEX,2002,2.47
+Americas,Latin America and the Caribbean,Mexico,MEX,2003,2.51
+Americas,Latin America and the Caribbean,Mexico,MEX,2004,2.26
+Americas,Latin America and the Caribbean,Mexico,MEX,2005,2.4
+Americas,Latin America and the Caribbean,Mexico,MEX,2006,2.36
+Americas,Latin America and the Caribbean,Mexico,MEX,2007,1.94
+Americas,Latin America and the Caribbean,Mexico,MEX,2008,2.52
+Americas,Latin America and the Caribbean,Mexico,MEX,2009,3.36
+Americas,Latin America and the Caribbean,Mexico,MEX,2010,4.16
+Americas,Latin America and the Caribbean,Mexico,MEX,2011,4.6
+Americas,Latin America and the Caribbean,Mexico,MEX,2012,4.65
+Americas,Latin America and the Caribbean,Mexico,MEX,2013,4.39
+Americas,Latin America and the Caribbean,Mexico,MEX,2014,3.94
+Americas,Latin America and the Caribbean,Mexico,MEX,2015,3.84
+Americas,Latin America and the Caribbean,Mexico,MEX,2016,4.48
+Americas,Latin America and the Caribbean,Mexico,MEX,2017,5.38
+Americas,Latin America and the Caribbean,Mexico,MEX,2018,5.82
+Americas,Latin America and the Caribbean,Mexico,MEX,2019,5.97
+Americas,Latin America and the Caribbean,Mexico,MEX,2020,6.0
+Oceania,Micronesia,Micronesia (Federated States of),FSM,2019,1.79
+Oceania,Micronesia,Micronesia (Federated States of),FSM,2019,0.0
+Asia,Eastern Asia,Mongolia,MNG,2007,5.09
+Asia,Eastern Asia,Mongolia,MNG,2007,0.54
+Asia,Eastern Asia,Mongolia,MNG,2008,3.7
+Asia,Eastern Asia,Mongolia,MNG,2008,1.13
+Asia,Eastern Asia,Mongolia,MNG,2009,4.38
+Asia,Eastern Asia,Mongolia,MNG,2009,0.52
+Asia,Eastern Asia,Mongolia,MNG,2010,4.89
+Asia,Eastern Asia,Mongolia,MNG,2010,0.44
+Asia,Eastern Asia,Mongolia,MNG,2011,4.29
+Asia,Eastern Asia,Mongolia,MNG,2011,0.14
+Asia,Eastern Asia,Mongolia,MNG,2012,4.0
+Asia,Eastern Asia,Mongolia,MNG,2012,0.7
+Asia,Eastern Asia,Mongolia,MNG,2013,3.85
+Asia,Eastern Asia,Mongolia,MNG,2013,0.07
+Asia,Eastern Asia,Mongolia,MNG,2013,0.89
+Asia,Eastern Asia,Mongolia,MNG,2014,3.63
+Asia,Eastern Asia,Mongolia,MNG,2014,0.13
+Asia,Eastern Asia,Mongolia,MNG,2014,0.61
+Asia,Eastern Asia,Mongolia,MNG,2015,3.36
+Asia,Eastern Asia,Mongolia,MNG,2015,0.53
+Asia,Eastern Asia,Mongolia,MNG,2015,0.26
+Asia,Eastern Asia,Mongolia,MNG,2016,2.52
+Asia,Eastern Asia,Mongolia,MNG,2016,0.26
+Asia,Eastern Asia,Mongolia,MNG,2016,0.06
+Asia,Eastern Asia,Mongolia,MNG,2017,2.85
+Asia,Eastern Asia,Mongolia,MNG,2017,0.7
+Asia,Eastern Asia,Mongolia,MNG,2017,0.06
+Asia,Eastern Asia,Mongolia,MNG,2018,2.8
+Asia,Eastern Asia,Mongolia,MNG,2018,0.19
+Asia,Eastern Asia,Mongolia,MNG,2018,0.12
+Asia,Eastern Asia,Mongolia,MNG,2019,0.12
+Asia,Eastern Asia,Mongolia,MNG,2019,0.49
+Asia,Eastern Asia,Mongolia,MNG,2019,2.45
+Asia,Eastern Asia,Mongolia,MNG,2020,0.06
+Asia,Eastern Asia,Mongolia,MNG,2020,0.42
+Asia,Eastern Asia,Mongolia,MNG,2020,2.16
+Europe,Southern Europe,Montenegro,MNE,2007,0.95
+Europe,Southern Europe,Montenegro,MNE,2008,1.59
+Europe,Southern Europe,Montenegro,MNE,2009,2.12
+Europe,Southern Europe,Montenegro,MNE,2010,2.22
+Europe,Southern Europe,Montenegro,MNE,2011,0.95
+Europe,Southern Europe,Montenegro,MNE,2011,0.95
+Europe,Southern Europe,Montenegro,MNE,2012,0.95
+Europe,Southern Europe,Montenegro,MNE,2013,0.32
+Europe,Southern Europe,Montenegro,MNE,2013,0.32
+Europe,Southern Europe,Montenegro,MNE,2014,1.26
+Europe,Southern Europe,Montenegro,MNE,2014,1.26
+Europe,Southern Europe,Montenegro,MNE,2015,0.95
+Europe,Southern Europe,Montenegro,MNE,2015,0.95
+Europe,Southern Europe,Montenegro,MNE,2015,0.63
+Europe,Southern Europe,Montenegro,MNE,2016,0.95
+Europe,Southern Europe,Montenegro,MNE,2016,0.95
+Europe,Southern Europe,Montenegro,MNE,2016,0.32
+Europe,Southern Europe,Montenegro,MNE,2017,1.26
+Europe,Southern Europe,Montenegro,MNE,2017,0.63
+Europe,Southern Europe,Montenegro,MNE,2017,0.32
+Europe,Southern Europe,Montenegro,MNE,2018,0.63
+Europe,Southern Europe,Montenegro,MNE,2018,0.63
+Europe,Southern Europe,Montenegro,MNE,2018,0.63
+Europe,Southern Europe,Montenegro,MNE,2019,0.94
+Europe,Southern Europe,Montenegro,MNE,2019,0.31
+Europe,Southern Europe,Montenegro,MNE,2019,1.57
+Europe,Southern Europe,Montenegro,MNE,2020,0.94
+Europe,Southern Europe,Montenegro,MNE,2020,0.63
+Europe,Southern Europe,Montenegro,MNE,2020,0.94
+Africa,Northern Africa,Morocco,MAR,2009,0.33
+Africa,Northern Africa,Morocco,MAR,2012,0.33
+Africa,Northern Africa,Morocco,MAR,2013,0.39
+Africa,Northern Africa,Morocco,MAR,2013,0.37
+Africa,Northern Africa,Morocco,MAR,2013,0.2
+Africa,Northern Africa,Morocco,MAR,2014,0.34
+Africa,Northern Africa,Morocco,MAR,2015,0.55
+Africa,Northern Africa,Morocco,MAR,2015,0.45
+Africa,Northern Africa,Morocco,MAR,2015,0.3
+Africa,Northern Africa,Morocco,MAR,2016,0.59
+Africa,Northern Africa,Morocco,MAR,2016,0.19
+Africa,Northern Africa,Morocco,MAR,2016,0.09
+Africa,Northern Africa,Morocco,MAR,2017,0.63
+Africa,Northern Africa,Morocco,MAR,2017,0.45
+Africa,Northern Africa,Morocco,MAR,2017,0.25
+Africa,Northern Africa,Morocco,MAR,2018,0.39
+Africa,Northern Africa,Morocco,MAR,2018,0.26
+Africa,Northern Africa,Morocco,MAR,2018,0.13
+Africa,Northern Africa,Morocco,MAR,2019,0.34
+Africa,Northern Africa,Morocco,MAR,2019,0.14
+Africa,Northern Africa,Morocco,MAR,2019,0.64
+Africa,Northern Africa,Morocco,MAR,2020,0.11
+Africa,Northern Africa,Morocco,MAR,2020,0.46
+Africa,Northern Africa,Morocco,MAR,2020,0.29
+Asia,South-eastern Asia,Myanmar,MMR,2009,0.5
+Asia,South-eastern Asia,Myanmar,MMR,2010,0.58
+Asia,South-eastern Asia,Myanmar,MMR,2011,0.38
+Asia,South-eastern Asia,Myanmar,MMR,2012,0.9
+Asia,South-eastern Asia,Myanmar,MMR,2013,0.77
+Asia,South-eastern Asia,Myanmar,MMR,2014,0.76
+Asia,South-eastern Asia,Myanmar,MMR,2015,0.71
+Asia,South-eastern Asia,Myanmar,MMR,2016,0.16
+Africa,Sub-Saharan Africa,Namibia,NAM,2020,6.87
+Africa,Sub-Saharan Africa,Namibia,NAM,2020,2.29
+Europe,Western Europe,Netherlands,NLD,1990,0.57
+Europe,Western Europe,Netherlands,NLD,1991,0.78
+Europe,Western Europe,Netherlands,NLD,1992,0.69
+Europe,Western Europe,Netherlands,NLD,1993,0.71
+Europe,Western Europe,Netherlands,NLD,1994,0.66
+Europe,Western Europe,Netherlands,NLD,1995,0.96
+Europe,Western Europe,Netherlands,NLD,1996,0.84
+Europe,Western Europe,Netherlands,NLD,1997,0.8
+Europe,Western Europe,Netherlands,NLD,1998,0.59
+Europe,Western Europe,Netherlands,NLD,1999,0.74
+Europe,Western Europe,Netherlands,NLD,2000,0.75
+Europe,Western Europe,Netherlands,NLD,2001,0.84
+Europe,Western Europe,Netherlands,NLD,2002,0.75
+Europe,Western Europe,Netherlands,NLD,2003,0.89
+Europe,Western Europe,Netherlands,NLD,2004,0.65
+Europe,Western Europe,Netherlands,NLD,2005,0.69
+Europe,Western Europe,Netherlands,NLD,2006,0.59
+Europe,Western Europe,Netherlands,NLD,2007,0.36
+Europe,Western Europe,Netherlands,NLD,2007,0.26
+Europe,Western Europe,Netherlands,NLD,2007,0.57
+Europe,Western Europe,Netherlands,NLD,2008,0.56
+Europe,Western Europe,Netherlands,NLD,2008,0.35
+Europe,Western Europe,Netherlands,NLD,2008,0.2
+Europe,Western Europe,Netherlands,NLD,2009,0.6
+Europe,Western Europe,Netherlands,NLD,2009,0.42
+Europe,Western Europe,Netherlands,NLD,2009,0.2
+Europe,Western Europe,Netherlands,NLD,2010,0.64
+Europe,Western Europe,Netherlands,NLD,2010,0.48
+Europe,Western Europe,Netherlands,NLD,2010,0.36
+Europe,Western Europe,Netherlands,NLD,2011,0.59
+Europe,Western Europe,Netherlands,NLD,2011,0.42
+Europe,Western Europe,Netherlands,NLD,2011,0.3
+Europe,Western Europe,Netherlands,NLD,2012,0.59
+Europe,Western Europe,Netherlands,NLD,2012,0.31
+Europe,Western Europe,Netherlands,NLD,2012,0.25
+Europe,Western Europe,Netherlands,NLD,2013,0.66
+Europe,Western Europe,Netherlands,NLD,2013,0.41
+Europe,Western Europe,Netherlands,NLD,2013,0.32
+Europe,Western Europe,Netherlands,NLD,2014,0.35
+Europe,Western Europe,Netherlands,NLD,2014,0.25
+Europe,Western Europe,Netherlands,NLD,2014,0.19
+Europe,Western Europe,Netherlands,NLD,2015,0.49
+Europe,Western Europe,Netherlands,NLD,2015,0.39
+Europe,Western Europe,Netherlands,NLD,2015,0.26
+Europe,Western Europe,Netherlands,NLD,2016,0.37
+Europe,Western Europe,Netherlands,NLD,2016,0.3
+Europe,Western Europe,Netherlands,NLD,2016,0.22
+Europe,Western Europe,Netherlands,NLD,2017,0.5
+Europe,Western Europe,Netherlands,NLD,2017,0.3
+Europe,Western Europe,Netherlands,NLD,2017,0.2
+Europe,Western Europe,Netherlands,NLD,2018,0.42
+Europe,Western Europe,Netherlands,NLD,2018,0.36
+Europe,Western Europe,Netherlands,NLD,2018,0.33
+Europe,Western Europe,Netherlands,NLD,2019,0.49
+Europe,Western Europe,Netherlands,NLD,2019,0.26
+Europe,Western Europe,Netherlands,NLD,2019,0.36
+Europe,Western Europe,Netherlands,NLD,2020,0.51
+Europe,Western Europe,Netherlands,NLD,2020,0.05
+Europe,Western Europe,Netherlands,NLD,2020,0.45
+Oceania,Australia and New Zealand,New Zealand,NZL,1995,0.6
+Oceania,Australia and New Zealand,New Zealand,NZL,1996,0.86
+Oceania,Australia and New Zealand,New Zealand,NZL,1997,1.25
+Oceania,Australia and New Zealand,New Zealand,NZL,1998,1.12
+Oceania,Australia and New Zealand,New Zealand,NZL,1999,0.55
+Oceania,Australia and New Zealand,New Zealand,NZL,2000,1.06
+Oceania,Australia and New Zealand,New Zealand,NZL,2001,1.06
+Oceania,Australia and New Zealand,New Zealand,NZL,2002,1.32
+Oceania,Australia and New Zealand,New Zealand,NZL,2003,0.69
+Oceania,Australia and New Zealand,New Zealand,NZL,2004,0.57
+Oceania,Australia and New Zealand,New Zealand,NZL,2005,1.27
+Oceania,Australia and New Zealand,New Zealand,NZL,2006,0.81
+Oceania,Australia and New Zealand,New Zealand,NZL,2007,0.88
+Oceania,Australia and New Zealand,New Zealand,NZL,2007,0.56
+Oceania,Australia and New Zealand,New Zealand,NZL,2007,0.23
+Oceania,Australia and New Zealand,New Zealand,NZL,2008,1.06
+Oceania,Australia and New Zealand,New Zealand,NZL,2008,0.41
+Oceania,Australia and New Zealand,New Zealand,NZL,2008,0.28
+Oceania,Australia and New Zealand,New Zealand,NZL,2009,1.14
+Oceania,Australia and New Zealand,New Zealand,NZL,2009,0.86
+Oceania,Australia and New Zealand,New Zealand,NZL,2009,0.59
+Oceania,Australia and New Zealand,New Zealand,NZL,2010,1.01
+Oceania,Australia and New Zealand,New Zealand,NZL,2010,0.54
+Oceania,Australia and New Zealand,New Zealand,NZL,2010,0.45
+Oceania,Australia and New Zealand,New Zealand,NZL,2011,0.67
+Oceania,Australia and New Zealand,New Zealand,NZL,2011,0.44
+Oceania,Australia and New Zealand,New Zealand,NZL,2011,0.4
+Oceania,Australia and New Zealand,New Zealand,NZL,2012,0.92
+Oceania,Australia and New Zealand,New Zealand,NZL,2012,0.62
+Oceania,Australia and New Zealand,New Zealand,NZL,2012,0.48
+Oceania,Australia and New Zealand,New Zealand,NZL,2013,0.52
+Oceania,Australia and New Zealand,New Zealand,NZL,2013,0.39
+Oceania,Australia and New Zealand,New Zealand,NZL,2013,0.26
+Oceania,Australia and New Zealand,New Zealand,NZL,2014,0.52
+Oceania,Australia and New Zealand,New Zealand,NZL,2014,0.26
+Oceania,Australia and New Zealand,New Zealand,NZL,2014,0.59
+Oceania,Australia and New Zealand,New Zealand,NZL,2015,0.68
+Oceania,Australia and New Zealand,New Zealand,NZL,2015,0.55
+Oceania,Australia and New Zealand,New Zealand,NZL,2015,0.21
+Oceania,Australia and New Zealand,New Zealand,NZL,2016,0.93
+Oceania,Australia and New Zealand,New Zealand,NZL,2016,0.63
+Oceania,Australia and New Zealand,New Zealand,NZL,2016,0.25
+Oceania,Australia and New Zealand,New Zealand,NZL,2017,0.54
+Oceania,Australia and New Zealand,New Zealand,NZL,2017,0.71
+Oceania,Australia and New Zealand,New Zealand,NZL,2017,0.33
+Oceania,Australia and New Zealand,New Zealand,NZL,2019,1.11
+Oceania,Australia and New Zealand,New Zealand,NZL,2019,0.49
+Americas,Latin America and the Caribbean,Nicaragua,NIC,2008,2.02
+Americas,Latin America and the Caribbean,Nicaragua,NIC,2009,3.24
+Americas,Latin America and the Caribbean,Nicaragua,NIC,2010,2.64
+Americas,Latin America and the Caribbean,Nicaragua,NIC,2011,1.84
+Americas,Latin America and the Caribbean,Nicaragua,NIC,2012,2.11
+Americas,Latin America and the Caribbean,Nicaragua,NIC,2013,2.11
+Americas,Latin America and the Caribbean,Nicaragua,NIC,2015,2.09
+Americas,Latin America and the Caribbean,Nicaragua,NIC,2016,0.44
+Americas,Latin America and the Caribbean,Nicaragua,NIC,2016,0.34
+Americas,Latin America and the Caribbean,Nicaragua,NIC,2016,1.5
+Americas,Latin America and the Caribbean,Nicaragua,NIC,2017,0.8
+Americas,Latin America and the Caribbean,Nicaragua,NIC,2017,0.77
+Americas,Latin America and the Caribbean,Nicaragua,NIC,2017,1.79
+Americas,Latin America and the Caribbean,Nicaragua,NIC,2018,0.76
+Americas,Latin America and the Caribbean,Nicaragua,NIC,2018,0.7
+Americas,Latin America and the Caribbean,Nicaragua,NIC,2018,1.92
+Americas,Latin America and the Caribbean,Nicaragua,NIC,2019,0.75
+Americas,Latin America and the Caribbean,Nicaragua,NIC,2019,0.63
+Americas,Latin America and the Caribbean,Nicaragua,NIC,2019,1.6
+Europe,Southern Europe,North Macedonia,MKD,1998,0.96
+Europe,Southern Europe,North Macedonia,MKD,1999,0.85
+Europe,Southern Europe,North Macedonia,MKD,2000,1.14
+Europe,Southern Europe,North Macedonia,MKD,2002,0.85
+Europe,Southern Europe,North Macedonia,MKD,2003,1.65
+Europe,Southern Europe,North Macedonia,MKD,2004,1.19
+Europe,Southern Europe,North Macedonia,MKD,2005,0.9
+Europe,Southern Europe,North Macedonia,MKD,2006,0.87
+Europe,Southern Europe,North Macedonia,MKD,2006,0.48
+Europe,Southern Europe,North Macedonia,MKD,2007,1.06
+Europe,Southern Europe,North Macedonia,MKD,2007,0.68
+Europe,Southern Europe,North Macedonia,MKD,2008,0.87
+Europe,Southern Europe,North Macedonia,MKD,2008,0.68
+Europe,Southern Europe,North Macedonia,MKD,2009,1.16
+Europe,Southern Europe,North Macedonia,MKD,2009,0.87
+Europe,Southern Europe,North Macedonia,MKD,2010,1.45
+Europe,Southern Europe,North Macedonia,MKD,2010,0.97
+Europe,Southern Europe,North Macedonia,MKD,2011,0.39
+Europe,Southern Europe,North Macedonia,MKD,2011,0.29
+Europe,Southern Europe,North Macedonia,MKD,2012,1.06
+Europe,Southern Europe,North Macedonia,MKD,2012,0.39
+Europe,Southern Europe,North Macedonia,MKD,2012,0.19
+Europe,Southern Europe,North Macedonia,MKD,2013,0.67
+Europe,Southern Europe,North Macedonia,MKD,2013,0.48
+Europe,Southern Europe,North Macedonia,MKD,2014,0.96
+Europe,Southern Europe,North Macedonia,MKD,2014,0.77
+Europe,Southern Europe,North Macedonia,MKD,2014,0.58
+Europe,Southern Europe,North Macedonia,MKD,2015,0.19
+Europe,Southern Europe,North Macedonia,MKD,2015,0.58
+Europe,Southern Europe,North Macedonia,MKD,2015,0.29
+Europe,Southern Europe,North Macedonia,MKD,2016,0.58
+Europe,Southern Europe,North Macedonia,MKD,2016,0.48
+Europe,Southern Europe,North Macedonia,MKD,2016,0.29
+Europe,Southern Europe,North Macedonia,MKD,2017,0.38
+Europe,Southern Europe,North Macedonia,MKD,2017,0.58
+Europe,Southern Europe,North Macedonia,MKD,2017,0.0
+Europe,Southern Europe,North Macedonia,MKD,2018,0.86
+Europe,Southern Europe,North Macedonia,MKD,2019,0.38
+Europe,Northern Europe,Norway,NOR,1990,0.54
+Europe,Northern Europe,Norway,NOR,1991,0.7
+Europe,Northern Europe,Norway,NOR,1992,0.59
+Europe,Northern Europe,Norway,NOR,1993,0.79
+Europe,Northern Europe,Norway,NOR,1994,0.71
+Europe,Northern Europe,Norway,NOR,1995,0.72
+Europe,Northern Europe,Norway,NOR,1996,0.91
+Europe,Northern Europe,Norway,NOR,1997,0.54
+Europe,Northern Europe,Norway,NOR,1998,0.55
+Europe,Northern Europe,Norway,NOR,1999,0.54
+Europe,Northern Europe,Norway,NOR,2000,0.96
+Europe,Northern Europe,Norway,NOR,2001,0.64
+Europe,Northern Europe,Norway,NOR,2002,0.67
+Europe,Northern Europe,Norway,NOR,2003,1.06
+Europe,Northern Europe,Norway,NOR,2004,0.52
+Europe,Northern Europe,Norway,NOR,2005,0.68
+Europe,Northern Europe,Norway,NOR,2006,0.89
+Europe,Northern Europe,Norway,NOR,2007,0.72
+Europe,Northern Europe,Norway,NOR,2008,0.42
+Europe,Northern Europe,Norway,NOR,2009,0.5
+Europe,Northern Europe,Norway,NOR,2010,0.61
+Europe,Northern Europe,Norway,NOR,2011,2.1
+Europe,Northern Europe,Norway,NOR,2012,0.36
+Europe,Northern Europe,Norway,NOR,2013,0.79
+Europe,Northern Europe,Norway,NOR,2014,0.51
+Europe,Northern Europe,Norway,NOR,2015,0.54
+Europe,Northern Europe,Norway,NOR,2016,0.42
+Europe,Northern Europe,Norway,NOR,2017,0.5
+Europe,Northern Europe,Norway,NOR,2018,0.34
+Europe,Northern Europe,Norway,NOR,2019,0.6
+Europe,Northern Europe,Norway,NOR,2019,0.49
+Europe,Northern Europe,Norway,NOR,2020,0.56
+Europe,Northern Europe,Norway,NOR,2020,0.37
+Asia,Western Asia,Oman,OMN,2014,0.42
+Asia,Western Asia,Oman,OMN,2015,0.27
+Asia,Western Asia,Oman,OMN,2015,0.13
+Asia,Western Asia,Oman,OMN,2015,0.0
+Asia,Western Asia,Oman,OMN,2016,0.32
+Asia,Western Asia,Oman,OMN,2016,0.06
+Asia,Western Asia,Oman,OMN,2016,0.0
+Asia,Western Asia,Oman,OMN,2017,0.25
+Asia,Western Asia,Oman,OMN,2017,0.06
+Asia,Western Asia,Oman,OMN,2017,0.0
+Asia,Western Asia,Oman,OMN,2018,0.12
+Asia,Western Asia,Oman,OMN,2018,0.0
+Asia,Western Asia,Oman,OMN,2018,0.0
+Asia,Western Asia,Oman,OMN,2019,0.35
+Americas,Latin America and the Caribbean,Panama,PAN,1996,1.61
+Americas,Latin America and the Caribbean,Panama,PAN,1997,2.13
+Americas,Latin America and the Caribbean,Panama,PAN,1998,2.8
+Americas,Latin America and the Caribbean,Panama,PAN,1999,1.27
+Americas,Latin America and the Caribbean,Panama,PAN,2000,1.93
+Americas,Latin America and the Caribbean,Panama,PAN,2001,1.75
+Americas,Latin America and the Caribbean,Panama,PAN,2002,2.51
+Americas,Latin America and the Caribbean,Panama,PAN,2003,2.26
+Americas,Latin America and the Caribbean,Panama,PAN,2004,1.66
+Americas,Latin America and the Caribbean,Panama,PAN,2005,2.15
+Americas,Latin America and the Caribbean,Panama,PAN,2005,0.73
+Americas,Latin America and the Caribbean,Panama,PAN,2006,1.13
+Americas,Latin America and the Caribbean,Panama,PAN,2006,0.65
+Americas,Latin America and the Caribbean,Panama,PAN,2007,1.22
+Americas,Latin America and the Caribbean,Panama,PAN,2007,0.64
+Americas,Latin America and the Caribbean,Panama,PAN,2008,1.77
+Americas,Latin America and the Caribbean,Panama,PAN,2008,0.8
+Americas,Latin America and the Caribbean,Panama,PAN,2009,2.25
+Americas,Latin America and the Caribbean,Panama,PAN,2009,1.18
+Americas,Latin America and the Caribbean,Panama,PAN,2010,1.71
+Americas,Latin America and the Caribbean,Panama,PAN,2010,1.21
+Americas,Latin America and the Caribbean,Panama,PAN,2011,1.41
+Americas,Latin America and the Caribbean,Panama,PAN,2011,0.98
+Americas,Latin America and the Caribbean,Panama,PAN,2012,1.82
+Americas,Latin America and the Caribbean,Panama,PAN,2012,0.48
+Americas,Latin America and the Caribbean,Panama,PAN,2012,0.21
+Americas,Latin America and the Caribbean,Panama,PAN,2013,2.62
+Americas,Latin America and the Caribbean,Panama,PAN,2014,1.97
+Americas,Latin America and the Caribbean,Panama,PAN,2015,2.5
+Americas,Latin America and the Caribbean,Panama,PAN,2016,2.19
+Americas,Latin America and the Caribbean,Panama,PAN,2017,2.1
+Americas,Latin America and the Caribbean,Panama,PAN,2018,1.78
+Americas,Latin America and the Caribbean,Panama,PAN,2019,2.45
+Americas,Latin America and the Caribbean,Panama,PAN,2020,2.41
+Americas,Latin America and the Caribbean,Paraguay,PRY,2007,1.56
+Americas,Latin America and the Caribbean,Paraguay,PRY,2008,1.97
+Americas,Latin America and the Caribbean,Paraguay,PRY,2009,2.28
+Americas,Latin America and the Caribbean,Paraguay,PRY,2010,2.38
+Americas,Latin America and the Caribbean,Paraguay,PRY,2011,1.99
+Americas,Latin America and the Caribbean,Paraguay,PRY,2012,2.31
+Americas,Latin America and the Caribbean,Paraguay,PRY,2013,1.63
+Americas,Latin America and the Caribbean,Paraguay,PRY,2013,0.16
+Americas,Latin America and the Caribbean,Paraguay,PRY,2014,2.13
+Americas,Latin America and the Caribbean,Paraguay,PRY,2014,0.99
+Americas,Latin America and the Caribbean,Paraguay,PRY,2014,0.8
+Americas,Latin America and the Caribbean,Paraguay,PRY,2015,1.74
+Americas,Latin America and the Caribbean,Paraguay,PRY,2015,0.55
+Americas,Latin America and the Caribbean,Paraguay,PRY,2015,0.4
+Americas,Latin America and the Caribbean,Paraguay,PRY,2016,1.65
+Americas,Latin America and the Caribbean,Paraguay,PRY,2016,1.14
+Americas,Latin America and the Caribbean,Paraguay,PRY,2016,0.9
+Americas,Latin America and the Caribbean,Paraguay,PRY,2017,1.69
+Americas,Latin America and the Caribbean,Paraguay,PRY,2017,1.57
+Americas,Latin America and the Caribbean,Paraguay,PRY,2017,1.51
+Americas,Latin America and the Caribbean,Paraguay,PRY,2018,1.84
+Americas,Latin America and the Caribbean,Paraguay,PRY,2018,1.73
+Americas,Latin America and the Caribbean,Paraguay,PRY,2018,1.49
+Americas,Latin America and the Caribbean,Paraguay,PRY,2019,1.56
+Americas,Latin America and the Caribbean,Paraguay,PRY,2019,1.07
+Americas,Latin America and the Caribbean,Paraguay,PRY,2019,1.04
+Americas,Latin America and the Caribbean,Paraguay,PRY,2020,1.97
+Americas,Latin America and the Caribbean,Paraguay,PRY,2020,0.88
+Americas,Latin America and the Caribbean,Paraguay,PRY,2020,1.03
+Americas,Latin America and the Caribbean,Peru,PER,2011,1.9
+Americas,Latin America and the Caribbean,Peru,PER,2011,0.8
+Americas,Latin America and the Caribbean,Peru,PER,2011,0.52
+Americas,Latin America and the Caribbean,Peru,PER,2012,0.78
+Americas,Latin America and the Caribbean,Peru,PER,2012,0.57
+Americas,Latin America and the Caribbean,Peru,PER,2012,2.14
+Americas,Latin America and the Caribbean,Peru,PER,2013,2.08
+Americas,Latin America and the Caribbean,Peru,PER,2013,0.76
+Americas,Latin America and the Caribbean,Peru,PER,2013,0.51
+Americas,Latin America and the Caribbean,Peru,PER,2014,2.28
+Americas,Latin America and the Caribbean,Peru,PER,2014,0.94
+Americas,Latin America and the Caribbean,Peru,PER,2014,0.63
+Americas,Latin America and the Caribbean,Peru,PER,2015,2.66
+Americas,Latin America and the Caribbean,Peru,PER,2015,0.72
+Americas,Latin America and the Caribbean,Peru,PER,2015,0.5
+Americas,Latin America and the Caribbean,Peru,PER,2016,3.33
+Americas,Latin America and the Caribbean,Peru,PER,2016,0.95
+Americas,Latin America and the Caribbean,Peru,PER,2016,0.71
+Americas,Latin America and the Caribbean,Peru,PER,2018,1.15
+Americas,Latin America and the Caribbean,Peru,PER,2018,0.99
+Americas,Latin America and the Caribbean,Peru,PER,2018,3.3
+Americas,Latin America and the Caribbean,Peru,PER,2019,3.25
+Asia,South-eastern Asia,Philippines,PHL,2007,2.14
+Asia,South-eastern Asia,Philippines,PHL,2008,2.65
+Asia,South-eastern Asia,Philippines,PHL,2009,3.44
+Asia,South-eastern Asia,Philippines,PHL,2010,2.6
+Asia,South-eastern Asia,Philippines,PHL,2011,2.15
+Asia,South-eastern Asia,Philippines,PHL,2012,2.25
+Asia,South-eastern Asia,Philippines,PHL,2016,0.15
+Asia,South-eastern Asia,Philippines,PHL,2016,0.07
+Asia,South-eastern Asia,Philippines,PHL,2016,1.82
+Asia,South-eastern Asia,Philippines,PHL,2017,0.09
+Asia,South-eastern Asia,Philippines,PHL,2017,0.04
+Asia,South-eastern Asia,Philippines,PHL,2017,1.31
+Asia,South-eastern Asia,Philippines,PHL,2018,0.1
+Asia,South-eastern Asia,Philippines,PHL,2018,0.04
+Asia,South-eastern Asia,Philippines,PHL,2018,0.93
+Asia,South-eastern Asia,Philippines,PHL,2019,0.05
+Asia,South-eastern Asia,Philippines,PHL,2019,0.03
+Asia,South-eastern Asia,Philippines,PHL,2019,0.8
+Europe,Eastern Europe,Poland,POL,1990,1.12
+Europe,Eastern Europe,Poland,POL,1991,1.37
+Europe,Eastern Europe,Poland,POL,1992,1.11
+Europe,Eastern Europe,Poland,POL,1993,1.26
+Europe,Eastern Europe,Poland,POL,1994,1.26
+Europe,Eastern Europe,Poland,POL,1995,1.2
+Europe,Eastern Europe,Poland,POL,1996,1.33
+Europe,Eastern Europe,Poland,POL,1999,0.93
+Europe,Eastern Europe,Poland,POL,2000,1.15
+Europe,Eastern Europe,Poland,POL,2001,1.1
+Europe,Eastern Europe,Poland,POL,2002,1.03
+Europe,Eastern Europe,Poland,POL,2003,1.04
+Europe,Eastern Europe,Poland,POL,2004,0.78
+Europe,Eastern Europe,Poland,POL,2005,0.73
+Europe,Eastern Europe,Poland,POL,2006,0.71
+Europe,Eastern Europe,Poland,POL,2007,0.58
+Europe,Eastern Europe,Poland,POL,2008,0.45
+Europe,Eastern Europe,Poland,POL,2009,0.57
+Europe,Eastern Europe,Poland,POL,2010,0.6
+Europe,Eastern Europe,Poland,POL,2011,0.67
+Europe,Eastern Europe,Poland,POL,2012,0.56
+Europe,Eastern Europe,Poland,POL,2013,0.43
+Europe,Eastern Europe,Poland,POL,2014,0.47
+Europe,Eastern Europe,Poland,POL,2015,0.57
+Europe,Eastern Europe,Poland,POL,2016,0.36
+Europe,Eastern Europe,Poland,POL,2017,0.48
+Europe,Eastern Europe,Poland,POL,2018,0.42
+Europe,Eastern Europe,Poland,POL,2019,0.41
+Europe,Eastern Europe,Poland,POL,2020,0.46
+Europe,Southern Europe,Portugal,PRT,1994,0.77
+Europe,Southern Europe,Portugal,PRT,1995,0.67
+Europe,Southern Europe,Portugal,PRT,1996,0.51
+Europe,Southern Europe,Portugal,PRT,1997,0.54
+Europe,Southern Europe,Portugal,PRT,1998,0.6
+Europe,Southern Europe,Portugal,PRT,1999,0.63
+Europe,Southern Europe,Portugal,PRT,2000,0.67
+Europe,Southern Europe,Portugal,PRT,2001,0.47
+Europe,Southern Europe,Portugal,PRT,2002,0.69
+Europe,Southern Europe,Portugal,PRT,2003,0.62
+Europe,Southern Europe,Portugal,PRT,2004,0.73
+Europe,Southern Europe,Portugal,PRT,2005,0.61
+Europe,Southern Europe,Portugal,PRT,2006,0.78
+Europe,Southern Europe,Portugal,PRT,2007,0.94
+Europe,Southern Europe,Portugal,PRT,2008,0.66
+Europe,Southern Europe,Portugal,PRT,2009,0.69
+Europe,Southern Europe,Portugal,PRT,2010,0.76
+Europe,Southern Europe,Portugal,PRT,2011,0.71
+Europe,Southern Europe,Portugal,PRT,2012,0.75
+Europe,Southern Europe,Portugal,PRT,2013,0.95
+Europe,Southern Europe,Portugal,PRT,2014,0.88
+Europe,Southern Europe,Portugal,PRT,2019,0.5
+Americas,Latin America and the Caribbean,Puerto Rico,PRI,1990,4.27
+Americas,Latin America and the Caribbean,Puerto Rico,PRI,1991,6.13
+Americas,Latin America and the Caribbean,Puerto Rico,PRI,1992,4.24
+Americas,Latin America and the Caribbean,Puerto Rico,PRI,1993,5.48
+Americas,Latin America and the Caribbean,Puerto Rico,PRI,1994,4.59
+Americas,Latin America and the Caribbean,Puerto Rico,PRI,1995,4.23
+Americas,Latin America and the Caribbean,Puerto Rico,PRI,1996,4.11
+Americas,Latin America and the Caribbean,Puerto Rico,PRI,1997,3.12
+Americas,Latin America and the Caribbean,Puerto Rico,PRI,1998,3.13
+Americas,Latin America and the Caribbean,Puerto Rico,PRI,1999,2.96
+Americas,Latin America and the Caribbean,Puerto Rico,PRI,2000,3.88
+Americas,Latin America and the Caribbean,Puerto Rico,PRI,2001,3.62
+Americas,Latin America and the Caribbean,Puerto Rico,PRI,2002,3.31
+Americas,Latin America and the Caribbean,Puerto Rico,PRI,2003,3.1
+Americas,Latin America and the Caribbean,Puerto Rico,PRI,2004,3.59
+Americas,Latin America and the Caribbean,Puerto Rico,PRI,2005,3.49
+Americas,Latin America and the Caribbean,Puerto Rico,PRI,2006,2.39
+Americas,Latin America and the Caribbean,Puerto Rico,PRI,2007,2.66
+Americas,Latin America and the Caribbean,Puerto Rico,PRI,2008,3.41
+Americas,Latin America and the Caribbean,Puerto Rico,PRI,2009,3.0
+Americas,Latin America and the Caribbean,Puerto Rico,PRI,2010,3.44
+Americas,Latin America and the Caribbean,Puerto Rico,PRI,2011,4.43
+Americas,Latin America and the Caribbean,Puerto Rico,PRI,2012,4.51
+Americas,Latin America and the Caribbean,Puerto Rico,PRI,2013,2.91
+Americas,Latin America and the Caribbean,Puerto Rico,PRI,2014,2.89
+Americas,Latin America and the Caribbean,Puerto Rico,PRI,2015,2.1
+Americas,Latin America and the Caribbean,Puerto Rico,PRI,2016,3.26
+Americas,Latin America and the Caribbean,Puerto Rico,PRI,2017,2.05
+Americas,Latin America and the Caribbean,Puerto Rico,PRI,2017,0.72
+Americas,Latin America and the Caribbean,Puerto Rico,PRI,2018,3.2
+Americas,Latin America and the Caribbean,Puerto Rico,PRI,2018,1.44
+Americas,Latin America and the Caribbean,Puerto Rico,PRI,2019,2.47
+Americas,Latin America and the Caribbean,Puerto Rico,PRI,2019,0.65
+Americas,Latin America and the Caribbean,Puerto Rico,PRI,2020,3.06
+Americas,Latin America and the Caribbean,Puerto Rico,PRI,2020,0.53
+Asia,Western Asia,Qatar,QAT,2001,0.46
+Asia,Western Asia,Qatar,QAT,2004,0.39
+Asia,Western Asia,Qatar,QAT,2005,1.42
+Asia,Western Asia,Qatar,QAT,2006,0.33
+Asia,Western Asia,Qatar,QAT,2007,0.9
+Asia,Western Asia,Qatar,QAT,2008,0.27
+Asia,Western Asia,Qatar,QAT,2009,0.5
+Asia,Western Asia,Qatar,QAT,2010,0.0
+Asia,Western Asia,Qatar,QAT,2011,0.0
+Asia,Western Asia,Qatar,QAT,2012,0.2
+Asia,Western Asia,Qatar,QAT,2013,0.18
+Asia,Western Asia,Qatar,QAT,2014,0.34
+Asia,Eastern Asia,Republic of Korea,KOR,2011,0.87
+Asia,Eastern Asia,Republic of Korea,KOR,2012,0.88
+Asia,Eastern Asia,Republic of Korea,KOR,2013,0.72
+Asia,Eastern Asia,Republic of Korea,KOR,2014,0.76
+Asia,Eastern Asia,Republic of Korea,KOR,2015,0.78
+Asia,Eastern Asia,Republic of Korea,KOR,2016,0.76
+Asia,Eastern Asia,Republic of Korea,KOR,2017,0.6
+Asia,Eastern Asia,Republic of Korea,KOR,2018,0.6
+Asia,Eastern Asia,Republic of Korea,KOR,2019,0.6
+Asia,Eastern Asia,Republic of Korea,KOR,2020,0.54
+Europe,Eastern Europe,Republic of Moldova,MDA,1991,4.23
+Europe,Eastern Europe,Republic of Moldova,MDA,1992,5.51
+Europe,Eastern Europe,Republic of Moldova,MDA,1993,4.95
+Europe,Eastern Europe,Republic of Moldova,MDA,1994,4.56
+Europe,Eastern Europe,Republic of Moldova,MDA,1995,4.14
+Europe,Eastern Europe,Republic of Moldova,MDA,1996,5.0
+Europe,Eastern Europe,Republic of Moldova,MDA,1997,4.75
+Europe,Eastern Europe,Republic of Moldova,MDA,1998,4.08
+Europe,Eastern Europe,Republic of Moldova,MDA,1999,4.46
+Europe,Eastern Europe,Republic of Moldova,MDA,2000,5.49
+Europe,Eastern Europe,Republic of Moldova,MDA,2001,5.51
+Europe,Eastern Europe,Republic of Moldova,MDA,2002,5.81
+Europe,Eastern Europe,Republic of Moldova,MDA,2003,4.93
+Europe,Eastern Europe,Republic of Moldova,MDA,2004,4.25
+Europe,Eastern Europe,Republic of Moldova,MDA,2005,4.61
+Europe,Eastern Europe,Republic of Moldova,MDA,2006,3.52
+Europe,Eastern Europe,Republic of Moldova,MDA,2006,0.37
+Europe,Eastern Europe,Republic of Moldova,MDA,2007,3.16
+Europe,Eastern Europe,Republic of Moldova,MDA,2007,0.23
+Europe,Eastern Europe,Republic of Moldova,MDA,2008,4.26
+Europe,Eastern Europe,Republic of Moldova,MDA,2008,0.7
+Europe,Eastern Europe,Republic of Moldova,MDA,2009,3.34
+Europe,Eastern Europe,Republic of Moldova,MDA,2009,0.28
+Europe,Eastern Europe,Republic of Moldova,MDA,2010,4.81
+Europe,Eastern Europe,Republic of Moldova,MDA,2010,0.85
+Europe,Eastern Europe,Republic of Moldova,MDA,2011,4.11
+Europe,Eastern Europe,Republic of Moldova,MDA,2011,0.76
+Europe,Eastern Europe,Republic of Moldova,MDA,2012,2.98
+Europe,Eastern Europe,Republic of Moldova,MDA,2013,3.26
+Europe,Eastern Europe,Republic of Moldova,MDA,2013,0.61
+Europe,Eastern Europe,Republic of Moldova,MDA,2013,0.38
+Europe,Eastern Europe,Republic of Moldova,MDA,2014,0.8
+Europe,Eastern Europe,Republic of Moldova,MDA,2014,0.8
+Europe,Eastern Europe,Republic of Moldova,MDA,2014,0.05
+Europe,Eastern Europe,Republic of Moldova,MDA,2015,2.22
+Europe,Eastern Europe,Republic of Moldova,MDA,2015,0.33
+Europe,Eastern Europe,Republic of Moldova,MDA,2016,2.27
+Europe,Eastern Europe,Republic of Moldova,MDA,2016,0.33
+Europe,Eastern Europe,Republic of Moldova,MDA,2017,1.71
+Europe,Eastern Europe,Republic of Moldova,MDA,2017,0.57
+Europe,Eastern Europe,Republic of Moldova,MDA,2018,1.94
+Europe,Eastern Europe,Republic of Moldova,MDA,2019,2.04
+Africa,Sub-Saharan Africa,Réunion,REU,2004,2.6
+Africa,Sub-Saharan Africa,Réunion,REU,2005,1.82
+Africa,Sub-Saharan Africa,Réunion,REU,2006,1.99
+Africa,Sub-Saharan Africa,Réunion,REU,2007,1.93
+Africa,Sub-Saharan Africa,Réunion,REU,2008,1.07
+Africa,Sub-Saharan Africa,Réunion,REU,2009,1.38
+Europe,Eastern Europe,Romania,ROU,1990,1.63
+Europe,Eastern Europe,Romania,ROU,1991,1.55
+Europe,Eastern Europe,Romania,ROU,1992,1.8
+Europe,Eastern Europe,Romania,ROU,1993,1.7
+Europe,Eastern Europe,Romania,ROU,1994,1.89
+Europe,Eastern Europe,Romania,ROU,1995,1.79
+Europe,Eastern Europe,Romania,ROU,1996,1.89
+Europe,Eastern Europe,Romania,ROU,1997,1.92
+Europe,Eastern Europe,Romania,ROU,1998,1.44
+Europe,Eastern Europe,Romania,ROU,1999,1.43
+Europe,Eastern Europe,Romania,ROU,2000,1.24
+Europe,Eastern Europe,Romania,ROU,2001,1.57
+Europe,Eastern Europe,Romania,ROU,2002,2.17
+Europe,Eastern Europe,Romania,ROU,2003,2.14
+Europe,Eastern Europe,Romania,ROU,2004,1.39
+Europe,Eastern Europe,Romania,ROU,2005,0.42
+Europe,Eastern Europe,Romania,ROU,2005,1.42
+Europe,Eastern Europe,Romania,ROU,2006,0.49
+Europe,Eastern Europe,Romania,ROU,2006,1.01
+Europe,Eastern Europe,Romania,ROU,2007,0.41
+Europe,Eastern Europe,Romania,ROU,2007,1.14
+Europe,Eastern Europe,Romania,ROU,2008,0.48
+Europe,Eastern Europe,Romania,ROU,2008,0.94
+Europe,Eastern Europe,Romania,ROU,2009,0.36
+Europe,Eastern Europe,Romania,ROU,2009,0.83
+Europe,Eastern Europe,Romania,ROU,2010,0.33
+Europe,Eastern Europe,Romania,ROU,2010,0.85
+Europe,Eastern Europe,Romania,ROU,2011,0.34
+Europe,Eastern Europe,Romania,ROU,2011,0.66
+Europe,Eastern Europe,Romania,ROU,2012,0.8
+Europe,Eastern Europe,Romania,ROU,2013,0.56
+Europe,Eastern Europe,Romania,ROU,2014,1.04
+Europe,Eastern Europe,Romania,ROU,2015,0.63
+Europe,Eastern Europe,Romania,ROU,2015,0.93
+Europe,Eastern Europe,Romania,ROU,2016,0.41
+Europe,Eastern Europe,Romania,ROU,2016,0.9
+Europe,Eastern Europe,Romania,ROU,2017,0.88
+Europe,Eastern Europe,Romania,ROU,2017,0.54
+Europe,Eastern Europe,Romania,ROU,2018,0.82
+Europe,Eastern Europe,Romania,ROU,2018,0.54
+Europe,Eastern Europe,Romania,ROU,2019,0.71
+Europe,Eastern Europe,Romania,ROU,2019,0.54
+Europe,Eastern Europe,Romania,ROU,2020,0.97
+Europe,Eastern Europe,Romania,ROU,2020,0.45
+Europe,Eastern Europe,Russian Federation,RUS,1990,6.51
+Europe,Eastern Europe,Russian Federation,RUS,1991,6.75
+Europe,Eastern Europe,Russian Federation,RUS,1992,9.88
+Europe,Eastern Europe,Russian Federation,RUS,1993,13.48
+Europe,Eastern Europe,Russian Federation,RUS,1994,14.34
+Europe,Eastern Europe,Russian Federation,RUS,1995,13.69
+Europe,Eastern Europe,Russian Federation,RUS,1996,12.27
+Europe,Eastern Europe,Russian Federation,RUS,1997,11.07
+Europe,Eastern Europe,Russian Federation,RUS,1998,10.76
+Europe,Eastern Europe,Russian Federation,RUS,1999,12.64
+Europe,Eastern Europe,Russian Federation,RUS,2000,13.27
+Europe,Eastern Europe,Russian Federation,RUS,2001,13.85
+Europe,Eastern Europe,Russian Federation,RUS,2002,13.84
+Europe,Eastern Europe,Russian Federation,RUS,2003,13.35
+Europe,Eastern Europe,Russian Federation,RUS,2004,12.53
+Europe,Eastern Europe,Russian Federation,RUS,2005,11.52
+Europe,Eastern Europe,Russian Federation,RUS,2006,9.4
+Europe,Eastern Europe,Russian Federation,RUS,2007,8.08
+Europe,Eastern Europe,Russian Federation,RUS,2008,5.85
+Europe,Eastern Europe,Russian Federation,RUS,2009,6.01
+Europe,Eastern Europe,Russian Federation,RUS,2010,5.66
+Europe,Eastern Europe,Russian Federation,RUS,2011,5.26
+Europe,Eastern Europe,Russian Federation,RUS,2012,5.49
+Europe,Eastern Europe,Russian Federation,RUS,2013,5.19
+Europe,Eastern Europe,Russian Federation,RUS,2014,1.52
+Europe,Eastern Europe,Russian Federation,RUS,2014,1.02
+Europe,Eastern Europe,Russian Federation,RUS,2014,5.4
+Europe,Eastern Europe,Russian Federation,RUS,2015,5.34
+Europe,Eastern Europe,Russian Federation,RUS,2015,1.66
+Europe,Eastern Europe,Russian Federation,RUS,2015,1.1
+Europe,Eastern Europe,Russian Federation,RUS,2016,5.33
+Europe,Eastern Europe,Russian Federation,RUS,2016,1.67
+Europe,Eastern Europe,Russian Federation,RUS,2016,1.1
+Europe,Eastern Europe,Russian Federation,RUS,2017,4.46
+Europe,Eastern Europe,Russian Federation,RUS,2017,1.47
+Europe,Eastern Europe,Russian Federation,RUS,2017,1.02
+Europe,Eastern Europe,Russian Federation,RUS,2018,4.06
+Europe,Eastern Europe,Russian Federation,RUS,2018,1.69
+Europe,Eastern Europe,Russian Federation,RUS,2018,1.16
+Europe,Eastern Europe,Russian Federation,RUS,2019,1.69
+Europe,Eastern Europe,Russian Federation,RUS,2019,1.1
+Europe,Eastern Europe,Russian Federation,RUS,2019,3.73
+Europe,Eastern Europe,Russian Federation,RUS,2020,1.14
+Europe,Eastern Europe,Russian Federation,RUS,2020,3.53
+Europe,Eastern Europe,Russian Federation,RUS,2020,1.6
+Americas,Latin America and the Caribbean,Saint Lucia,LCA,1990,7.12
+Americas,Latin America and the Caribbean,Saint Lucia,LCA,1991,4.21
+Americas,Latin America and the Caribbean,Saint Lucia,LCA,1992,4.16
+Americas,Latin America and the Caribbean,Saint Lucia,LCA,1993,0.0
+Americas,Latin America and the Caribbean,Saint Lucia,LCA,1994,4.06
+Americas,Latin America and the Caribbean,Saint Lucia,LCA,1995,4.01
+Americas,Latin America and the Caribbean,Saint Lucia,LCA,1996,1.32
+Americas,Latin America and the Caribbean,Saint Lucia,LCA,1997,6.5
+Americas,Latin America and the Caribbean,Saint Lucia,LCA,1998,2.57
+Americas,Latin America and the Caribbean,Saint Lucia,LCA,1999,2.53
+Americas,Latin America and the Caribbean,Saint Lucia,LCA,2000,3.09
+Americas,Latin America and the Caribbean,Saint Lucia,LCA,2002,8.16
+Americas,Latin America and the Caribbean,Saint Lucia,LCA,2003,2.59
+Americas,Latin America and the Caribbean,Saint Lucia,LCA,2004,4.72
+Americas,Latin America and the Caribbean,Saint Lucia,LCA,2009,6.96
+Americas,Latin America and the Caribbean,Saint Lucia,LCA,2010,6.22
+Americas,Latin America and the Caribbean,Saint Lucia,LCA,2011,8.21
+Americas,Latin America and the Caribbean,Saint Lucia,LCA,2012,7.05
+Americas,Latin America and the Caribbean,Saint Lucia,LCA,2013,5.55
+Americas,Latin America and the Caribbean,Saint Lucia,LCA,2014,0.0
+Americas,Latin America and the Caribbean,Saint Lucia,LCA,2015,5.5
+Americas,Latin America and the Caribbean,Saint Lucia,LCA,2016,2.19
+Americas,Latin America and the Caribbean,Saint Lucia,LCA,2017,4.36
+Americas,Latin America and the Caribbean,Saint Lucia,LCA,2018,4.33
+Americas,Latin America and the Caribbean,Saint Lucia,LCA,2019,0.0
+Americas,Latin America and the Caribbean,Saint Lucia,LCA,2019,0.0
+Americas,Latin America and the Caribbean,Saint Vincent and the Grenadines,VCT,2004,11.56
+Americas,Latin America and the Caribbean,Saint Vincent and the Grenadines,VCT,2005,13.02
+Americas,Latin America and the Caribbean,Saint Vincent and the Grenadines,VCT,2006,11.47
+Americas,Latin America and the Caribbean,Saint Vincent and the Grenadines,VCT,2006,1.86
+Americas,Latin America and the Caribbean,Saint Vincent and the Grenadines,VCT,2007,16.6
+Americas,Latin America and the Caribbean,Saint Vincent and the Grenadines,VCT,2007,11.21
+Americas,Latin America and the Caribbean,Saint Vincent and the Grenadines,VCT,2008,5.62
+Americas,Latin America and the Caribbean,Saint Vincent and the Grenadines,VCT,2008,5.62
+Americas,Latin America and the Caribbean,Saint Vincent and the Grenadines,VCT,2009,6.48
+Americas,Latin America and the Caribbean,Saint Vincent and the Grenadines,VCT,2009,1.88
+Americas,Latin America and the Caribbean,Saint Vincent and the Grenadines,VCT,2010,5.64
+Americas,Latin America and the Caribbean,Saint Vincent and the Grenadines,VCT,2012,1.88
+Americas,Latin America and the Caribbean,Saint Vincent and the Grenadines,VCT,2016,7.44
+Americas,Latin America and the Caribbean,Saint Vincent and the Grenadines,VCT,2017,9.26
+Americas,Latin America and the Caribbean,Saint Vincent and the Grenadines,VCT,2018,12.91
+Americas,Latin America and the Caribbean,Saint Vincent and the Grenadines,VCT,2019,0.0
+Africa,Sub-Saharan Africa,Sao Tome and Principe,STP,2006,0.0
+Africa,Sub-Saharan Africa,Sao Tome and Principe,STP,2007,0.0
+Africa,Sub-Saharan Africa,Sao Tome and Principe,STP,2008,0.0
+Africa,Sub-Saharan Africa,Sao Tome and Principe,STP,2009,0.0
+Africa,Sub-Saharan Africa,Sao Tome and Principe,STP,2010,0.0
+Africa,Sub-Saharan Africa,Sao Tome and Principe,STP,2011,0.0
+Europe,Southern Europe,Serbia,SRB,2000,1.24
+Europe,Southern Europe,Serbia,SRB,2001,1.58
+Europe,Southern Europe,Serbia,SRB,2002,1.18
+Europe,Southern Europe,Serbia,SRB,2003,1.42
+Europe,Southern Europe,Serbia,SRB,2004,1.08
+Europe,Southern Europe,Serbia,SRB,2005,0.96
+Europe,Southern Europe,Serbia,SRB,2006,1.09
+Europe,Southern Europe,Serbia,SRB,2007,1.18
+Europe,Southern Europe,Serbia,SRB,2008,0.82
+Europe,Southern Europe,Serbia,SRB,2009,0.83
+Europe,Southern Europe,Serbia,SRB,2010,0.92
+Europe,Southern Europe,Serbia,SRB,2011,0.85
+Europe,Southern Europe,Serbia,SRB,2012,0.83
+Europe,Southern Europe,Serbia,SRB,2013,1.03
+Europe,Southern Europe,Serbia,SRB,2014,0.84
+Europe,Southern Europe,Serbia,SRB,2015,0.68
+Europe,Southern Europe,Serbia,SRB,2016,0.91
+Europe,Southern Europe,Serbia,SRB,2017,0.64
+Europe,Southern Europe,Serbia,SRB,2018,0.62
+Europe,Southern Europe,Serbia,SRB,2019,0.65
+Europe,Southern Europe,Serbia,SRB,2019,0.69
+Europe,Southern Europe,Serbia,SRB,2020,0.49
+Europe,Southern Europe,Serbia,SRB,2020,0.52
+Africa,Sub-Saharan Africa,Seychelles,SYC,2004,4.15
+Africa,Sub-Saharan Africa,Seychelles,SYC,2006,5.77
+Africa,Sub-Saharan Africa,Seychelles,SYC,2007,3.27
+Africa,Sub-Saharan Africa,Seychelles,SYC,2008,2.71
+Africa,Sub-Saharan Africa,Seychelles,SYC,2009,6.34
+Africa,Sub-Saharan Africa,Seychelles,SYC,2010,2.91
+Africa,Sub-Saharan Africa,Seychelles,SYC,2011,11.39
+Africa,Sub-Saharan Africa,Seychelles,SYC,2012,0.99
+Africa,Sub-Saharan Africa,Seychelles,SYC,2013,14.49
+Africa,Sub-Saharan Africa,Seychelles,SYC,2014,5.39
+Asia,South-eastern Asia,Singapore,SGP,2006,0.23
+Asia,South-eastern Asia,Singapore,SGP,2007,0.22
+Asia,South-eastern Asia,Singapore,SGP,2008,0.48
+Asia,South-eastern Asia,Singapore,SGP,2009,0.29
+Asia,South-eastern Asia,Singapore,SGP,2010,0.12
+Asia,South-eastern Asia,Singapore,SGP,2011,0.24
+Asia,South-eastern Asia,Singapore,SGP,2012,0.23
+Asia,South-eastern Asia,Singapore,SGP,2013,0.23
+Asia,South-eastern Asia,Singapore,SGP,2014,0.27
+Asia,South-eastern Asia,Singapore,SGP,2015,0.11
+Asia,South-eastern Asia,Singapore,SGP,2016,0.26
+Asia,South-eastern Asia,Singapore,SGP,2017,0.18
+Asia,South-eastern Asia,Singapore,SGP,2018,0.26
+Asia,South-eastern Asia,Singapore,SGP,2019,0.25
+Asia,South-eastern Asia,Singapore,SGP,2020,0.18
+Europe,Eastern Europe,Slovakia,SVK,2000,1.22
+Europe,Eastern Europe,Slovakia,SVK,2001,1.19
+Europe,Eastern Europe,Slovakia,SVK,2002,1.76
+Europe,Eastern Europe,Slovakia,SVK,2003,1.69
+Europe,Eastern Europe,Slovakia,SVK,2004,1.29
+Europe,Eastern Europe,Slovakia,SVK,2005,1.15
+Europe,Eastern Europe,Slovakia,SVK,2006,0.54
+Europe,Eastern Europe,Slovakia,SVK,2007,1.01
+Europe,Eastern Europe,Slovakia,SVK,2008,0.86
+Europe,Eastern Europe,Slovakia,SVK,2009,1.15
+Europe,Eastern Europe,Slovakia,SVK,2010,1.11
+Europe,Eastern Europe,Slovakia,SVK,2011,1.11
+Europe,Eastern Europe,Slovakia,SVK,2012,0.65
+Europe,Eastern Europe,Slovakia,SVK,2013,0.14
+Europe,Eastern Europe,Slovakia,SVK,2013,0.82
+Europe,Eastern Europe,Slovakia,SVK,2014,0.68
+Europe,Eastern Europe,Slovakia,SVK,2014,0.04
+Europe,Eastern Europe,Slovakia,SVK,2014,0.0
+Europe,Eastern Europe,Slovakia,SVK,2015,0.04
+Europe,Eastern Europe,Slovakia,SVK,2015,0.04
+Europe,Eastern Europe,Slovakia,SVK,2015,0.5
+Europe,Eastern Europe,Slovakia,SVK,2016,0.18
+Europe,Eastern Europe,Slovakia,SVK,2016,0.18
+Europe,Eastern Europe,Slovakia,SVK,2016,0.72
+Europe,Eastern Europe,Slovakia,SVK,2017,0.68
+Europe,Eastern Europe,Slovakia,SVK,2017,0.14
+Europe,Eastern Europe,Slovakia,SVK,2017,0.14
+Europe,Eastern Europe,Slovakia,SVK,2018,0.93
+Europe,Eastern Europe,Slovakia,SVK,2018,0.07
+Europe,Eastern Europe,Slovakia,SVK,2018,0.07
+Europe,Eastern Europe,Slovakia,SVK,2019,0.54
+Europe,Eastern Europe,Slovakia,SVK,2019,0.18
+Europe,Eastern Europe,Slovakia,SVK,2019,0.18
+Europe,Eastern Europe,Slovakia,SVK,2020,0.0
+Europe,Eastern Europe,Slovakia,SVK,2020,1.0
+Europe,Eastern Europe,Slovakia,SVK,2020,0.43
+Europe,Southern Europe,Slovenia,SVN,2004,0.69
+Europe,Southern Europe,Slovenia,SVN,2005,0.98
+Europe,Southern Europe,Slovenia,SVN,2005,0.39
+Europe,Southern Europe,Slovenia,SVN,2006,0.29
+Europe,Southern Europe,Slovenia,SVN,2006,0.1
+Europe,Southern Europe,Slovenia,SVN,2007,0.78
+Europe,Southern Europe,Slovenia,SVN,2007,0.59
+Europe,Southern Europe,Slovenia,SVN,2007,0.39
+Europe,Southern Europe,Slovenia,SVN,2008,0.49
+Europe,Southern Europe,Slovenia,SVN,2008,0.39
+Europe,Southern Europe,Slovenia,SVN,2008,0.29
+Europe,Southern Europe,Slovenia,SVN,2009,0.68
+Europe,Southern Europe,Slovenia,SVN,2009,0.49
+Europe,Southern Europe,Slovenia,SVN,2009,0.19
+Europe,Southern Europe,Slovenia,SVN,2010,0.78
+Europe,Southern Europe,Slovenia,SVN,2010,0.29
+Europe,Southern Europe,Slovenia,SVN,2010,0.19
+Europe,Southern Europe,Slovenia,SVN,2011,0.68
+Europe,Southern Europe,Slovenia,SVN,2011,0.39
+Europe,Southern Europe,Slovenia,SVN,2011,0.39
+Europe,Southern Europe,Slovenia,SVN,2012,0.58
+Europe,Southern Europe,Slovenia,SVN,2012,0.48
+Europe,Southern Europe,Slovenia,SVN,2012,0.19
+Europe,Southern Europe,Slovenia,SVN,2013,0.29
+Europe,Southern Europe,Slovenia,SVN,2013,0.19
+Europe,Southern Europe,Slovenia,SVN,2013,0.1
+Europe,Southern Europe,Slovenia,SVN,2014,0.58
+Europe,Southern Europe,Slovenia,SVN,2014,0.38
+Europe,Southern Europe,Slovenia,SVN,2014,0.38
+Europe,Southern Europe,Slovenia,SVN,2015,1.06
+Europe,Southern Europe,Slovenia,SVN,2015,0.29
+Europe,Southern Europe,Slovenia,SVN,2015,0.19
+Europe,Southern Europe,Slovenia,SVN,2016,0.19
+Europe,Southern Europe,Slovenia,SVN,2016,0.19
+Europe,Southern Europe,Slovenia,SVN,2016,0.0
+Europe,Southern Europe,Slovenia,SVN,2017,0.86
+Europe,Southern Europe,Slovenia,SVN,2017,0.57
+Europe,Southern Europe,Slovenia,SVN,2017,0.29
+Europe,Southern Europe,Slovenia,SVN,2018,0.48
+Europe,Southern Europe,Slovenia,SVN,2018,0.48
+Europe,Southern Europe,Slovenia,SVN,2018,0.0
+Europe,Southern Europe,Slovenia,SVN,2019,0.19
+Europe,Southern Europe,Slovenia,SVN,2019,0.29
+Europe,Southern Europe,Slovenia,SVN,2019,0.38
+Europe,Southern Europe,Slovenia,SVN,2020,0.57
+Europe,Southern Europe,Slovenia,SVN,2020,0.1
+Europe,Southern Europe,Slovenia,SVN,2020,0.57
+Africa,Sub-Saharan Africa,South Africa,ZAF,2006,11.09
+Africa,Sub-Saharan Africa,South Africa,ZAF,2007,10.76
+Africa,Sub-Saharan Africa,South Africa,ZAF,2008,10.09
+Africa,Sub-Saharan Africa,South Africa,ZAF,2009,10.15
+Africa,Sub-Saharan Africa,South Africa,ZAF,2010,10.57
+Africa,Sub-Saharan Africa,South Africa,ZAF,2011,9.11
+Africa,Sub-Saharan Africa,South Africa,ZAF,2016,9.27
+Africa,Sub-Saharan Africa,South Africa,ZAF,2017,10.14
+Africa,Sub-Saharan Africa,South Africa,ZAF,2018,9.46
+Europe,Southern Europe,Spain,ESP,2001,0.63
+Europe,Southern Europe,Spain,ESP,2002,0.63
+Europe,Southern Europe,Spain,ESP,2003,0.79
+Europe,Southern Europe,Spain,ESP,2004,0.85
+Europe,Southern Europe,Spain,ESP,2005,0.58
+Europe,Southern Europe,Spain,ESP,2006,0.7
+Europe,Southern Europe,Spain,ESP,2007,0.73
+Europe,Southern Europe,Spain,ESP,2008,0.55
+Europe,Southern Europe,Spain,ESP,2009,0.58
+Europe,Southern Europe,Spain,ESP,2010,0.66
+Europe,Southern Europe,Spain,ESP,2010,0.42
+Europe,Southern Europe,Spain,ESP,2011,0.54
+Europe,Southern Europe,Spain,ESP,2011,0.31
+Europe,Southern Europe,Spain,ESP,2012,0.52
+Europe,Southern Europe,Spain,ESP,2012,0.3
+Europe,Southern Europe,Spain,ESP,2013,0.51
+Europe,Southern Europe,Spain,ESP,2013,0.31
+Europe,Southern Europe,Spain,ESP,2013,0.23
+Europe,Southern Europe,Spain,ESP,2014,0.54
+Europe,Southern Europe,Spain,ESP,2014,0.29
+Europe,Southern Europe,Spain,ESP,2014,0.24
+Europe,Southern Europe,Spain,ESP,2015,0.51
+Europe,Southern Europe,Spain,ESP,2015,0.25
+Europe,Southern Europe,Spain,ESP,2015,0.32
+Europe,Southern Europe,Spain,ESP,2016,0.48
+Europe,Southern Europe,Spain,ESP,2016,0.28
+Europe,Southern Europe,Spain,ESP,2016,0.2
+Europe,Southern Europe,Spain,ESP,2017,0.48
+Europe,Southern Europe,Spain,ESP,2017,0.27
+Europe,Southern Europe,Spain,ESP,2017,0.2
+Europe,Southern Europe,Spain,ESP,2018,0.49
+Europe,Southern Europe,Spain,ESP,2018,0.31
+Europe,Southern Europe,Spain,ESP,2018,0.2
+Europe,Southern Europe,Spain,ESP,2019,0.29
+Europe,Southern Europe,Spain,ESP,2019,0.19
+Europe,Southern Europe,Spain,ESP,2019,0.53
+Europe,Southern Europe,Spain,ESP,2020,0.5
+Europe,Southern Europe,Spain,ESP,2020,0.2
+Europe,Southern Europe,Spain,ESP,2020,0.32
+Asia,Southern Asia,Sri Lanka,LKA,2007,0.7
+Asia,Southern Asia,Sri Lanka,LKA,2008,3.42
+Asia,Southern Asia,Sri Lanka,LKA,2008,0.61
+Asia,Southern Asia,Sri Lanka,LKA,2009,1.97
+Asia,Southern Asia,Sri Lanka,LKA,2009,0.82
+Asia,Southern Asia,Sri Lanka,LKA,2010,1.62
+Asia,Southern Asia,Sri Lanka,LKA,2010,0.63
+Asia,Southern Asia,Sri Lanka,LKA,2011,1.76
+Asia,Southern Asia,Sri Lanka,LKA,2011,0.62
+Asia,Southern Asia,Sri Lanka,LKA,2012,1.62
+Asia,Southern Asia,Sri Lanka,LKA,2012,0.55
+Asia,Southern Asia,Sri Lanka,LKA,2013,1.37
+Asia,Southern Asia,Sri Lanka,LKA,2013,0.52
+Asia,Southern Asia,Sri Lanka,LKA,2014,1.16
+Asia,Southern Asia,Sri Lanka,LKA,2015,1.02
+Asia,Southern Asia,Sri Lanka,LKA,2016,1.19
+Asia,Southern Asia,Sri Lanka,LKA,2017,0.79
+Asia,Southern Asia,Sri Lanka,LKA,2018,0.93
+Asia,Southern Asia,Sri Lanka,LKA,2019,2.25
+Asia,Western Asia,State of Palestine,PSE,2010,0.48
+Asia,Western Asia,State of Palestine,PSE,2011,0.15
+Asia,Western Asia,State of Palestine,PSE,2012,0.19
+Asia,Western Asia,State of Palestine,PSE,2015,0.31
+Asia,Western Asia,State of Palestine,PSE,2017,0.21
+Asia,Western Asia,State of Palestine,PSE,2018,0.13
+Asia,Western Asia,State of Palestine,PSE,2018,0.0
+Asia,Western Asia,State of Palestine,PSE,2018,0.13
+Asia,Western Asia,State of Palestine,PSE,2019,0.29
+Asia,Western Asia,State of Palestine,PSE,2020,0.56
+Americas,Latin America and the Caribbean,Suriname,SUR,2007,5.76
+Americas,Latin America and the Caribbean,Suriname,SUR,2008,3.9
+Americas,Latin America and the Caribbean,Suriname,SUR,2013,1.1
+Americas,Latin America and the Caribbean,Suriname,SUR,2014,2.18
+Americas,Latin America and the Caribbean,Suriname,SUR,2015,3.96
+Americas,Latin America and the Caribbean,Suriname,SUR,2016,0.36
+Americas,Latin America and the Caribbean,Suriname,SUR,2016,0.0
+Americas,Latin America and the Caribbean,Suriname,SUR,2016,5.7
+Americas,Latin America and the Caribbean,Suriname,SUR,2017,3.88
+Americas,Latin America and the Caribbean,Suriname,SUR,2017,2.47
+Americas,Latin America and the Caribbean,Suriname,SUR,2017,2.47
+Americas,Latin America and the Caribbean,Suriname,SUR,2018,2.44
+Americas,Latin America and the Caribbean,Suriname,SUR,2018,1.75
+Americas,Latin America and the Caribbean,Suriname,SUR,2018,1.75
+Americas,Latin America and the Caribbean,Suriname,SUR,2019,2.42
+Americas,Latin America and the Caribbean,Suriname,SUR,2019,0.35
+Americas,Latin America and the Caribbean,Suriname,SUR,2019,0.35
+Europe,Northern Europe,Sweden,SWE,1999,0.64
+Europe,Northern Europe,Sweden,SWE,2000,0.82
+Europe,Northern Europe,Sweden,SWE,2001,0.65
+Europe,Northern Europe,Sweden,SWE,2002,0.81
+Europe,Northern Europe,Sweden,SWE,2003,0.6
+Europe,Northern Europe,Sweden,SWE,2004,0.9
+Europe,Northern Europe,Sweden,SWE,2005,0.67
+Europe,Northern Europe,Sweden,SWE,2006,0.78
+Europe,Northern Europe,Sweden,SWE,2007,0.69
+Europe,Northern Europe,Sweden,SWE,2008,0.6
+Europe,Northern Europe,Sweden,SWE,2009,0.82
+Europe,Northern Europe,Sweden,SWE,2010,0.57
+Europe,Northern Europe,Sweden,SWE,2011,0.53
+Europe,Northern Europe,Sweden,SWE,2012,0.45
+Europe,Northern Europe,Sweden,SWE,2013,0.54
+Europe,Northern Europe,Sweden,SWE,2014,0.52
+Europe,Northern Europe,Sweden,SWE,2015,0.59
+Europe,Northern Europe,Sweden,SWE,2016,0.59
+Europe,Northern Europe,Sweden,SWE,2017,0.55
+Europe,Northern Europe,Sweden,SWE,2017,0.2
+Europe,Northern Europe,Sweden,SWE,2018,0.66
+Europe,Northern Europe,Sweden,SWE,2018,0.44
+Europe,Northern Europe,Sweden,SWE,2019,0.32
+Europe,Northern Europe,Sweden,SWE,2019,0.5
+Europe,Northern Europe,Sweden,SWE,2020,0.26
+Europe,Northern Europe,Sweden,SWE,2020,0.26
+Europe,Northern Europe,Sweden,SWE,2020,0.5
+Europe,Western Europe,Switzerland,CHE,1990,1.5
+Europe,Western Europe,Switzerland,CHE,1991,1.26
+Europe,Western Europe,Switzerland,CHE,1992,1.22
+Europe,Western Europe,Switzerland,CHE,1993,1.24
+Europe,Western Europe,Switzerland,CHE,1994,1.15
+Europe,Western Europe,Switzerland,CHE,1995,1.11
+Europe,Western Europe,Switzerland,CHE,1996,0.87
+Europe,Western Europe,Switzerland,CHE,1997,1.08
+Europe,Western Europe,Switzerland,CHE,1998,0.82
+Europe,Western Europe,Switzerland,CHE,1999,1.03
+Europe,Western Europe,Switzerland,CHE,2000,1.06
+Europe,Western Europe,Switzerland,CHE,2001,1.0
+Europe,Western Europe,Switzerland,CHE,2002,1.34
+Europe,Western Europe,Switzerland,CHE,2003,1.06
+Europe,Western Europe,Switzerland,CHE,2004,1.03
+Europe,Western Europe,Switzerland,CHE,2005,0.99
+Europe,Western Europe,Switzerland,CHE,2006,0.99
+Europe,Western Europe,Switzerland,CHE,2007,0.68
+Europe,Western Europe,Switzerland,CHE,2008,0.65
+Europe,Western Europe,Switzerland,CHE,2009,0.69
+Europe,Western Europe,Switzerland,CHE,2009,0.41
+Europe,Western Europe,Switzerland,CHE,2009,0.28
+Europe,Western Europe,Switzerland,CHE,2010,0.66
+Europe,Western Europe,Switzerland,CHE,2010,0.48
+Europe,Western Europe,Switzerland,CHE,2010,0.38
+Europe,Western Europe,Switzerland,CHE,2011,0.57
+Europe,Western Europe,Switzerland,CHE,2011,0.52
+Europe,Western Europe,Switzerland,CHE,2011,0.4
+Europe,Western Europe,Switzerland,CHE,2012,0.42
+Europe,Western Europe,Switzerland,CHE,2012,0.35
+Europe,Western Europe,Switzerland,CHE,2012,0.25
+Europe,Western Europe,Switzerland,CHE,2013,0.78
+Europe,Western Europe,Switzerland,CHE,2013,0.44
+Europe,Western Europe,Switzerland,CHE,2013,0.34
+Europe,Western Europe,Switzerland,CHE,2014,0.58
+Europe,Western Europe,Switzerland,CHE,2014,0.41
+Europe,Western Europe,Switzerland,CHE,2014,0.31
+Europe,Western Europe,Switzerland,CHE,2015,0.72
+Europe,Western Europe,Switzerland,CHE,2015,0.52
+Europe,Western Europe,Switzerland,CHE,2015,0.36
+Europe,Western Europe,Switzerland,CHE,2016,0.59
+Europe,Western Europe,Switzerland,CHE,2016,0.43
+Europe,Western Europe,Switzerland,CHE,2016,0.33
+Europe,Western Europe,Switzerland,CHE,2017,0.47
+Europe,Western Europe,Switzerland,CHE,2017,0.4
+Europe,Western Europe,Switzerland,CHE,2017,0.26
+Europe,Western Europe,Switzerland,CHE,2018,0.65
+Europe,Western Europe,Switzerland,CHE,2018,0.56
+Europe,Western Europe,Switzerland,CHE,2018,0.37
+Europe,Western Europe,Switzerland,CHE,2019,0.44
+Europe,Western Europe,Switzerland,CHE,2019,0.32
+Europe,Western Europe,Switzerland,CHE,2019,0.6
+Europe,Western Europe,Switzerland,CHE,2020,0.62
+Europe,Western Europe,Switzerland,CHE,2020,0.25
+Europe,Western Europe,Switzerland,CHE,2020,0.48
+Asia,Western Asia,Syrian Arab Republic,SYR,2019,8.77
+Asia,Central Asia,Tajikistan,TJK,2006,1.16
+Asia,Central Asia,Tajikistan,TJK,2007,0.94
+Asia,Central Asia,Tajikistan,TJK,2008,1.06
+Asia,Central Asia,Tajikistan,TJK,2009,0.66
+Asia,Central Asia,Tajikistan,TJK,2010,0.62
+Asia,Central Asia,Tajikistan,TJK,2011,0.45
+Asia,Central Asia,Tajikistan,TJK,2020,0.21
+Asia,Central Asia,Tajikistan,TJK,2020,0.08
+Asia,South-eastern Asia,Thailand,THA,1995,2.38
+Asia,South-eastern Asia,Thailand,THA,1996,2.44
+Asia,South-eastern Asia,Thailand,THA,1997,2.48
+Asia,South-eastern Asia,Thailand,THA,1998,2.61
+Asia,South-eastern Asia,Thailand,THA,1999,2.59
+Asia,South-eastern Asia,Thailand,THA,2000,2.83
+Asia,South-eastern Asia,Thailand,THA,2002,2.15
+Asia,South-eastern Asia,Thailand,THA,2003,2.91
+Asia,South-eastern Asia,Thailand,THA,2004,1.53
+Asia,South-eastern Asia,Thailand,THA,2005,1.87
+Asia,South-eastern Asia,Thailand,THA,2006,1.73
+Asia,South-eastern Asia,Thailand,THA,2007,1.77
+Asia,South-eastern Asia,Thailand,THA,2008,1.55
+Asia,South-eastern Asia,Thailand,THA,2009,1.44
+Asia,South-eastern Asia,Thailand,THA,2010,1.33
+Asia,South-eastern Asia,Thailand,THA,2011,1.29
+Asia,South-eastern Asia,Thailand,THA,2012,1.37
+Asia,South-eastern Asia,Thailand,THA,2013,1.09
+Asia,South-eastern Asia,Thailand,THA,2014,1.15
+Oceania,Polynesia,Tonga,TON,2000,0.0
+Oceania,Polynesia,Tonga,TON,2001,2.06
+Oceania,Polynesia,Tonga,TON,2002,2.05
+Oceania,Polynesia,Tonga,TON,2003,0.0
+Oceania,Polynesia,Tonga,TON,2004,0.0
+Oceania,Polynesia,Tonga,TON,2005,0.0
+Oceania,Polynesia,Tonga,TON,2006,0.0
+Oceania,Polynesia,Tonga,TON,2007,0.0
+Oceania,Polynesia,Tonga,TON,2008,1.94
+Oceania,Polynesia,Tonga,TON,2009,5.79
+Oceania,Polynesia,Tonga,TON,2010,0.0
+Oceania,Polynesia,Tonga,TON,2011,0.0
+Oceania,Polynesia,Tonga,TON,2012,1.95
+Oceania,Polynesia,Tonga,TON,2019,1.92
+Americas,Latin America and the Caribbean,Trinidad and Tobago,TTO,2004,4.0
+Americas,Latin America and the Caribbean,Trinidad and Tobago,TTO,2005,5.97
+Americas,Latin America and the Caribbean,Trinidad and Tobago,TTO,2006,5.18
+Americas,Latin America and the Caribbean,Trinidad and Tobago,TTO,2006,3.35
+Americas,Latin America and the Caribbean,Trinidad and Tobago,TTO,2007,4.55
+Americas,Latin America and the Caribbean,Trinidad and Tobago,TTO,2007,1.21
+Americas,Latin America and the Caribbean,Trinidad and Tobago,TTO,2008,8.6
+Americas,Latin America and the Caribbean,Trinidad and Tobago,TTO,2008,2.87
+Americas,Latin America and the Caribbean,Trinidad and Tobago,TTO,2009,6.0
+Americas,Latin America and the Caribbean,Trinidad and Tobago,TTO,2009,1.65
+Americas,Latin America and the Caribbean,Trinidad and Tobago,TTO,2010,7.89
+Americas,Latin America and the Caribbean,Trinidad and Tobago,TTO,2010,2.69
+Americas,Latin America and the Caribbean,Trinidad and Tobago,TTO,2011,4.45
+Americas,Latin America and the Caribbean,Trinidad and Tobago,TTO,2011,1.04
+Americas,Latin America and the Caribbean,Trinidad and Tobago,TTO,2012,6.63
+Americas,Latin America and the Caribbean,Trinidad and Tobago,TTO,2012,1.47
+Americas,Latin America and the Caribbean,Trinidad and Tobago,TTO,2013,1.75
+Americas,Latin America and the Caribbean,Trinidad and Tobago,TTO,2013,5.7
+Americas,Latin America and the Caribbean,Trinidad and Tobago,TTO,2014,6.54
+Americas,Latin America and the Caribbean,Trinidad and Tobago,TTO,2014,2.18
+Americas,Latin America and the Caribbean,Trinidad and Tobago,TTO,2015,4.19
+Americas,Latin America and the Caribbean,Trinidad and Tobago,TTO,2015,1.01
+Americas,Latin America and the Caribbean,Trinidad and Tobago,TTO,2015,0.87
+Africa,Northern Africa,Tunisia,TUN,2019,1.75
+Africa,Northern Africa,Tunisia,TUN,2020,1.93
+Asia,Western Asia,Turkey,TUR,2003,1.75
+Asia,Western Asia,Turkey,TUR,2004,1.78
+Asia,Western Asia,Turkey,TUR,2005,1.76
+Asia,Western Asia,Turkey,TUR,2006,1.58
+Asia,Western Asia,Turkey,TUR,2007,1.74
+Asia,Western Asia,Turkey,TUR,2008,1.59
+Asia,Western Asia,Turkey,TUR,2010,1.72
+Asia,Western Asia,Turkey,TUR,2011,1.68
+Asia,Western Asia,Turkey,TUR,2012,1.6
+Asia,Western Asia,Turkey,TUR,2015,1.03
+Asia,Western Asia,Turkey,TUR,2016,1.09
+Asia,Western Asia,Turkey,TUR,2017,1.03
+Asia,Western Asia,Turkey,TUR,2018,1.05
+Asia,Western Asia,Turkey,TUR,2019,1.12
+Africa,Sub-Saharan Africa,Uganda,UGA,2008,2.49
+Africa,Sub-Saharan Africa,Uganda,UGA,2010,3.63
+Africa,Sub-Saharan Africa,Uganda,UGA,2011,4.36
+Africa,Sub-Saharan Africa,Uganda,UGA,2012,4.21
+Africa,Sub-Saharan Africa,Uganda,UGA,2013,4.35
+Africa,Sub-Saharan Africa,Uganda,UGA,2014,4.48
+Africa,Sub-Saharan Africa,Uganda,UGA,2016,4.52
+Africa,Sub-Saharan Africa,Uganda,UGA,2017,3.99
+Europe,Eastern Europe,Ukraine,UKR,1990,2.83
+Europe,Eastern Europe,Ukraine,UKR,1991,2.79
+Europe,Eastern Europe,Ukraine,UKR,1992,3.28
+Europe,Eastern Europe,Ukraine,UKR,1993,3.66
+Europe,Eastern Europe,Ukraine,UKR,1994,4.12
+Europe,Eastern Europe,Ukraine,UKR,1995,4.2
+Europe,Eastern Europe,Ukraine,UKR,1996,4.96
+Europe,Eastern Europe,Ukraine,UKR,1997,4.43
+Europe,Eastern Europe,Ukraine,UKR,1998,4.49
+Europe,Eastern Europe,Ukraine,UKR,1999,4.74
+Europe,Eastern Europe,Ukraine,UKR,2000,5.01
+Europe,Eastern Europe,Ukraine,UKR,2001,5.74
+Europe,Eastern Europe,Ukraine,UKR,2002,5.12
+Europe,Eastern Europe,Ukraine,UKR,2003,4.97
+Europe,Eastern Europe,Ukraine,UKR,2004,4.39
+Europe,Eastern Europe,Ukraine,UKR,2005,3.81
+Europe,Eastern Europe,Ukraine,UKR,2006,3.63
+Europe,Eastern Europe,Ukraine,UKR,2008,2.98
+Europe,Eastern Europe,Ukraine,UKR,2009,2.85
+Europe,Eastern Europe,Ukraine,UKR,2010,2.45
+Europe,Eastern Europe,Ukraine,UKR,2017,1.93
+Asia,Western Asia,United Arab Emirates,ARE,2010,0.83
+Asia,Western Asia,United Arab Emirates,ARE,2011,0.65
+Asia,Western Asia,United Arab Emirates,ARE,2012,0.7
+Asia,Western Asia,United Arab Emirates,ARE,2013,0.72
+Asia,Western Asia,United Arab Emirates,ARE,2014,0.62
+Asia,Western Asia,United Arab Emirates,ARE,2015,0.36
+Asia,Western Asia,United Arab Emirates,ARE,2019,0.7
+Asia,Western Asia,United Arab Emirates,ARE,2019,0.4
+Asia,Western Asia,United Arab Emirates,ARE,2019,0.13
+Africa,Sub-Saharan Africa,United Republic of Tanzania,TZA,2010,2.47
+Africa,Sub-Saharan Africa,United Republic of Tanzania,TZA,2010,1.98
+Africa,Sub-Saharan Africa,United Republic of Tanzania,TZA,2010,0.86
+Africa,Sub-Saharan Africa,United Republic of Tanzania,TZA,2011,2.43
+Africa,Sub-Saharan Africa,United Republic of Tanzania,TZA,2011,1.88
+Africa,Sub-Saharan Africa,United Republic of Tanzania,TZA,2011,0.73
+Africa,Sub-Saharan Africa,United Republic of Tanzania,TZA,2012,2.21
+Africa,Sub-Saharan Africa,United Republic of Tanzania,TZA,2012,1.7
+Africa,Sub-Saharan Africa,United Republic of Tanzania,TZA,2012,0.78
+Africa,Sub-Saharan Africa,United Republic of Tanzania,TZA,2013,2.03
+Africa,Sub-Saharan Africa,United Republic of Tanzania,TZA,2013,1.73
+Africa,Sub-Saharan Africa,United Republic of Tanzania,TZA,2013,0.76
+Africa,Sub-Saharan Africa,United Republic of Tanzania,TZA,2014,1.8
+Africa,Sub-Saharan Africa,United Republic of Tanzania,TZA,2014,0.83
+Africa,Sub-Saharan Africa,United Republic of Tanzania,TZA,2015,2.6
+Africa,Sub-Saharan Africa,United Republic of Tanzania,TZA,2015,1.99
+Africa,Sub-Saharan Africa,United Republic of Tanzania,TZA,2015,0.85
+Americas,Northern America,United States of America,USA,1990,3.95
+Americas,Northern America,United States of America,USA,1991,4.13
+Americas,Northern America,United States of America,USA,1992,3.93
+Americas,Northern America,United States of America,USA,1993,4.15
+Americas,Northern America,United States of America,USA,1994,3.7
+Americas,Northern America,United States of America,USA,1995,3.68
+Americas,Northern America,United States of America,USA,1996,3.25
+Americas,Northern America,United States of America,USA,1997,2.96
+Americas,Northern America,United States of America,USA,1998,2.92
+Americas,Northern America,United States of America,USA,1999,2.64
+Americas,Northern America,United States of America,USA,2000,2.56
+Americas,Northern America,United States of America,USA,2001,3.04
+Americas,Northern America,United States of America,USA,2002,2.55
+Americas,Northern America,United States of America,USA,2003,2.48
+Americas,Northern America,United States of America,USA,2004,2.36
+Americas,Northern America,United States of America,USA,2005,2.35
+Americas,Northern America,United States of America,USA,2006,2.39
+Americas,Northern America,United States of America,USA,2007,2.38
+Americas,Northern America,United States of America,USA,2008,2.3
+Americas,Northern America,United States of America,USA,2009,2.25
+Americas,Northern America,United States of America,USA,2010,2.09
+Americas,Northern America,United States of America,USA,2010,0.89
+Americas,Northern America,United States of America,USA,2011,2.04
+Americas,Northern America,United States of America,USA,2011,0.85
+Americas,Northern America,United States of America,USA,2012,2.05
+Americas,Northern America,United States of America,USA,2012,0.82
+Americas,Northern America,United States of America,USA,2013,1.96
+Americas,Northern America,United States of America,USA,2013,0.8
+Americas,Northern America,United States of America,USA,2014,1.95
+Americas,Northern America,United States of America,USA,2014,0.8
+Americas,Northern America,United States of America,USA,2015,2.03
+Americas,Northern America,United States of America,USA,2015,0.81
+Americas,Northern America,United States of America,USA,2016,2.25
+Americas,Northern America,United States of America,USA,2017,2.22
+Americas,Northern America,United States of America,USA,2017,0.85
+Americas,Northern America,United States of America,USA,2018,2.19
+Americas,Northern America,United States of America,USA,2018,0.83
+Americas,Northern America,United States of America,USA,2019,0.8
+Americas,Northern America,United States of America,USA,2020,0.84
+Americas,Latin America and the Caribbean,United States Virgin Islands,VIR,1997,10.72
+Americas,Latin America and the Caribbean,United States Virgin Islands,VIR,1998,3.56
+Americas,Latin America and the Caribbean,United States Virgin Islands,VIR,1999,7.12
+Americas,Latin America and the Caribbean,United States Virgin Islands,VIR,2000,5.34
+Americas,Latin America and the Caribbean,United States Virgin Islands,VIR,2001,3.56
+Americas,Latin America and the Caribbean,United States Virgin Islands,VIR,2002,8.91
+Americas,Latin America and the Caribbean,United States Virgin Islands,VIR,2003,5.36
+Americas,Latin America and the Caribbean,United States Virgin Islands,VIR,2004,1.79
+Americas,Latin America and the Caribbean,United States Virgin Islands,VIR,2005,5.38
+Americas,Latin America and the Caribbean,United States Virgin Islands,VIR,2006,7.19
+Americas,Latin America and the Caribbean,United States Virgin Islands,VIR,2007,5.4
+Americas,Latin America and the Caribbean,United States Virgin Islands,VIR,2008,3.61
+Americas,Latin America and the Caribbean,United States Virgin Islands,VIR,2009,3.61
+Americas,Latin America and the Caribbean,United States Virgin Islands,VIR,2010,12.65
+Americas,Latin America and the Caribbean,United States Virgin Islands,VIR,2011,5.43
+Americas,Latin America and the Caribbean,United States Virgin Islands,VIR,2012,3.63
+Americas,Latin America and the Caribbean,Uruguay,URY,2006,2.5
+Americas,Latin America and the Caribbean,Uruguay,URY,2007,1.85
+Americas,Latin America and the Caribbean,Uruguay,URY,2008,2.54
+Americas,Latin America and the Caribbean,Uruguay,URY,2009,2.59
+Americas,Latin America and the Caribbean,Uruguay,URY,2010,2.36
+Americas,Latin America and the Caribbean,Uruguay,URY,2011,1.38
+Americas,Latin America and the Caribbean,Uruguay,URY,2011,2.35
+Americas,Latin America and the Caribbean,Uruguay,URY,2012,2.17
+Americas,Latin America and the Caribbean,Uruguay,URY,2012,1.49
+Americas,Latin America and the Caribbean,Uruguay,URY,2012,1.03
+Americas,Latin America and the Caribbean,Uruguay,URY,2013,3.08
+Americas,Latin America and the Caribbean,Uruguay,URY,2013,1.65
+Americas,Latin America and the Caribbean,Uruguay,URY,2013,1.25
+Americas,Latin America and the Caribbean,Uruguay,URY,2014,2.9
+Americas,Latin America and the Caribbean,Uruguay,URY,2014,1.48
+Americas,Latin America and the Caribbean,Uruguay,URY,2014,0.68
+Americas,Latin America and the Caribbean,Uruguay,URY,2015,2.83
+Americas,Latin America and the Caribbean,Uruguay,URY,2015,1.64
+Americas,Latin America and the Caribbean,Uruguay,URY,2015,1.47
+Americas,Latin America and the Caribbean,Uruguay,URY,2016,1.35
+Americas,Latin America and the Caribbean,Uruguay,URY,2016,0.9
+Americas,Latin America and the Caribbean,Uruguay,URY,2016,2.37
+Americas,Latin America and the Caribbean,Uruguay,URY,2017,1.63
+Americas,Latin America and the Caribbean,Uruguay,URY,2017,1.35
+Americas,Latin America and the Caribbean,Uruguay,URY,2017,3.09
+Americas,Latin America and the Caribbean,Uruguay,URY,2018,1.91
+Americas,Latin America and the Caribbean,Uruguay,URY,2018,1.46
+Americas,Latin America and the Caribbean,Uruguay,URY,2018,3.2
+Americas,Latin America and the Caribbean,Uruguay,URY,2019,1.56
+Americas,Latin America and the Caribbean,Uruguay,URY,2019,1.23
+Americas,Latin America and the Caribbean,Uruguay,URY,2019,2.68
+Asia,Central Asia,Uzbekistan,UZB,2015,1.39
+Asia,Central Asia,Uzbekistan,UZB,2016,1.64
+Asia,Central Asia,Uzbekistan,UZB,2017,1.28
+Asia,Central Asia,Uzbekistan,UZB,2018,1.08
+Asia,Central Asia,Uzbekistan,UZB,2019,0.83
+Oceania,Melanesia,Vanuatu,VUT,2019,0.68
+Oceania,Melanesia,Vanuatu,VUT,2020,0.66
+Oceania,Melanesia,Vanuatu,VUT,2020,0.66
+Americas,Latin America and the Caribbean,Venezuela (Bolivarian Republic of),VEN,1990,1.92
+Americas,Latin America and the Caribbean,Venezuela (Bolivarian Republic of),VEN,1992,2.27
+Americas,Latin America and the Caribbean,Venezuela (Bolivarian Republic of),VEN,1993,2.95
+Americas,Latin America and the Caribbean,Venezuela (Bolivarian Republic of),VEN,1994,3.08
+Americas,Latin America and the Caribbean,Venezuela (Bolivarian Republic of),VEN,1996,3.2
+Americas,Latin America and the Caribbean,Venezuela (Bolivarian Republic of),VEN,1997,3.12
+Americas,Latin America and the Caribbean,Venezuela (Bolivarian Republic of),VEN,1998,3.23
+Americas,Latin America and the Caribbean,Venezuela (Bolivarian Republic of),VEN,1999,3.57
+Americas,Latin America and the Caribbean,Venezuela (Bolivarian Republic of),VEN,2000,4.32
+Americas,Latin America and the Caribbean,Venezuela (Bolivarian Republic of),VEN,2001,3.94
+Americas,Latin America and the Caribbean,Venezuela (Bolivarian Republic of),VEN,2002,6.75
+Americas,Latin America and the Caribbean,Venezuela (Bolivarian Republic of),VEN,2003,5.41
+Americas,Latin America and the Caribbean,Venezuela (Bolivarian Republic of),VEN,2004,4.61
+Americas,Latin America and the Caribbean,Venezuela (Bolivarian Republic of),VEN,2005,4.21
+Americas,Latin America and the Caribbean,Venezuela (Bolivarian Republic of),VEN,2006,4.99
+Americas,Latin America and the Caribbean,Venezuela (Bolivarian Republic of),VEN,2007,4.93
+Americas,Latin America and the Caribbean,Venezuela (Bolivarian Republic of),VEN,2008,5.31
+Americas,Latin America and the Caribbean,Venezuela (Bolivarian Republic of),VEN,2009,5.43
+Americas,Latin America and the Caribbean,Venezuela (Bolivarian Republic of),VEN,2010,5.54
+Americas,Latin America and the Caribbean,Venezuela (Bolivarian Republic of),VEN,2011,5.56
+Americas,Latin America and the Caribbean,Venezuela (Bolivarian Republic of),VEN,2012,6.39
+Americas,Latin America and the Caribbean,Venezuela (Bolivarian Republic of),VEN,2015,4.83
+Americas,Latin America and the Caribbean,Venezuela (Bolivarian Republic of),VEN,2016,5.36
+Americas,Latin America and the Caribbean,Venezuela (Bolivarian Republic of),VEN,2017,5.31
+Africa,Sub-Saharan Africa,Zimbabwe,ZWE,1990,3.49
