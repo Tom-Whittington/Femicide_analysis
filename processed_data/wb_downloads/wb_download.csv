@@ -1,0 +1,538 @@
+Series Name,Series Code,Country Name,Country Code,2000 [YR2000],2012 [YR2012],2013 [YR2013],2014 [YR2014],2015 [YR2015],2016 [YR2016],2017 [YR2017],2018 [YR2018],2019 [YR2019],2020 [YR2020],2021 [YR2021]
+Gini index,SI.POV.GINI,Afghanistan,AFG,..,..,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Albania,ALB,..,29,..,34.6,32.8,33.7,33.1,30.1,30.8,..,..
+Gini index,SI.POV.GINI,Algeria,DZA,..,..,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,American Samoa,ASM,..,..,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Andorra,AND,..,..,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Angola,AGO,52,..,..,..,..,..,..,51.3,..,..,..
+Gini index,SI.POV.GINI,Antigua and Barbuda,ATG,..,..,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Argentina,ARG,51.1,41.3,40.9,41.6,..,42,41.1,41.3,42.9,42.3,..
+Gini index,SI.POV.GINI,Armenia,ARM,..,29.6,30.6,31.5,32.4,32.5,33.6,34.4,29.9,25.2,..
+Gini index,SI.POV.GINI,Aruba,ABW,..,..,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Australia,AUS,..,..,..,34.4,..,33.7,..,34.3,..,..,..
+Gini index,SI.POV.GINI,Austria,AUT,28.8,30.5,30.8,30.5,30.5,30.8,29.7,30.8,30.2,..,..
+Gini index,SI.POV.GINI,Azerbaijan,AZE,..,..,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,"Bahamas, The",BHS,..,..,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Bahrain,BHR,..,..,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Bangladesh,BGD,33.4,..,..,..,..,32.4,..,..,..,..,..
+Gini index,SI.POV.GINI,Barbados,BRB,..,..,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Belarus,BLR,31.2,26.5,26.6,27.2,25.6,25.3,25.4,25.2,25.3,24.4,..
+Gini index,SI.POV.GINI,Belgium,BEL,33.1,27.5,27.7,28.1,27.7,27.6,27.4,27.2,27.2,..,..
+Gini index,SI.POV.GINI,Belize,BLZ,..,..,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Benin,BEN,..,..,..,..,47.8,..,..,37.8,..,..,..
+Gini index,SI.POV.GINI,Bermuda,BMU,..,..,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Bhutan,BTN,..,38.8,..,..,..,..,37.4,..,..,..,..
+Gini index,SI.POV.GINI,Bolivia,BOL,61.6,46.6,47.6,47.8,46.7,45.3,44.6,42.6,41.6,43.6,..
+Gini index,SI.POV.GINI,Bosnia and Herzegovina,BIH,..,..,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Botswana,BWA,..,..,..,..,53.3,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Brazil,BRA,..,53.4,52.7,52,51.9,53.3,53.3,53.9,53.5,48.9,..
+Gini index,SI.POV.GINI,British Virgin Islands,VGB,..,..,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Brunei Darussalam,BRN,..,..,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Bulgaria,BGR,..,36,36.6,37.4,38.6,40.6,40.4,41.3,40.3,..,..
+Gini index,SI.POV.GINI,Burkina Faso,BFA,..,..,..,35.3,..,..,..,47.3,..,..,..
+Gini index,SI.POV.GINI,Burundi,BDI,..,..,38.6,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Cabo Verde,CPV,..,..,..,..,42.4,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Cambodia,KHM,..,..,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Cameroon,CMR,..,..,..,46.6,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Canada,CAN,33.3,33.5,33.8,33.2,33.7,32.7,33.3,..,..,..,..
+Gini index,SI.POV.GINI,Cayman Islands,CYM,..,..,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Central African Republic,CAF,..,..,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Chad,TCD,..,..,..,..,..,..,..,37.5,..,..,..
+Gini index,SI.POV.GINI,Channel Islands,CHI,..,..,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Chile,CHL,52.8,..,45.8,..,44.4,..,44.4,..,..,44.9,..
+Gini index,SI.POV.GINI,China,CHN,..,42.2,39.7,39.2,38.6,38.5,39.1,38.5,38.2,..,..
+Gini index,SI.POV.GINI,Colombia,COL,58.7,52.6,52.6,52.6,51,50.6,49.7,50.4,51.3,54.2,..
+Gini index,SI.POV.GINI,Comoros,COM,..,..,..,45.3,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,"Congo, Dem. Rep.",COD,..,42.1,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,"Congo, Rep.",COG,..,..,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Costa Rica,CRI,47.4,48.4,49.2,48.6,48.4,48.7,48.3,48,48.2,49.3,..
+Gini index,SI.POV.GINI,Cote d'Ivoire,CIV,..,..,..,..,41.5,..,..,37.2,..,..,..
+Gini index,SI.POV.GINI,Croatia,HRV,..,32.5,32,32.1,31.1,30.9,30.4,29.7,28.9,..,..
+Gini index,SI.POV.GINI,Cuba,CUB,..,..,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Curacao,CUW,..,..,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Cyprus,CYP,..,34.3,37,35.6,34,32.9,31.4,32.7,31.2,..,..
+Gini index,SI.POV.GINI,Czechia,CZE,..,26.1,26.5,25.9,25.9,25.4,24.9,25,25.3,..,..
+Gini index,SI.POV.GINI,Denmark,DNK,23.8,27.8,28.5,28.4,28.2,28.2,28.7,28.2,27.7,..,..
+Gini index,SI.POV.GINI,Djibouti,DJI,..,45.1,44.1,..,..,..,41.6,..,..,..,..
+Gini index,SI.POV.GINI,Dominica,DMA,..,..,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Dominican Republic,DOM,51.5,46.1,47.7,44.3,45.2,45.7,42.2,43.7,41.9,39.6,..
+Gini index,SI.POV.GINI,Ecuador,ECU,56.4,46.1,46.9,45,46,45,44.7,45.4,45.7,47.3,..
+Gini index,SI.POV.GINI,"Egypt, Arab Rep.",EGY,..,28.3,..,..,31.8,..,31.5,..,..,..,..
+Gini index,SI.POV.GINI,El Salvador,SLV,51.5,41.8,43.4,41.6,40.6,40,38,38.6,38.8,..,..
+Gini index,SI.POV.GINI,Equatorial Guinea,GNQ,..,..,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Eritrea,ERI,..,..,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Estonia,EST,..,32.9,35.1,34.6,32.7,31.2,30.4,30.3,30.8,..,..
+Gini index,SI.POV.GINI,Eswatini,SWZ,53.1,..,..,..,..,54.6,..,..,..,..,..
+Gini index,SI.POV.GINI,Ethiopia,ETH,..,..,..,..,35,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Faroe Islands,FRO,..,..,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Fiji,FJI,..,..,36.7,..,..,..,..,..,30.7,..,..
+Gini index,SI.POV.GINI,Finland,FIN,27.2,27.1,27.2,26.8,27.1,27.1,27.4,27.3,27.7,..,..
+Gini index,SI.POV.GINI,France,FRA,31.1,33.1,32.5,32.3,32.7,31.9,31.6,32.4,..,..,..
+Gini index,SI.POV.GINI,French Polynesia,PYF,..,..,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Gabon,GAB,..,..,..,..,..,..,38,..,..,..,..
+Gini index,SI.POV.GINI,"Gambia, The",GMB,..,..,..,..,35.9,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Georgia,GEO,40.5,39,38.6,37.6,36.5,36.6,37.9,36.4,35.9,34.5,..
+Gini index,SI.POV.GINI,Germany,DEU,28.9,31.1,31.5,30.9,31.6,31.6,31.2,31.7,..,..,..
+Gini index,SI.POV.GINI,Ghana,GHA,..,42.4,..,..,..,43.5,..,..,..,..,..
+Gini index,SI.POV.GINI,Gibraltar,GIB,..,..,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Greece,GRC,34.2,36.3,36.1,35.8,36,35,34.4,32.9,33.1,..,..
+Gini index,SI.POV.GINI,Greenland,GRL,..,..,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Grenada,GRD,..,..,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Guam,GUM,..,..,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Guatemala,GTM,54.2,..,..,48.3,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Guinea,GIN,..,33.7,..,..,..,..,..,29.6,..,..,..
+Gini index,SI.POV.GINI,Guinea-Bissau,GNB,..,..,..,..,..,..,..,34.8,..,..,..
+Gini index,SI.POV.GINI,Guyana,GUY,..,..,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Haiti,HTI,..,41.1,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Honduras,HND,..,53.4,50,49.9,49.2,49.8,49.4,48.9,48.2,..,..
+Gini index,SI.POV.GINI,"Hong Kong SAR, China",HKG,..,..,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Hungary,HUN,..,30.8,31.5,30.9,30.4,30.3,30.6,29.6,30,..,..
+Gini index,SI.POV.GINI,Iceland,ISL,..,26.8,25.4,27.8,26.8,27.2,26.1,..,..,..,..
+Gini index,SI.POV.GINI,India,IND,..,..,..,..,34.7,34.8,35.9,34.6,35.7,..,..
+Gini index,SI.POV.GINI,Indonesia,IDN,29.5,40.5,40.8,40.2,40.4,39.3,38.8,38.4,37.6,37.6,37.9
+Gini index,SI.POV.GINI,"Iran, Islamic Rep.",IRN,..,..,37.4,38.8,39.5,40,40.8,42,40.9,..,..
+Gini index,SI.POV.GINI,Iraq,IRQ,..,29.5,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Ireland,IRL,33,33.2,33.5,31.9,31.8,32.8,31.4,30.6,..,..,..
+Gini index,SI.POV.GINI,Isle of Man,IMN,..,..,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Israel,ISR,..,41.6,40.2,39.8,39.7,39,38.2,38.6,..,..,..
+Gini index,SI.POV.GINI,Italy,ITA,35.3,35.2,34.9,34.7,35.4,35.2,35.9,35.2,..,..,..
+Gini index,SI.POV.GINI,Jamaica,JAM,..,..,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Japan,JPN,..,..,32.9,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Jordan,JOR,..,..,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Kazakhstan,KAZ,..,28.2,27.1,27,26.8,27.2,27.5,27.8,..,..,..
+Gini index,SI.POV.GINI,Kenya,KEN,..,..,..,..,40.8,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Kiribati,KIR,..,..,..,..,..,..,..,..,27.8,..,..
+Gini index,SI.POV.GINI,"Korea, Dem. People's Rep.",PRK,..,..,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,"Korea, Rep.",KOR,..,31.6,..,31.2,..,31.4,..,..,..,..,..
+Gini index,SI.POV.GINI,Kosovo,XKX,..,29,26.3,27.3,26.5,26.7,29,..,..,..,..
+Gini index,SI.POV.GINI,Kuwait,KWT,..,..,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Kyrgyz Republic,KGZ,31,27.4,28.8,26.8,29,26.8,27.3,27.7,29.7,29,..
+Gini index,SI.POV.GINI,Lao PDR,LAO,..,36,..,..,..,..,..,38.8,..,..,..
+Gini index,SI.POV.GINI,Latvia,LVA,..,35.2,35.5,35.1,34.2,34.3,35.6,35.1,34.5,..,..
+Gini index,SI.POV.GINI,Lebanon,LBN,..,..,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Lesotho,LSO,..,..,..,..,..,..,44.9,..,..,..,..
+Gini index,SI.POV.GINI,Liberia,LBR,..,..,..,33.2,..,35.3,..,..,..,..,..
+Gini index,SI.POV.GINI,Libya,LBY,..,..,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Liechtenstein,LIE,..,..,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Lithuania,LTU,..,35.1,35.3,37.7,37.4,38.4,37.3,35.7,35.3,..,..
+Gini index,SI.POV.GINI,Luxembourg,LUX,30.4,34.3,32,31.2,32.9,31.7,34.5,35.4,34.2,..,..
+Gini index,SI.POV.GINI,"Macao SAR, China",MAC,..,..,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Madagascar,MDG,..,42.6,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Malawi,MWI,..,..,..,..,..,44.7,..,..,38.5,..,..
+Gini index,SI.POV.GINI,Malaysia,MYS,..,..,41.3,..,41.1,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Maldives,MDV,..,..,..,..,..,31.3,..,..,29.3,..,..
+Gini index,SI.POV.GINI,Mali,MLI,..,..,..,..,..,..,..,36.1,..,..,..
+Gini index,SI.POV.GINI,Malta,MLT,..,29.4,28.8,29,29.4,29.1,29.2,28.7,31,..,..
+Gini index,SI.POV.GINI,Marshall Islands,MHL,..,..,..,..,..,..,..,..,35.5,..,..
+Gini index,SI.POV.GINI,Mauritania,MRT,39,..,..,32.6,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Mauritius,MUS,..,38.5,..,..,..,..,36.8,..,..,..,..
+Gini index,SI.POV.GINI,Mexico,MEX,52.6,48.7,..,48.7,..,47.7,..,46.7,..,45.4,..
+Gini index,SI.POV.GINI,"Micronesia, Fed. Sts.",FSM,..,..,40.1,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Moldova,MDA,36.4,29.2,28.5,26.8,27,26.3,25.9,25.7,26,..,..
+Gini index,SI.POV.GINI,Monaco,MCO,..,..,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Mongolia,MNG,..,33.8,..,32,..,32.3,..,32.7,..,..,..
+Gini index,SI.POV.GINI,Montenegro,MNE,..,41.2,39,38.8,39,38.5,36.9,36.8,..,..,..
+Gini index,SI.POV.GINI,Morocco,MAR,40.6,..,39.5,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Mozambique,MOZ,..,..,..,54,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Myanmar,MMR,..,..,..,..,38.1,..,30.7,..,..,..,..
+Gini index,SI.POV.GINI,Namibia,NAM,..,..,..,..,59.1,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Nauru,NRU,..,34.8,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Nepal,NPL,..,..,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Netherlands,NLD,..,27.6,28.1,28.6,28.2,28.2,28.5,28.1,29.2,..,..
+Gini index,SI.POV.GINI,New Caledonia,NCL,..,..,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,New Zealand,NZL,..,..,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Nicaragua,NIC,..,..,..,46.2,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Niger,NER,..,..,..,34.3,..,..,..,37.3,..,..,..
+Gini index,SI.POV.GINI,Nigeria,NGA,..,35.5,..,..,35.9,..,..,35.1,..,..,..
+Gini index,SI.POV.GINI,North Macedonia,MKD,..,38.1,36.2,35.2,35.6,34.5,34.2,33,..,..,..
+Gini index,SI.POV.GINI,Northern Mariana Islands,MNP,..,..,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Norway,NOR,27.4,25.7,26.4,26.8,27.5,28.5,27,27.6,27.7,..,..
+Gini index,SI.POV.GINI,Oman,OMN,..,..,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Pakistan,PAK,..,..,29.5,..,31.3,..,..,29.6,..,..,..
+Gini index,SI.POV.GINI,Palau,PLW,..,..,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Panama,PAN,56.6,51.7,51.5,50.5,50.8,50.4,49.9,49.2,49.8,..,..
+Gini index,SI.POV.GINI,Papua New Guinea,PNG,..,..,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Paraguay,PRY,..,47.6,47.9,50.7,47.6,47.9,48.5,46,45.7,43.5,..
+Gini index,SI.POV.GINI,Peru,PER,49.1,44.4,43.9,43.1,43.4,43.6,43.3,42.4,41.6,43.8,..
+Gini index,SI.POV.GINI,Philippines,PHL,47.7,46.5,..,..,44.6,..,..,42.3,..,..,..
+Gini index,SI.POV.GINI,Poland,POL,..,33,33.1,32.8,31.8,31.2,29.7,30.2,..,..,..
+Gini index,SI.POV.GINI,Portugal,PRT,..,36,36.2,35.6,35.5,35.2,33.8,33.5,32.8,..,..
+Gini index,SI.POV.GINI,Puerto Rico,PRI,..,..,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Qatar,QAT,..,..,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Romania,ROU,..,36.5,36.9,36,35.9,34.4,36,35.8,34.8,..,..
+Gini index,SI.POV.GINI,Russian Federation,RUS,37.1,40.7,40.9,39.9,37.7,36.8,37.2,37.5,37.7,36,..
+Gini index,SI.POV.GINI,Rwanda,RWA,48.5,..,45.1,..,..,43.7,..,..,..,..,..
+Gini index,SI.POV.GINI,Samoa,WSM,..,..,38.7,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,San Marino,SMR,..,..,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Sao Tome and Principe,STP,32.1,..,..,..,..,..,40.7,..,..,..,..
+Gini index,SI.POV.GINI,Saudi Arabia,SAU,..,..,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Senegal,SEN,..,..,..,..,..,..,..,38.1,..,..,..
+Gini index,SI.POV.GINI,Serbia,SRB,..,39.9,39.5,40.5,40.5,38.8,36.2,35,34.5,..,..
+Gini index,SI.POV.GINI,Seychelles,SYC,..,..,46.8,..,..,..,..,32.1,..,..,..
+Gini index,SI.POV.GINI,Sierra Leone,SLE,..,..,..,..,..,..,..,35.7,..,..,..
+Gini index,SI.POV.GINI,Singapore,SGP,..,..,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Sint Maarten (Dutch part),SXM,..,..,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Slovak Republic,SVK,..,26.1,28.1,26.1,26.5,25.2,23.2,25,23.2,..,..
+Gini index,SI.POV.GINI,Slovenia,SVN,..,25.6,26.2,25.7,25.4,24.8,24.2,24.6,24.4,..,..
+Gini index,SI.POV.GINI,Solomon Islands,SLB,..,37.1,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Somalia,SOM,..,..,..,..,..,..,36.8,..,..,..,..
+Gini index,SI.POV.GINI,South Africa,ZAF,57.8,..,..,63,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,South Sudan,SSD,..,..,..,..,..,44.1,..,..,..,..,..
+Gini index,SI.POV.GINI,Spain,ESP,34.3,35.4,36.2,36.1,36.2,35.8,34.7,34.7,34.3,..,..
+Gini index,SI.POV.GINI,Sri Lanka,LKA,..,38.7,..,..,..,39.3,..,..,..,..,..
+Gini index,SI.POV.GINI,St. Kitts and Nevis,KNA,..,..,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,St. Lucia,LCA,..,..,..,..,..,51.2,..,..,..,..,..
+Gini index,SI.POV.GINI,St. Martin (French part),MAF,..,..,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,St. Vincent and the Grenadines,VCT,..,..,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Sudan,SDN,..,..,..,34.2,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Suriname,SUR,..,..,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Sweden,SWE,27.2,27.6,28.8,28.4,29.2,29.6,28.8,30,29.3,..,..
+Gini index,SI.POV.GINI,Switzerland,CHE,33.4,31.6,32.5,32.5,32.3,33,32.7,33.1,..,..,..
+Gini index,SI.POV.GINI,Syrian Arab Republic,SYR,..,..,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Tajikistan,TJK,..,..,..,..,34,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Tanzania,TZA,37.3,..,..,..,..,..,..,40.5,..,..,..
+Gini index,SI.POV.GINI,Thailand,THA,42.8,39.3,37.8,37,36,36.9,36.5,36.4,34.9,35,..
+Gini index,SI.POV.GINI,Timor-Leste,TLS,..,..,..,28.7,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Togo,TGO,..,..,..,..,43.1,..,..,42.4,..,..,..
+Gini index,SI.POV.GINI,Tonga,TON,37.7,..,..,..,37.6,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Trinidad and Tobago,TTO,..,..,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Tunisia,TUN,40.8,..,..,..,32.8,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Turkiye,TUR,..,40.2,40.2,41.2,42.9,41.9,41.4,41.9,41.9,..,..
+Gini index,SI.POV.GINI,Turkmenistan,TKM,..,..,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Turks and Caicos Islands,TCA,..,..,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Tuvalu,TUV,..,..,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Uganda,UGA,..,41,..,..,..,42.8,..,..,42.7,..,..
+Gini index,SI.POV.GINI,Ukraine,UKR,..,24.7,24.6,24,25.5,25,26,26.1,26.6,25.6,..
+Gini index,SI.POV.GINI,United Arab Emirates,ARE,..,..,32.5,..,..,..,..,26,..,..,..
+Gini index,SI.POV.GINI,United Kingdom,GBR,39.6,32.3,33.2,34,33.2,34.8,35.1,..,..,..,..
+Gini index,SI.POV.GINI,United States,USA,40.1,40.9,40.7,41.5,41.2,41.1,41.2,41.4,41.5,..,..
+Gini index,SI.POV.GINI,Uruguay,URY,..,39.9,40.5,40.1,40.1,39.7,39.5,39.7,39.7,40.2,..
+Gini index,SI.POV.GINI,Uzbekistan,UZB,36.1,..,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Vanuatu,VUT,..,..,..,..,..,..,..,..,32.3,..,..
+Gini index,SI.POV.GINI,"Venezuela, RB",VEN,..,..,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Vietnam,VNM,..,35.6,..,34.8,..,35.3,..,35.7,..,..,..
+Gini index,SI.POV.GINI,Virgin Islands (U.S.),VIR,..,..,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,West Bank and Gaza,PSE,..,..,..,..,..,33.7,..,..,..,..,..
+Gini index,SI.POV.GINI,"Yemen, Rep.",YEM,..,..,..,36.7,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Zambia,ZMB,..,..,..,..,57.1,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Zimbabwe,ZWE,..,..,..,..,..,..,44.3,..,50.3,..,..
+Gini index,SI.POV.GINI,Africa Eastern and Southern,AFE,..,..,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Africa Western and Central,AFW,..,..,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Arab World,ARB,..,..,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Caribbean small states,CSS,..,..,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Central Europe and the Baltics,CEB,..,..,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Early-demographic dividend,EAR,..,..,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,East Asia & Pacific,EAS,..,..,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,East Asia & Pacific (excluding high income),EAP,..,..,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,East Asia & Pacific (IDA & IBRD countries),TEA,..,..,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Euro area,EMU,..,..,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Europe & Central Asia,ECS,..,..,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Europe & Central Asia (excluding high income),ECA,..,..,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Europe & Central Asia (IDA & IBRD countries),TEC,..,..,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,European Union,EUU,..,..,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Fragile and conflict affected situations,FCS,..,..,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Heavily indebted poor countries (HIPC),HPC,..,..,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,High income,HIC,..,..,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,IBRD only,IBD,..,..,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,IDA & IBRD total,IBT,..,..,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,IDA blend,IDB,..,..,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,IDA only,IDX,..,..,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,IDA total,IDA,..,..,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Late-demographic dividend,LTE,..,..,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Latin America & Caribbean,LCN,..,..,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Latin America & Caribbean (excluding high income),LAC,..,..,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Latin America & the Caribbean (IDA & IBRD countries),TLA,..,..,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Least developed countries: UN classification,LDC,..,..,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Low & middle income,LMY,..,..,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Low income,LIC,..,..,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Lower middle income,LMC,..,..,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Middle East & North Africa,MEA,..,..,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Middle East & North Africa (excluding high income),MNA,..,..,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Middle East & North Africa (IDA & IBRD countries),TMN,..,..,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Middle income,MIC,..,..,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,North America,NAC,..,..,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Not classified,INX,..,..,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,OECD members,OED,..,..,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Other small states,OSS,..,..,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Pacific island small states,PSS,..,..,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Post-demographic dividend,PST,..,..,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Pre-demographic dividend,PRE,..,..,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Small states,SST,..,..,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,South Asia,SAS,..,..,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,South Asia (IDA & IBRD),TSA,..,..,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Sub-Saharan Africa,SSF,..,..,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Sub-Saharan Africa (excluding high income),SSA,..,..,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Sub-Saharan Africa (IDA & IBRD countries),TSS,..,..,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,Upper middle income,UMC,..,..,..,..,..,..,..,..,..,..,..
+Gini index,SI.POV.GINI,World,WLD,..,..,..,..,..,..,..,..,..,..,..
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Afghanistan,AFG,..,650,680,650,610,570,540,520,530,500,390
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Albania,ALB,1100,4360,4540,4540,4390,4320,4290,4860,5230,5260,6110
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Algeria,DZA,1610,5220,5540,5510,4880,4400,3970,4010,4050,3600,3660
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,American Samoa,ASM,..,..,..,..,..,..,..,..,..,..,..
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Andorra,AND,..,..,..,..,..,..,..,..,46530,..,..
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Angola,AGO,360,4060,4650,4800,3880,2450,1980,1870,2040,1740,1710
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Antigua and Barbuda,ATG,10220,13180,13040,13230,13370,14170,15000,16680,17310,14530,15780
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Argentina,ARG,7430,11890,12870,12350,12600,12220,13140,12430,11220,9010,9960
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Armenia,ARM,640,3840,4110,4170,4080,3850,4070,4410,4880,4470,4850
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Aruba,ABW,20390,24440,25500,25790,26180,26650,27720,29030,30000,24590,29390
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Australia,AUS,21280,60270,66050,65180,60490,54080,51490,53100,54900,53620,57170
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Austria,AUT,26810,50100,50720,50390,47480,46240,45040,48980,51020,48990,52760
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Azerbaijan,AZE,630,6480,7450,7740,6610,4790,4110,4080,4510,4480,4900
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,"Bahamas, The",BHS,24170,27200,26280,26840,27450,27610,29260,29810,31210,23500,26490
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Bahrain,BHR,10220,23360,24790,24530,22740,21820,21790,23210,24420,22950,..
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Bangladesh,BGD,430,970,1030,1100,1210,1410,1650,2020,2210,2300,2570
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Barbados,BRB,11060,16150,16080,16050,16170,16350,16490,17020,17630,16230,16900
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Belarus,BLR,1380,6630,7030,7620,6750,5640,5320,5730,6370,6400,6940
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Belgium,BEL,25890,47130,47900,47820,45570,43400,42520,46060,48100,46030,50490
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Belize,BLZ,4400,5250,5510,5610,5770,5650,5520,5660,5890,5210,6070
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Benin,BEN,470,1090,1180,1230,1140,1070,1050,1150,1200,1230,1350
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Bermuda,BMU,..,100100,101760,99920,101120,103620,112940,117000,117280,111800,122470
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Bhutan,BTN,700,2330,2350,2400,2470,2600,2760,2940,3130,2840,3040
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Bolivia,BOL,960,2210,2540,2780,2900,2970,3020,3290,3440,3120,3290
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Bosnia and Herzegovina,BIH,1390,4900,5160,5170,5070,4990,4990,5620,6070,6030,6810
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Botswana,BWA,3020,6700,7020,6800,5890,5760,5850,6220,6620,6010,6430
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Brazil,BRA,3910,12270,12750,12080,10160,8890,8670,9140,9220,7820,7740
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,British Virgin Islands,VGB,..,..,..,..,..,..,..,..,..,..,..
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Brunei Darussalam,BRN,14650,41580,44520,42380,38250,32690,29400,29030,31880,31210,30320
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Bulgaria,BGR,1660,7490,7590,7700,7430,7400,7610,8530,9500,9520,11200
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Burkina Faso,BFA,260,710,750,740,680,660,650,730,750,750,830
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Burundi,BDI,140,240,240,250,250,250,250,240,230,220,220
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Cabo Verde,CPV,1310,3250,3310,3190,3050,2980,2930,3240,3460,2920,3190
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Cambodia,KHM,300,880,960,1020,1070,1160,1260,1420,1560,1530,1580
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Cameroon,CMR,720,1450,1510,1570,1520,1450,1400,1500,1540,1520,1590
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Canada,CAN,22750,51080,52800,52200,47590,43890,42900,45080,46540,43540,48310
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Cayman Islands,CYM,..,51400,45330,43860,44970,48480,52670,58820,65680,61880,..
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Central African Republic,CAF,250,530,350,360,370,380,400,450,470,460,480
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Chad,TCD,180,960,970,970,880,730,640,670,690,630,640
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Channel Islands,CHI,43430,..,..,..,..,..,..,..,..,..,..
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Chile,CHL,5080,14310,15230,14830,14210,13440,13340,14600,14830,12990,14780
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,China,CHN,940,5910,6740,7470,7890,8210,8670,9540,10310,10520,11880
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Colombia,COL,2360,7340,8000,8260,7400,6530,6010,6320,6590,5820,6190
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Comoros,COM,730,1500,1580,1580,1470,1410,1370,1480,1520,1520,1580
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,"Congo, Dem. Rep.",COD,130,370,400,430,440,450,440,480,510,540,550
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,"Congo, Rep.",COG,560,3350,3590,3830,2970,2130,1640,1910,1980,1760,1970
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Costa Rica,CRI,3560,9190,9840,10250,10610,11000,11400,11880,12040,11520,12310
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Cote d'Ivoire,CIV,640,1220,1320,1990,2010,2010,2000,2140,2260,2240,2420
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Croatia,HRV,5250,13640,13790,13520,13310,12740,13030,14440,15580,14820,17630
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Cuba,CUB,2620,6080,6620,6820,7220,7480,7950,8630,8920,..,..
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Curacao,CUW,..,..,19890,19760,19520,19030,18960,19430,19700,16690,18430
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Cyprus,CYP,14180,29760,27890,26610,26100,24840,25050,27410,28560,26600,28470
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Czechia,CZE,6340,19440,19410,18900,18370,17670,18310,20560,22120,21800,24430
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Denmark,DNK,32580,61650,63200,63670,60510,58040,56690,61260,63140,62710,68300
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Djibouti,DJI,..,..,..,..,2310,2400,2480,2640,2820,2830,3080
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Dominica,DMA,4300,7060,6910,7210,7030,7400,7380,7890,8250,7140,7790
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Dominican Republic,DOM,2660,5730,5970,6260,6500,6780,7000,7680,7990,7170,8100
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Ecuador,ECU,1560,5380,5800,6100,5980,5820,5890,6110,6100,5560,5960
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,"Egypt, Arab Rep.",EGY,1370,2690,2870,3060,3160,3260,2870,2650,2550,2860,3350
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,El Salvador,SLV,1880,3250,3390,3450,3490,3570,3670,3900,4090,3740,4260
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Equatorial Guinea,GNQ,680,11980,12140,11460,9410,7180,5660,5860,5520,5100,5150
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Eritrea,ERI,290,..,..,..,..,..,..,..,..,..,..
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Estonia,EST,4170,16760,18140,18880,18570,18290,18760,21180,23010,23570,26460
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Eswatini,SWZ,1630,4190,4290,4020,3700,3370,3310,3550,3630,3360,3650
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Ethiopia,ETH,120,400,460,540,590,650,720,780,830,880,940
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Faroe Islands,FRO,..,..,..,..,..,..,..,..,..,..,..
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Fiji,FJI,2170,3930,4470,4750,4840,5020,5120,5680,5610,4680,4500
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Finland,FIN,26480,48970,49510,49420,47180,45530,44840,48210,49940,50100,53510
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,France,FRA,24990,43410,43800,43340,41130,39100,38320,41170,42460,39440,44160
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,French Polynesia,PYF,18560,..,..,..,..,..,..,..,..,..,..
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Gabon,GAB,2990,8660,8920,8930,7660,6810,6280,6610,6950,6830,6440
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,"Gambia, The",GMB,570,700,670,600,580,580,610,670,700,700,740
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Georgia,GEO,790,4150,4530,4740,4410,4080,4040,4460,4690,4260,4700
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Germany,DEU,26180,46560,47220,47640,45780,44280,43760,47490,49220,48050,51660
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Ghana,GHA,330,1480,1780,1820,1870,1750,1820,2050,2150,2230,2280
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Gibraltar,GIB,..,..,..,..,..,..,..,..,..,..,..
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Greece,GRC,..,23180,22430,22010,20190,18640,17960,19080,19690,17960,20000
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Greenland,GRL,20290,..,..,..,..,..,..,..,..,..,..
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Grenada,GRD,4410,6520,6840,6940,7140,7670,8020,8740,8920,7880,8590
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Guam,GUM,..,..,..,..,..,..,..,..,..,..,..
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Guatemala,GTM,1670,3160,3380,3550,3700,3870,4100,4400,4620,4490,4940
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Guinea,GIN,400,690,690,730,750,760,810,850,940,960,1020
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Guinea-Bissau,GNB,200,610,620,620,620,640,660,700,780,740,760
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Guyana,GUY,870,5360,5630,5660,5560,5690,6000,6240,6500,8190,9410
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Haiti,HTI,550,1320,1410,1440,1430,1370,1360,1420,1400,1330,1430
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Honduras,HND,1010,1930,1970,1970,2020,2080,2200,2280,2330,2150,2490
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,"Hong Kong SAR, China",HKG,26930,36340,38570,40240,41180,42970,46380,50050,50480,48550,54460
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Hungary,HUN,4620,13080,13520,13560,13230,13100,13180,14980,16570,16030,17740
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Iceland,ISL,31540,40690,46960,48090,49940,54910,60230,67770,72950,62280,63460
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,India,IND,440,1470,1500,1550,1590,1660,1800,1980,2080,1890,2150
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Indonesia,IDN,570,3550,3710,3600,3420,3400,3530,3850,4070,3900,4180
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,"Iran, Islamic Rep.",IRN,1770,7490,7340,6740,5480,5470,5490,4880,4010,3290,3530
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Iraq,IRQ,1520,5940,6590,6320,5460,5050,4400,4780,5470,4720,4760
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Ireland,IRL,24130,40840,43580,46480,50280,51790,53520,59350,63570,65330,76110
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Isle of Man,IMN,22280,82400,87680,88570,83630,78710,78840,83960,84580,..,..
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Israel,ISR,19960,33020,35080,36670,36640,36970,38320,41690,44070,43310,49290
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Italy,ITA,21910,36220,35570,34910,33000,31970,31380,33850,34930,32410,35990
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Jamaica,JAM,3290,5130,5170,5070,4870,4770,4940,5230,5500,4900,5190
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Japan,JPN,36810,50060,48850,44440,39380,38460,38930,41770,42010,40810,42650
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Jordan,JOR,1690,4180,4240,4040,3860,3830,3920,4090,4200,4070,4170
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Kazakhstan,KAZ,1270,9940,11840,12080,11380,8770,8040,8070,8820,8710,8880
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Kenya,KEN,430,1060,1130,1260,1330,1500,1550,1730,1890,1900,2080
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Kiribati,KIR,1270,2490,2840,3050,3280,2660,2780,3000,3250,2740,2750
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,"Korea, Dem. People's Rep.",PRK,..,..,..,..,..,..,..,..,..,..,..
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,"Korea, Rep.",KOR,11030,25660,26980,28160,28720,29330,30300,32750,33830,33040,35110
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Kosovo,XKX,..,3540,3800,3910,3930,3930,3950,4300,4640,4440,5130
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Kuwait,KWT,19000,49020,51310,50050,41040,34540,30880,32300,34290,..,..
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Kyrgyz Republic,KGZ,280,1040,1190,1250,1180,1110,1110,1220,1240,1180,1180
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Lao PDR,LAO,280,1360,1600,1810,1970,2110,2240,2470,2520,2470,2500
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Latvia,LVA,3320,13800,14850,15340,15110,14800,14870,16560,17830,18240,19790
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Lebanon,LBN,4090,8080,7970,7520,7440,7750,8320,8760,8630,6400,5110
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Lesotho,LSO,590,1480,1430,1320,1280,1230,1150,1180,1270,1150,1210
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Liberia,LBR,..,540,620,630,630,620,630,620,610,600,630
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Libya,LBY,..,13810,12120,9460,8690,7980,10220,11520,10530,7890,8700
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Liechtenstein,LIE,79240,..,..,..,..,..,..,..,..,..,..
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Lithuania,LTU,3210,14100,15340,16070,15190,14890,15280,17470,19080,19680,21740
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Luxembourg,LUX,45690,87950,85160,86760,73530,73730,75800,79770,77500,79580,88190
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,"Macao SAR, China",MAC,14580,58830,67630,70480,60760,62300,68200,74190,73170,44690,46450
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Madagascar,MDG,280,480,500,500,470,450,460,490,510,460,490
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Malawi,MWI,160,450,400,370,350,340,370,430,550,580,620
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Malaysia,MYS,3490,9980,10600,10870,10400,9880,9680,10370,10960,10320,10710
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Maldives,MDV,2050,6790,7060,7640,7990,8450,9040,9700,10160,6780,9600
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Mali,MLI,280,710,750,780,770,750,730,800,820,790,820
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Malta,MLT,10950,22160,23370,24560,25230,23440,24670,27950,29340,26440,30760
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Marshall Islands,MHL,2770,3790,4280,4500,4980,5040,5330,6010,6750,6690,6780
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Mauritania,MRT,710,1790,1890,1790,1690,1560,1570,1710,1790,1790,1950
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Mauritius,MUS,3900,9260,9920,10220,10140,10050,10410,11510,12130,9940,9920
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Mexico,MEX,6280,10180,10400,10640,10310,9530,9060,9350,9660,8750,9590
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,"Micronesia, Fed. Sts.",FSM,2130,3050,3100,3100,3470,3420,3490,3450,4030,4070,3980
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Moldova,MDA,490,3140,3620,3740,3290,3180,3330,3920,4580,4490,5370
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Monaco,MCO,..,..,..,..,..,..,..,..,..,..,..
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Mongolia,MNG,460,3690,4390,4270,3850,3520,3250,3700,3840,3720,3730
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Montenegro,MNE,..,7000,7330,7320,7260,7090,7410,8450,9140,7900,9340
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Morocco,MAR,1400,2970,3090,3470,3360,3140,3160,3380,3500,3250,3620
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Mozambique,MOZ,320,610,680,690,650,540,470,460,490,470,480
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Myanmar,MMR,130,1010,1190,1240,1200,1230,1210,1250,1300,1370,1170
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Namibia,NAM,2210,5800,6020,5870,5380,4810,4700,5000,5270,4650,4650
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Nauru,NRU,..,8610,12410,14030,12690,11650,11150,12980,14400,15240,16920
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Nepal,NPL,220,760,840,860,870,860,970,1110,1220,1180,1220
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Netherlands,NLD,28160,51500,51900,51600,49300,46480,46270,50540,51930,50170,55200
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,New Caledonia,NCL,13210,..,..,..,..,..,..,..,..,..,..
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,New Zealand,NZL,14080,36700,39930,41680,40660,39440,38870,41650,43050,41480,45230
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Nicaragua,NIC,950,1660,1730,1810,1870,1930,2000,1940,1860,1740,1950
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Niger,NER,220,540,570,580,550,520,510,570,590,550,590
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Nigeria,NGA,460,2450,2700,2970,2850,2440,2070,1980,2050,2020,2080
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,North Macedonia,MKD,1920,4770,5030,5220,5130,5000,4940,5500,5890,5730,6190
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Northern Mariana Islands,MNP,..,..,..,..,..,..,..,..,..,..,..
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Norway,NOR,36540,99110,104190,104370,92910,81370,75650,80320,81670,77880,83880
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Oman,OMN,6840,22030,23030,22020,20520,18520,16570,17230,17810,17110,17950
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Pakistan,PAK,450,1040,1120,1160,1190,1300,1440,1610,1570,1420,1470
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Palau,PLW,..,12540,12720,14020,15750,16620,16430,17410,17150,14640,12790
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Panama,PAN,3920,9580,10670,11220,12240,12810,13770,14540,15010,12470,13920
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Papua New Guinea,PNG,600,2160,2360,2810,2670,2520,2390,2400,2510,2470,2460
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Paraguay,PRY,1500,5160,5960,6280,6100,5870,5810,6050,5950,5550,5740
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Peru,PER,1960,5740,6360,6470,6290,6070,6030,6430,6770,6000,6460
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Philippines,PHL,1180,2840,3140,3300,3350,3410,3480,3640,3770,3350,3550
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Poland,POL,4670,13090,13230,13470,13250,12660,12690,14180,15330,15300,16850
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Portugal,PRT,12180,21170,21380,21200,20460,19940,20060,22060,23200,21850,23890
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Puerto Rico,PRI,10550,18680,19170,19280,19420,19710,20000,21010,22040,21240,22580
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Qatar,QAT,..,83990,91130,89830,78040,66030,57190,59150,61720,58370,62310
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Romania,ROU,1710,9200,9390,9760,9610,9460,10030,11520,12670,12700,14160
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Russian Federation,RUS,1710,13490,15190,14630,11780,9730,9210,10250,11280,10740,11610
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Rwanda,RWA,270,690,710,720,730,730,720,770,810,760,840
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Samoa,WSM,..,3560,3720,3790,3930,4080,4050,4060,4230,4000,3810
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,San Marino,SMR,..,..,..,..,..,..,39740,42250,44390,41450,..
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Sao Tome and Principe,STP,..,1220,1420,1620,1640,1680,1690,1860,1960,2100,2260
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Saudi Arabia,SAU,7810,22740,24280,24590,22970,20980,19350,21040,22210,21540,..
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Senegal,SEN,670,1330,1360,1390,1330,1300,1300,1420,1460,1460,1570
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Serbia,SRB,1610,6080,6460,6240,5960,5700,5570,6410,7040,7440,8460
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Seychelles,SYC,7290,11480,12560,13310,14150,14220,14660,15710,16400,14040,14540
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Sierra Leone,SLE,140,530,650,680,540,480,500,470,520,490,500
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Singapore,SGP,23680,51710,54460,56380,53160,53250,54590,56670,58060,55010,64010
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Sint Maarten (Dutch part),SXM,..,..,27540,28670,29560,30890,28210,27510,..,..,..
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Slovak Republic,SVK,5540,17830,18270,18340,17760,16840,16670,18400,19200,19180,20640
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Slovenia,SVN,11270,23260,23240,23620,22270,21790,22140,24650,26040,25400,28280
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Solomon Islands,SLB,940,1840,2130,2160,2100,2110,2150,2320,2390,2340,2320
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Somalia,SOM,..,..,..,..,400,400,380,390,410,410,430
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,South Africa,ZAF,3280,8320,8050,7340,6550,5960,5950,6390,6730,6090,6530
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,South Sudan,SSD,..,800,1090,1170,1040,..,..,..,..,..,..
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Spain,ESP,15790,29540,29230,29160,28460,27570,27120,29330,30360,27130,29690
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Sri Lanka,LKA,870,3460,3630,3810,3920,4020,4230,4360,4220,3930,4030
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,St. Kitts and Nevis,KNA,8850,16800,18220,18420,18370,19320,20020,21530,23340,19420,18820
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,St. Lucia,LCA,5460,9040,8960,8990,8890,9610,10210,10980,11040,8590,9520
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,St. Martin (French part),MAF,..,..,..,..,..,..,..,..,..,..,..
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,St. Vincent and the Grenadines,VCT,3380,6760,7030,6910,7160,7540,7760,8370,8580,8260,8720
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Sudan,SDN,350,1700,1720,1880,1950,2190,2430,1390,940,630,650
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Suriname,SUR,1940,8290,8690,8990,8640,6740,5770,5790,6020,4500,4410
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Sweden,SWE,31610,59090,61800,61870,58420,54360,53030,55690,56420,54740,59540
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Switzerland,CHE,44670,87720,91710,89450,88010,84430,81870,83270,84250,82740,90600
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Syrian Arab Republic,SYR,4100,2650,1280,1080,910,760,730,810,970,760,..
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Tajikistan,TJK,170,1140,1310,1340,1250,1110,1020,1020,1070,1050,1150
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Tanzania,TZA,390,800,880,960,960,950,940,1000,1070,1050,1100
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Thailand,THA,1980,5420,5610,5640,5580,5570,5820,6450,7080,6900,7090
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Timor-Leste,TLS,..,3560,3190,2690,2180,1740,1800,1820,2110,2100,1140
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Togo,TGO,300,580,610,630,630,660,710,860,900,900,960
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Tonga,TON,1990,4130,4320,4350,4210,4220,4440,4710,5130,5200,4930
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Trinidad and Tobago,TTO,5140,16750,18760,19110,19020,16510,15560,15260,15620,13830,15000
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Tunisia,TUN,2230,4190,4240,4250,4070,3870,3650,3650,3540,3230,3540
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Turkiye,TUR,4260,11860,12500,12480,11860,11090,10840,10450,9670,9070,9900
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Turkmenistan,TKM,590,5370,6280,6950,6790,6590,6160,6500,6970,..,..
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Turks and Caicos Islands,TCA,..,..,..,23530,25140,26100,24400,25730,26710,19610,21410
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Tuvalu,TUV,..,4480,5650,4790,5690,5490,5320,6160,6640,6750,7200
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Uganda,UGA,270,830,810,830,850,820,760,740,750,740,760
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Ukraine,UKR,680,3650,3950,3560,2800,2360,2360,2750,3310,3570,4120
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,United Arab Emirates,ARE,30050,41810,45850,47420,46270,44460,42090,44350,46210,41770,..
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,United Kingdom,GBR,29390,41810,42800,44590,44480,43150,41740,42180,43380,38590,44480
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,United States,USA,35960,52790,53990,55800,56620,57140,59220,63460,66130,64650,70930
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Uruguay,URY,7120,13360,15360,15830,15670,15490,15990,17390,17940,15950,16080
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Uzbekistan,UZB,630,2160,2430,2600,2740,2790,2470,2110,1870,1740,1960
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Vanuatu,VUT,1370,2750,2930,2930,2770,2780,2860,3120,3400,3180,3240
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,"Venezuela, RB",VEN,4080,12660,11950,13010,..,..,..,..,..,..,..
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Vietnam,VNM,380,1980,2200,2400,2480,2580,2720,3060,3340,3450,3590
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Virgin Islands (U.S.),VIR,..,..,..,..,..,..,..,..,..,..,..
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,West Bank and Gaza,PSE,1550,3210,3470,3560,3670,3900,3930,4190,4270,3700,4220
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,"Yemen, Rep.",YEM,400,1180,1340,1360,1110,1070,1000,840,..,..,..
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Zambia,ZMB,350,1660,1720,1760,1540,1340,1270,1400,1390,1130,1030
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Zimbabwe,ZWE,360,1120,1200,1210,1220,1200,1170,1550,1450,1460,1530
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Africa Eastern and Southern,AFE,656.09772881483,1678.43940992109,1710.5820512195,1690.9131406804,1572.69859975041,1463.69360115896,1451.18035679475,1465.27234002172,1506.5407603026,1396.4941554623,1464.793990883
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Africa Western and Central,AFW,452.032441876719,1763.8469502574,1923.71192471764,2096.81512281744,2004.97865753491,1771.3353379403,1587.39758163512,1604.62824423315,1663.33566697215,1644.35987292588,1707.39401079414
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Arab World,ARB,2571.30794221632,6875.57797183898,7270.98178224833,7347.76135585306,6880.57258126558,6458.66432535867,6022.64341256995,6170.04073551384,6335.74190784422,5887.94975582211,..
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Caribbean small states,CSS,4871.58489757731,9710.10120523966,10168.3636140959,10275.9349685145,10193.205557395,9575.17340217441,9534.34662982664,9751.07608790408,10119.4298699344,8919.90615587807,9683.17427186508
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Central Europe and the Baltics,CEB,4088.87152400984,13146.2571602127,13389.0483586529,13552.2810393452,13242.6592062679,12820.8256330702,13065.080761949,14694.980825883,15938.8804564374,15847.036058119,17615.3413333087
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Early-demographic dividend,EAR,1261.70042847804,3259.49761747032,3380.77552282647,3410.35149189932,3289.75681716091,3250.97832462271,3309.66140853737,3477.67919641391,3536.42634611312,3269.37998041787,3589.00039119704
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,East Asia & Pacific,EAS,3869.02986863337,9123.05525625103,9715.74619772677,9937.77550620998,9818.74679239092,9894.1278068207,10229.4154488925,11095.6098433751,11689.5619451253,11637.0379535244,12736.9646190111
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,East Asia & Pacific (excluding high income),EAP,909.622016832776,5069.68784779634,5697.66284868527,6195.98514275057,6446.30472079073,6652.98304067034,6991.64902099891,7670.94844112187,8257.33631951188,8333.18881979293,9290.98025682592
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,East Asia & Pacific (IDA & IBRD countries),TEA,920.333710922744,5127.16108735641,5761.99245910014,6265.70277774209,6518.63361291748,6727.42655398279,7069.64154903099,7756.3495354118,8349.15084607972,8425.80529949925,9394.30700772658
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Euro area,EMU,22174.4427251698,39241.8956300111,39448.8356188936,39368.7566765567,37711.7907063138,36336.4331891886,35845.979539049,38830.8460889575,40238.1621038257,38208.3624623572,41954.2637219317
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Europe & Central Asia,ECS,12551.0418012036,25321.1676311458,26007.3692260589,26042.1920152552,24657.5955236399,23341.9433616601,22858.4490445296,24421.8419227528,25339.6158215044,24016.353297926,26492.5008313303
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Europe & Central Asia (excluding high income),ECA,1788.82953442623,9321.64680048007,10295.6717220167,10166.9105116786,8795.74599268056,7623.76364292296,7292.99213770283,7680.9257919499,8044.57390894101,7709.00969555312,8383.81147568592
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Europe & Central Asia (IDA & IBRD countries),TEC,2073.56102883743,9678.86682879894,10537.6502464801,10458.9081989278,9245.69061545571,8168.97389038063,7909.10875115322,8440.22860606447,8905.62142789577,8602.99141660483,9392.72523667649
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,European Union,EUU,18501.4889594288,34500.9453401007,34798.4228387391,34799.2050881674,33395.8086161454,32171.8132922779,31826.6017470771,34565.5897952484,35947.6039601999,34342.194393698,37778.7765764489
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Fragile and conflict affected situations,FCS,711.557308925329,2160.88304466224,2222.12559139151,2276.89049012406,2012.49331683031,1852.97496164195,1746.91761928377,1753.01404273674,1823.1862305535,1724.4306967291,1771.29381438038
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Heavily indebted poor countries (HIPC),HPC,328.063672297094,850.754014873672,904.926422192419,967.433000327666,959.273692173477,948.290578588687,959.43777491243,960.695742902471,975.216855672087,944.523541965164,989.051202212659
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,High income,HIC,25393.571997613,41953.1737401366,42769.7368460453,42952.4523077504,41729.7991588171,40860.2927861174,41144.7089324209,44022.5891132743,45590.9176020872,43945.3132689393,48120.4046853874
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,IBRD only,IBD,1413.63164285176,5293.67636556683,5716.24723253057,5898.76877742754,5717.47918171859,5602.14738680128,5729.64081411888,6164.04998777206,6491.01270200618,6258.71426464472,6894.7400198538
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,IDA & IBRD total,IBT,1202.43702002963,4290.15922420233,4619.36924901747,4768.41527383682,4621.34007161659,4521.14160840839,4605.05426099602,4930.54786910936,5168.28295588794,4971.89230496187,5441.04268368905
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,IDA blend,IDB,484.695619340796,1670.81135859753,1827.21241421313,1971.57520725825,1949.20393004073,1855.40939983938,1754.36002878362,1806.03630011415,1815.73183060823,1736.05157527129,1813.78485266033
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,IDA only,IDX,405.479771149089,906.581939880541,940.203676677596,991.850577536429,994.83557227114,1020.44343887215,1068.47579421733,1125.60305676511,1174.23906261622,1161.18664915192,1224.35278093563
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,IDA total,IDA,431.131057464386,1166.24765790391,1241.58861621327,1324.52308583587,1318.32234749333,1302.3816598111,1298.96497350618,1353.6237554757,1388.17985354113,1351.99676815884,1419.47109387657
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Late-demographic dividend,LTE,1631.5651903137,7476.65929021498,8266.5497215021,8676.77297128393,8502.67309891127,8345.94651253842,8551.58107440763,9347.4468969478,10011.9258232859,9882.48194002381,10915.8889249877
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Latin America & Caribbean,LCN,4149.71911078006,9804.86531967554,10220.7411481639,10109.312282251,9147.32471671375,8427.13082496141,8314.25058686458,8649.37737408857,8750.08024168911,7637.29501208513,8067.68934835886
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Latin America & Caribbean (excluding high income),LAC,4017.66758325225,9370.63854773397,9815.19696581113,9639.46182308021,8813.20303716826,8077.98065433677,7945.84814181356,8225.05479942416,8290.74141845055,7217.58711016721,7578.61113577702
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Latin America & the Caribbean (IDA & IBRD countries),TLA,4107.54717749104,9789.19391765834,10204.010116566,10085.6485529189,9090.98227889243,8345.70709355853,8219.82066860992,8546.76004598957,8637.52224577414,7528.00368763588,7949.24243892764
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Least developed countries: UN classification,LDC,296.610278859673,897.866277421949,972.348210445515,1019.55075681937,998.097746303826,989.9045922313,1025.64479346822,1069.57059898457,1117.34273193197,1100.57553235434,1151.24540187744
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Low & middle income,LMY,1135.78304242274,4114.46303244528,4447.72098812056,4593.37637207276,4470.32402343136,4378.5093872561,4461.71890691484,4770.65882852877,4997.45517543446,4809.6149768664,5261.8886760688
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Low income,LIC,241.091320204543,678.634750332994,716.106792692254,753.801913089711,748.936026339914,754.077604970798,771.981713367437,747.251534738083,742.527470533313,714.255627530641,741.177946630524
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Lower middle income,LMC,589.742573935967,2035.74033956842,2141.62855586869,2188.06065832484,2139.86023328829,2145.14709598459,2196.31573184798,2336.28434535878,2407.14528820728,2266.69466784845,2469.50286360092
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Middle East & North Africa,MEA,3019.21165280458,8191.56249996413,8568.54113301124,8551.24196210023,7889.21420316551,7494.506642922,7110.94063343988,7305.99999723217,7399.35004152521,6875.7514071594,..
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Middle East & North Africa (excluding high income),MNA,1746.19187948778,4563.9994040883,4603.915371353,4484.79337494827,4036.77093817886,3930.34430492667,3755.01192520901,3651.9893294447,3505.47417640059,3170.9469933686,3408.54912107021
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Middle East & North Africa (IDA & IBRD countries),TMN,1747.98285288181,4579.36188594414,4616.78401301092,4495.33028832306,4040.97393965268,3930.6906244917,3753.0003720713,3645.75792935395,3496.41770373378,3164.70037337768,3398.75594488293
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Middle income,MIC,1200.77965057776,4469.0298751434,4844.43094812363,5008.20959922947,4879.91000861288,4784.20586655204,4881.80270474615,5237.68405648685,5498.9144536103,5302.22429198109,5815.37711751504
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,North America,NAC,34671.6090292637,52633.0427682045,53881.1887148419,55444.9658446565,55719.485041468,55812.9915428196,57582.4013153431,61593.9241265802,64128.6714705055,62488.0170347019,68598.5211090901
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Not classified,INX,..,..,..,..,..,..,..,..,..,..,..
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,OECD members,OED,23151.8055963648,37749.0483223153,38388.9664671071,38486.2760699039,37349.1116886939,36478.1296209487,36656.9105962931,39078.0696921693,40340.5064422511,38769.1388015698,42359.9782420971
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Other small states,OSS,..,13579.2004240541,14620.0707378935,14774.924739397,13724.905107873,12584.9732509508,11906.1989913535,12651.0520335438,13290.5805248121,12225.2738710423,12741.3436067046
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Pacific island small states,PSS,1821.09933914997,3250.87128382491,3614.63008536847,3753.46870132374,3797.59948120673,3837.64940789299,3898.34930824358,4214.89563281198,4314.41634237206,3876.43904241035,3768.69922016764
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Post-demographic dividend,PST,26132.5388845769,42949.7717561692,43698.118703008,43832.4095943134,42595.4151005509,41796.4482783664,42197.8652531666,45144.1917279074,46734.8244639271,45041.7229218339,49294.4441008697
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Pre-demographic dividend,PRE,413.227984150824,1539.31560784638,1674.84637888184,1773.46743647549,1660.72757219247,1496.28432123673,1367.46424091824,1352.7687212956,1411.32682291181,1335.63248306635,1374.77784271279
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Small states,SST,..,12183.5124872506,13084.2252814415,13246.3391021393,12460.9445318554,11501.9842144563,10992.8809546922,11622.9647334053,12187.6837722267,11139.8385016452,11665.1096232184
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,South Asia,SAS,440.043674207922,1371.72977150465,1417.83440046726,1460.97802858948,1505.72899426982,1594.29126267841,1737.6368272679,1928.16657550113,2012.08892610671,1856.25278551825,2076.15606807919
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,South Asia (IDA & IBRD),TSA,440.043674207922,1371.72977150465,1417.83440046726,1460.97802858948,1505.72899426982,1594.29126267841,1737.6368272679,1928.16657550113,2012.08892610671,1856.25278551825,2076.15606807919
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Sub-Saharan Africa,SSF,573.190532991773,1712.41779388848,1796.54276789327,1855.34605275464,1747.84308473006,1588.02637878846,1505.54900056252,1520.90333799519,1569.23333281082,1496.42270407146,1562.49239906083
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Sub-Saharan Africa (excluding high income),SSA,572.37466275108,1711.49055326571,1795.52933265749,1854.28046147281,1746.69412725078,1586.87120187112,1504.36260687371,1519.64475421937,1567.93991637932,1495.34924103144,1561.40125477889
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Sub-Saharan Africa (IDA & IBRD countries),TSS,573.190532991773,1712.41779388848,1796.54276789327,1855.34605275464,1747.84308473006,1588.02637878846,1505.54900056252,1520.90333799519,1569.23333281082,1496.42270407146,1562.49239906083
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Upper middle income,UMC,1897.35575652361,7561.51480870935,8302.61186018702,8640.25564988325,8432.21617456315,8229.45890263795,8411.93580460326,9079.36883226322,9623.76794149482,9386.55347355044,10358.1133038518
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,World,WLD,5494.77968934247,10461.9305280478,10829.3972355034,10944.2497653048,10585.0858855014,10329.9035945426,10408.1522869223,11095.2902947011,11497.8768374069,11039.5528942982,12025.5386619663
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+Data from database: World Development Indicators,,,,,,,,,,,,,,
+Last Updated: 03/01/2023,,,,,,,,,,,,,,
