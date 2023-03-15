@@ -1,6 +1,6 @@
 iso3,country,income_level,inequality_level,gnipc,gini,gnipc_year,gini_year
 ABW,Aruba,high,,29390.0,,2021-01-01,
-AFG,Afghanistan,low,,390.0,,2021-01-01,
+AFG,Afghanistan,low,low,390.0,29.4,2021-01-01,2008-01-01
 AGO,Angola,low,high,1710.0,51.3,2021-01-01,2018-01-01
 ALB,Albania,low,low,6110.0,30.8,2021-01-01,2019-01-01
 AND,Andorra,high,,46530.0,,2019-01-01,
@@ -10,7 +10,7 @@ ARM,Armenia,low,low,4850.0,25.2,2021-01-01,2020-01-01
 ATG,Antigua and Barbuda,high,,15780.0,,2021-01-01,
 AUS,Australia,high,low,57170.0,34.3,2021-01-01,2018-01-01
 AUT,Austria,high,low,52760.0,30.2,2021-01-01,2019-01-01
-AZE,Azerbaijan,low,low,4900.0,26.6,2021-01-01,2005-01-01
+AZE,Azerbaijan,low,low,4900.0,33.7,2021-01-01,2008-01-01
 BDI,Burundi,low,high,220.0,38.6,2021-01-01,2013-01-01
 BEL,Belgium,high,low,50490.0,27.2,2021-01-01,2019-01-01
 BEN,Benin,low,high,1350.0,37.8,2021-01-01,2018-01-01
@@ -74,10 +74,10 @@ GNB,Guinea-Bissau,low,low,760.0,34.8,2021-01-01,2018-01-01
 GNQ,Equatorial Guinea,low,,5150.0,,2021-01-01,
 GRC,Greece,high,low,20000.0,33.1,2021-01-01,2019-01-01
 GRD,Grenada,high,,8590.0,,2021-01-01,
-GRL,Greenland,high,,34800.0,,2007-01-01,
+GRL,Greenland,high,low,34800.0,33.9,2007-01-01,2015-01-01
 GTM,Guatemala,low,high,4940.0,48.3,2021-01-01,2014-01-01
-GUY,Guyana,high,,9410.0,,2021-01-01,
-HKG,"Hong Kong SAR, China",high,,54460.0,,2021-01-01,
+GUY,Guyana,high,high,9410.0,44.6,2021-01-01,2007-01-01
+HKG,"Hong Kong SAR, China",high,high,54460.0,53.9,2021-01-01,2016-01-01
 HND,Honduras,low,high,2490.0,48.2,2021-01-01,2019-01-01
 HRV,Croatia,high,low,17630.0,28.9,2021-01-01,2019-01-01
 HTI,Haiti,low,high,1430.0,41.1,2021-01-01,2012-01-01
@@ -91,13 +91,13 @@ IRQ,Iraq,low,low,4760.0,29.5,2021-01-01,2012-01-01
 ISL,Iceland,high,low,63460.0,26.1,2021-01-01,2017-01-01
 ISR,Israel,high,high,49290.0,38.6,2021-01-01,2018-01-01
 ITA,Italy,high,low,35990.0,35.2,2021-01-01,2018-01-01
-JAM,Jamaica,low,high,5190.0,45.5,2021-01-01,2004-01-01
+JAM,Jamaica,low,low,5190.0,35.0,2021-01-01,2016-01-01
 JOR,Jordan,low,low,4170.0,33.7,2021-01-01,2010-01-01
 JPN,Japan,high,low,42650.0,32.9,2021-01-01,2013-01-01
 KAZ,Kazakhstan,high,low,8880.0,27.8,2021-01-01,2018-01-01
 KEN,Kenya,low,high,2080.0,40.8,2021-01-01,2015-01-01
 KGZ,Kyrgyz Republic,low,low,1180.0,29.0,2021-01-01,2020-01-01
-KHM,Cambodia,low,,1580.0,,2021-01-01,
+KHM,Cambodia,low,high,1580.0,37.9,2021-01-01,2008-01-01
 KIR,Kiribati,low,low,2750.0,27.8,2021-01-01,2019-01-01
 KNA,St. Kitts and Nevis,high,,18820.0,,2021-01-01,
 KOR,"Korea, Rep.",high,low,35110.0,31.4,2021-01-01,2016-01-01
@@ -113,7 +113,7 @@ LSO,Lesotho,low,high,1210.0,44.9,2021-01-01,2017-01-01
 LTU,Lithuania,high,low,21740.0,35.3,2021-01-01,2019-01-01
 LUX,Luxembourg,high,low,88190.0,34.2,2021-01-01,2019-01-01
 LVA,Latvia,high,low,19790.0,34.5,2021-01-01,2019-01-01
-MAC,"Macao SAR, China",high,,46450.0,,2021-01-01,
+MAC,"Macao SAR, China",high,low,46450.0,35.0,2021-01-01,2013-01-01
 MAR,Morocco,low,high,3620.0,39.5,2021-01-01,2013-01-01
 MDA,Moldova,low,low,5370.0,26.0,2021-01-01,2019-01-01
 MDG,Madagascar,low,high,490.0,42.6,2021-01-01,2012-01-01
@@ -154,15 +154,15 @@ PRT,Portugal,high,low,23890.0,32.8,2021-01-01,2019-01-01
 PRY,Paraguay,low,high,5740.0,43.5,2021-01-01,2020-01-01
 PSE,West Bank and Gaza,low,low,4220.0,33.7,2021-01-01,2016-01-01
 PYF,French Polynesia,high,,18560.0,,2000-01-01,
-QAT,Qatar,high,,62310.0,,2021-01-01,
+QAT,Qatar,high,high,62310.0,41.1,2021-01-01,2007-01-01
 ROU,Romania,high,low,14160.0,34.8,2021-01-01,2019-01-01
 RUS,Russian Federation,high,high,11610.0,36.0,2021-01-01,2020-01-01
 RWA,Rwanda,low,high,840.0,43.7,2021-01-01,2016-01-01
-SAU,Saudi Arabia,high,,21540.0,,2020-01-01,
+SAU,Saudi Arabia,high,high,21540.0,45.9,2020-01-01,2013-01-01
 SDN,Sudan,low,low,650.0,34.2,2021-01-01,2014-01-01
 SEN,Senegal,low,high,1570.0,38.1,2021-01-01,2018-01-01
-SGP,Singapore,high,,64010.0,,2021-01-01,
-SLB,Solomon Islands,low,high,2320.0,37.1,2021-01-01,2012-01-01
+SGP,Singapore,high,high,64010.0,45.9,2021-01-01,2017-01-01
+SLB,Solomon Islands,low,high,2320.0,37.1,2021-01-01,2013-01-01
 SLE,Sierra Leone,low,low,500.0,35.7,2021-01-01,2018-01-01
 SLV,El Salvador,low,high,4260.0,38.8,2021-01-01,2019-01-01
 SMR,San Marino,high,,41450.0,,2020-01-01,
@@ -197,7 +197,7 @@ URY,Uruguay,high,high,16080.0,40.2,2021-01-01,2020-01-01
 USA,United States,high,high,70930.0,41.5,2021-01-01,2019-01-01
 UZB,Uzbekistan,low,low,1960.0,35.3,2021-01-01,2003-01-01
 VCT,St. Vincent and the Grenadines,high,,8720.0,,2021-01-01,
-VEN,"Venezuela, RB",high,high,13010.0,44.8,2014-01-01,2006-01-01
+VEN,"Venezuela, RB",high,high,13010.0,39.0,2014-01-01,2011-01-01
 VNM,Vietnam,low,low,3590.0,35.7,2021-01-01,2018-01-01
 VUT,Vanuatu,low,low,3240.0,32.3,2021-01-01,2019-01-01
 WSM,Samoa,low,high,3810.0,38.7,2021-01-01,2013-01-01
