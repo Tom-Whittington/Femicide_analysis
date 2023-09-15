@@ -5,5 +5,9 @@ The basic idea is to repeat the analysis in the attached paper using this update
 
 Just like before we would have to merge this new UNODC dataset with our existing anti-femicide dataset to do the analysis. But unlike before, this new dataset has rates per 100,000 so we don’t need to calculate these specially.
 
+shapefile taken from:
+
+https://public.opendatasoft.com/explore/dataset/country_shapes/table/
+
 # To do
 
